@@ -1,0 +1,17 @@
+{
+  "name": "mavo-website",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node server.mjs",
+    "test": "node qa/seo-static-check.mjs",
+    "test:links": "node qa/site-links-check.mjs",
+    "test:members": "node --test members-api.test.mjs",
+    "test:llms": "node qa/llms-check.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

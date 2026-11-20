@@ -1,0 +1,17 @@
+{
+  "origin": "",
+  "indexable": false,
+  "name": "MAVO",
+  "language": "th-TH",
+  "locale": "th_TH",
+  "contact": {
+    "lineOAUrl": "https://line.me/R/ti/p/%40mavo",
+    "email": "sales@mavo.com",
+    "phones": [
+      {"label": "02-101-1644", "href": "tel:+6621011644"},
+      {"label": "082-442-6266", "href": "tel:+66824426266"}
+    ],
+    "facebook": {"name": "Mavothai", "url": "https://www.facebook.com/Mavothai"},
+    "youtube": {"name": "Mavothai", "url": "https://www.youtube.com/@Mavothai"}
+  }
+}

@@ -1,0 +1,2474 @@
+{
+  "vatRate": 0.07,
+  "vatSource": "https://www.rd.go.th/fileadmin/user_upload/news/2569thai/news19_2569.pdf",
+  "observedDate": "2026-11-19",
+  "records": [
+    {
+      "sku": "MAV-TN1000",
+      "brand": "BROTHER",
+      "model": "TN1000",
+      "color": "ไม่ระบุ",
+      "salePrice": 325,
+      "salePriceIncVat": 347.75,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN1000",
+          "sourcePrice": 1280,
+          "vatBasis": "included",
+          "priceExVat": 1196.2616822429907,
+          "priceIncVat": 1280,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-1000-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-1000-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN2060",
+      "brand": "BROTHER",
+      "model": "TN2060",
+      "color": "ไม่ระบุ",
+      "salePrice": 550,
+      "salePriceIncVat": 588.5,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN2060",
+          "sourcePrice": 1060,
+          "vatBasis": "included",
+          "priceExVat": 990.6542056074766,
+          "priceIncVat": 1060,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-2060-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-2060-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN2260-2280",
+      "brand": "BROTHER",
+      "model": "TN2260/2280",
+      "color": "ไม่ระบุ",
+      "salePrice": 450,
+      "salePriceIncVat": 481.5,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN2260",
+          "sourcePrice": 1530,
+          "vatBasis": "included",
+          "priceExVat": 1429.9065420560746,
+          "priceIncVat": 1530,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-2260-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-2260-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        },
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN2280",
+          "sourcePrice": 2530,
+          "vatBasis": "included",
+          "priceExVat": 2364.4859813084113,
+          "priceIncVat": 2530,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-2280-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-2280-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN2355",
+      "brand": "BROTHER",
+      "model": "TN2355",
+      "color": "ไม่ระบุ",
+      "salePrice": 825,
+      "salePriceIncVat": 882.75,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN2355",
+          "sourcePrice": 2590,
+          "vatBasis": "unknown",
+          "priceExVat": null,
+          "priceIncVat": null,
+          "sourceUrl": "https://samsamut.com/brother/toner-brother/brother-tn2355",
+          "sourceTitle": "Samsamut",
+          "vatEvidenceUrl": null,
+          "observedDate": "2026-11-19",
+          "availability": "unknown",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": "Exact original Thai listing found at THB 2,590, but VAT basis remains unverified; cannot calculate comparable before/after VAT prices or savings."
+    },
+    {
+      "sku": "MAV-TN2360-2380",
+      "brand": "BROTHER",
+      "model": "TN2360/2380",
+      "color": "ไม่ระบุ",
+      "salePrice": 450,
+      "salePriceIncVat": 481.5,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN2360",
+          "sourcePrice": 1190,
+          "vatBasis": "included",
+          "priceExVat": 1112.1495327102803,
+          "priceIncVat": 1190,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-2360-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-2360-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        },
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN2380",
+          "sourcePrice": 2190,
+          "vatBasis": "included",
+          "priceExVat": 2046.7289719626167,
+          "priceIncVat": 2190,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-2380-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-2380-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN240-BK",
+      "brand": "BROTHER",
+      "model": "TN240",
+      "color": "ดำ (BK)",
+      "salePrice": 700,
+      "salePriceIncVat": 749,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN240BK",
+          "sourcePrice": 2050,
+          "vatBasis": "included",
+          "priceExVat": 1915.8878504672896,
+          "priceIncVat": 2050,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-240-bk-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-240-bk-black/",
+          "observedDate": "2026-11-19",
+          "availability": "unavailable",
+          "stockDetail": null,
+          "priceKind": "reference"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN240-C",
+      "brand": "BROTHER",
+      "model": "TN240",
+      "color": "ฟ้า (C)",
+      "salePrice": 700,
+      "salePriceIncVat": 749,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN240C",
+          "sourcePrice": 1870,
+          "vatBasis": "included",
+          "priceExVat": 1747.663551401869,
+          "priceIncVat": 1870,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-240-c-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-240-c-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "unavailable",
+          "stockDetail": null,
+          "priceKind": "reference"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN240-M",
+      "brand": "BROTHER",
+      "model": "TN240",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 700,
+      "salePriceIncVat": 749,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN240M",
+          "sourcePrice": 1870,
+          "vatBasis": "included",
+          "priceExVat": 1747.663551401869,
+          "priceIncVat": 1870,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-240-m-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-240-m-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "unavailable",
+          "stockDetail": null,
+          "priceKind": "reference"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN240-Y",
+      "brand": "BROTHER",
+      "model": "TN240",
+      "color": "เหลือง (Y)",
+      "salePrice": 700,
+      "salePriceIncVat": 749,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN240Y",
+          "sourcePrice": 1870,
+          "vatBasis": "included",
+          "priceExVat": 1747.663551401869,
+          "priceIncVat": 1870,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-240-y-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-240-y-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "unavailable",
+          "stockDetail": null,
+          "priceKind": "reference"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN2460-2480",
+      "brand": "BROTHER",
+      "model": "TN2460/2480",
+      "color": "ไม่ระบุ",
+      "salePrice": 450,
+      "salePriceIncVat": 481.5,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN2460",
+          "sourcePrice": 1340,
+          "vatBasis": "included",
+          "priceExVat": 1252.3364485981308,
+          "priceIncVat": 1340,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-2460-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-2460-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        },
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN2480",
+          "sourcePrice": 2650,
+          "vatBasis": "included",
+          "priceExVat": 2476.6355140186915,
+          "priceIncVat": 2650,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-2480-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-2480-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN2560",
+      "brand": "BROTHER",
+      "model": "TN2560",
+      "color": "ไม่ระบุ",
+      "salePrice": 860,
+      "salePriceIncVat": 920.2,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN2560",
+          "sourcePrice": 1190,
+          "vatBasis": "included",
+          "priceExVat": 1112.1495327102803,
+          "priceIncVat": 1190,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-2560-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-2560-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN261-BK",
+      "brand": "BROTHER",
+      "model": "TN261",
+      "color": "ดำ (BK)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN261BK",
+          "sourcePrice": 2640,
+          "vatBasis": "included",
+          "priceExVat": 2467.289719626168,
+          "priceIncVat": 2640,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-261-bk-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-261-bk-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN261-C",
+      "brand": "BROTHER",
+      "model": "TN261",
+      "color": "ฟ้า (C)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN261C",
+          "sourcePrice": 2280,
+          "vatBasis": "included",
+          "priceExVat": 2130.841121495327,
+          "priceIncVat": 2280,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-261-c-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-261-c-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN261-M",
+      "brand": "BROTHER",
+      "model": "TN261",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN261M",
+          "sourcePrice": 2280,
+          "vatBasis": "included",
+          "priceExVat": 2130.841121495327,
+          "priceIncVat": 2280,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-261-m-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-261-m-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN261-Y",
+      "brand": "BROTHER",
+      "model": "TN261",
+      "color": "เหลือง (Y)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN261Y",
+          "sourcePrice": 2280,
+          "vatBasis": "included",
+          "priceExVat": 2130.841121495327,
+          "priceIncVat": 2280,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-261-y-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-261-y-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN263-BK",
+      "brand": "BROTHER",
+      "model": "TN263",
+      "color": "ดำ (BK)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN263BK",
+          "sourcePrice": 1900,
+          "vatBasis": "included",
+          "priceExVat": 1775.700934579439,
+          "priceIncVat": 1900,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-263-bk-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-263-bk-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN263-C",
+      "brand": "BROTHER",
+      "model": "TN263",
+      "color": "ฟ้า (C)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN263C",
+          "sourcePrice": 2280,
+          "vatBasis": "included",
+          "priceExVat": 2130.841121495327,
+          "priceIncVat": 2280,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-263-c-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-263-c-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN263-M",
+      "brand": "BROTHER",
+      "model": "TN263",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN263M",
+          "sourcePrice": 2280,
+          "vatBasis": "included",
+          "priceExVat": 2130.841121495327,
+          "priceIncVat": 2280,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-263-m-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-263-m-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN263-Y",
+      "brand": "BROTHER",
+      "model": "TN263",
+      "color": "เหลือง (Y)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN263Y",
+          "sourcePrice": 2280,
+          "vatBasis": "included",
+          "priceExVat": 2130.841121495327,
+          "priceIncVat": 2280,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-263-y-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-263-y-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN267-BK",
+      "brand": "BROTHER",
+      "model": "TN267",
+      "color": "ดำ (BK)",
+      "salePrice": 825,
+      "salePriceIncVat": 882.75,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN267BK",
+          "sourcePrice": 2870,
+          "vatBasis": "included",
+          "priceExVat": 2682.2429906542056,
+          "priceIncVat": 2870,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-267-bk-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-267-bk-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN267-C",
+      "brand": "BROTHER",
+      "model": "TN267",
+      "color": "ฟ้า (C)",
+      "salePrice": 825,
+      "salePriceIncVat": 882.75,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN267C",
+          "sourcePrice": 3230,
+          "vatBasis": "included",
+          "priceExVat": 3018.6915887850464,
+          "priceIncVat": 3230,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-267-c-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-267-c-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN267-M",
+      "brand": "BROTHER",
+      "model": "TN267",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 825,
+      "salePriceIncVat": 882.75,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN267M",
+          "sourcePrice": 3230,
+          "vatBasis": "included",
+          "priceExVat": 3018.6915887850464,
+          "priceIncVat": 3230,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-267-m-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-267-m-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN267-Y",
+      "brand": "BROTHER",
+      "model": "TN267",
+      "color": "เหลือง (Y)",
+      "salePrice": 825,
+      "salePriceIncVat": 882.75,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN267Y",
+          "sourcePrice": 3230,
+          "vatBasis": "included",
+          "priceExVat": 3018.6915887850464,
+          "priceIncVat": 3230,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-267-y-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-267-y-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN269-BK",
+      "brand": "BROTHER",
+      "model": "TN269",
+      "color": "ดำ (BK)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN269BK",
+          "sourcePrice": 1820,
+          "vatBasis": "included",
+          "priceExVat": 1700.9345794392523,
+          "priceIncVat": 1820,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-269-bk-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-269-bk-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN269-C",
+      "brand": "BROTHER",
+      "model": "TN269",
+      "color": "ฟ้า (C)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN269C",
+          "sourcePrice": 2090,
+          "vatBasis": "included",
+          "priceExVat": 1953.271028037383,
+          "priceIncVat": 2090,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-269-c-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-269-c-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN269-M",
+      "brand": "BROTHER",
+      "model": "TN269",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN269M",
+          "sourcePrice": 2090,
+          "vatBasis": "included",
+          "priceExVat": 1953.271028037383,
+          "priceIncVat": 2090,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-269-m-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-269-m-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN269-Y",
+      "brand": "BROTHER",
+      "model": "TN269",
+      "color": "เหลือง (Y)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN269Y",
+          "sourcePrice": 2090,
+          "vatBasis": "included",
+          "priceExVat": 1953.271028037383,
+          "priceIncVat": 2090,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-269-y-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-269-y-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN3350",
+      "brand": "BROTHER",
+      "model": "TN3350",
+      "color": "ไม่ระบุ",
+      "salePrice": 700,
+      "salePriceIncVat": 749,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN3350",
+          "sourcePrice": 5180,
+          "vatBasis": "included",
+          "priceExVat": 4841.121495327103,
+          "priceIncVat": 5180,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-3350-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-3350-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN340-BK",
+      "brand": "BROTHER",
+      "model": "TN340",
+      "color": "ดำ (BK)",
+      "salePrice": 700,
+      "salePriceIncVat": 749,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN340BK",
+          "sourcePrice": 2090,
+          "vatBasis": "included",
+          "priceExVat": 1953.271028037383,
+          "priceIncVat": 2090,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-340-bk-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-340-bk-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN340-C",
+      "brand": "BROTHER",
+      "model": "TN340",
+      "color": "ฟ้า (C)",
+      "salePrice": 700,
+      "salePriceIncVat": 749,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN340C",
+          "sourcePrice": 2490,
+          "vatBasis": "included",
+          "priceExVat": 2327.1028037383176,
+          "priceIncVat": 2490,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-340-c-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-340-c-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN340-M",
+      "brand": "BROTHER",
+      "model": "TN340",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 700,
+      "salePriceIncVat": 749,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN340M",
+          "sourcePrice": 2490,
+          "vatBasis": "included",
+          "priceExVat": 2327.1028037383176,
+          "priceIncVat": 2490,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-340-m-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-340-m-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TN340-Y",
+      "brand": "BROTHER",
+      "model": "TN340",
+      "color": "เหลือง (Y)",
+      "salePrice": 700,
+      "salePriceIncVat": 749,
+      "comparisons": [
+        {
+          "oemBrand": "BROTHER",
+          "oemModel": "TN340Y",
+          "sourcePrice": 2490,
+          "vatBasis": "included",
+          "priceExVat": 2327.1028037383176,
+          "priceIncVat": 2490,
+          "sourceUrl": "https://www.heresong.com/product/brother-tn-340-y-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/brother-tn-340-y-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG312",
+      "brand": "CANON",
+      "model": "312",
+      "color": "ไม่ระบุ",
+      "salePrice": 450,
+      "salePriceIncVat": 481.5,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 312 BK",
+          "sourcePrice": 2420,
+          "vatBasis": "included",
+          "priceExVat": 2261.6822429906542,
+          "priceIncVat": 2420,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-312-bk/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-312-bk/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG325",
+      "brand": "CANON",
+      "model": "325",
+      "color": "ไม่ระบุ",
+      "salePrice": 450,
+      "salePriceIncVat": 481.5,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 325 BK",
+          "sourcePrice": 1930,
+          "vatBasis": "included",
+          "priceExVat": 1803.7383177570093,
+          "priceIncVat": 1930,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-325-bk/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-325-bk/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG328",
+      "brand": "CANON",
+      "model": "328",
+      "color": "ไม่ระบุ",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 328 BK",
+          "sourcePrice": 2590,
+          "vatBasis": "included",
+          "priceExVat": 2420.5607476635514,
+          "priceIncVat": 2590,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-328-bk/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-328-bk/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG331-BK",
+      "brand": "CANON",
+      "model": "331",
+      "color": "ดำ (BK)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 331 BK",
+          "sourcePrice": 2700,
+          "vatBasis": "included",
+          "priceExVat": 2523.3644859813085,
+          "priceIncVat": 2700,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-331-bk/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-331-bk/",
+          "observedDate": "2026-11-19",
+          "availability": "unavailable",
+          "stockDetail": "backorder",
+          "priceKind": "reference"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG331-C",
+      "brand": "CANON",
+      "model": "331",
+      "color": "ฟ้า (C)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 331 C",
+          "sourcePrice": 2920,
+          "vatBasis": "included",
+          "priceExVat": 2728.971962616822,
+          "priceIncVat": 2920,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-331-c/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-331-c/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG331-M",
+      "brand": "CANON",
+      "model": "331",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 331 M",
+          "sourcePrice": 3050,
+          "vatBasis": "included",
+          "priceExVat": 2850.467289719626,
+          "priceIncVat": 3050,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-331-m/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-331-m/",
+          "observedDate": "2026-11-19",
+          "availability": "unavailable",
+          "stockDetail": "backorder",
+          "priceKind": "reference"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG331-Y",
+      "brand": "CANON",
+      "model": "331",
+      "color": "เหลือง (Y)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 331 Y",
+          "sourcePrice": 2920,
+          "vatBasis": "included",
+          "priceExVat": 2728.971962616822,
+          "priceIncVat": 2920,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-331-y/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-331-y/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG054-BK",
+      "brand": "CANON",
+      "model": "CRG054",
+      "color": "ดำ (BK)",
+      "salePrice": 725,
+      "salePriceIncVat": 775.75,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 054 BK",
+          "sourcePrice": 2399,
+          "vatBasis": "included",
+          "priceExVat": 2242.056074766355,
+          "priceIncVat": 2399,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-054-bk/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-054-bk/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG054-C",
+      "brand": "CANON",
+      "model": "CRG054",
+      "color": "ฟ้า (C)",
+      "salePrice": 725,
+      "salePriceIncVat": 775.75,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 054 C",
+          "sourcePrice": 2350,
+          "vatBasis": "included",
+          "priceExVat": 2196.2616822429904,
+          "priceIncVat": 2350,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-054-c/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-054-c/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG054-M",
+      "brand": "CANON",
+      "model": "CRG054",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 725,
+      "salePriceIncVat": 775.75,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 054 M",
+          "sourcePrice": 2350,
+          "vatBasis": "included",
+          "priceExVat": 2196.2616822429904,
+          "priceIncVat": 2350,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-054-m/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-054-m/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG054-Y",
+      "brand": "CANON",
+      "model": "CRG054",
+      "color": "เหลือง (Y)",
+      "salePrice": 725,
+      "salePriceIncVat": 775.75,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 054 Y",
+          "sourcePrice": 2350,
+          "vatBasis": "included",
+          "priceExVat": 2196.2616822429904,
+          "priceIncVat": 2350,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-054-y/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-054-y/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CRG337",
+      "brand": "CANON",
+      "model": "CRG337",
+      "color": "ไม่ระบุ",
+      "salePrice": 550,
+      "salePriceIncVat": 588.5,
+      "comparisons": [
+        {
+          "oemBrand": "CANON",
+          "oemModel": "Cartridge 337 BK",
+          "sourcePrice": 2290,
+          "vatBasis": "included",
+          "priceExVat": 2140.1869158878503,
+          "priceIncVat": 2290,
+          "sourceUrl": "https://deeprices.com/product/canon-cartridge-337-bk/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/canon-cartridge-337-bk/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-PC210EV",
+      "brand": "PANTUM",
+      "model": "PC210EV",
+      "color": "ไม่ระบุ",
+      "salePrice": 575,
+      "salePriceIncVat": 615.25,
+      "comparisons": [
+        {
+          "oemBrand": "PANTUM",
+          "oemModel": "PC-210EV",
+          "sourcePrice": 1750,
+          "vatBasis": "included",
+          "priceExVat": 1635.5140186915887,
+          "priceIncVat": 1750,
+          "sourceUrl": "https://original.co.th/product/pc-210ev/",
+          "sourceTitle": "Original",
+          "vatEvidenceUrl": "https://original.co.th/product/pc-210ev/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TL410X",
+      "brand": "PANTUM",
+      "model": "TL410X",
+      "color": "ไม่ระบุ",
+      "salePrice": 700,
+      "salePriceIncVat": 749,
+      "comparisons": [
+        {
+          "oemBrand": "PANTUM",
+          "oemModel": "TL-410X",
+          "sourcePrice": 4690,
+          "vatBasis": "included",
+          "priceExVat": 4383.177570093458,
+          "priceIncVat": 4690,
+          "sourceUrl": "https://www.heresong.com/product/pantum-tl-410x-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/pantum-tl-410x-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-TL5120",
+      "brand": "PANTUM",
+      "model": "TL5120",
+      "color": "ไม่ระบุ",
+      "salePrice": 650,
+      "salePriceIncVat": 695.5,
+      "comparisons": [
+        {
+          "oemBrand": "PANTUM",
+          "oemModel": "TL-5120",
+          "sourcePrice": 2990,
+          "vatBasis": "included",
+          "priceExVat": 2794.392523364486,
+          "priceIncVat": 2990,
+          "sourceUrl": "https://deeprices.com/product/%E0%B8%95%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AB%E0%B8%A1%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-pantum-tl-5120-%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B3/",
+          "sourceTitle": "DeePrices",
+          "vatEvidenceUrl": "https://deeprices.com/product/%E0%B8%95%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AB%E0%B8%A1%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-pantum-tl-5120-%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B3/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CLT404S-BK",
+      "brand": "SAMSUNG",
+      "model": "CLT - 404S",
+      "color": "ดำ (BK)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "CLT-K404S",
+          "sourcePrice": 2210,
+          "vatBasis": "included",
+          "priceExVat": 2065.4205607476633,
+          "priceIncVat": 2210,
+          "sourceUrl": "https://original.co.th/product/clt-k404s/",
+          "sourceTitle": "Original",
+          "vatEvidenceUrl": "https://original.co.th/product/clt-k404s/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CLT404S-C",
+      "brand": "SAMSUNG",
+      "model": "CLT - 404S",
+      "color": "ฟ้า (C)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "CLT-C404S",
+          "sourcePrice": 2060,
+          "vatBasis": "included",
+          "priceExVat": 1925.233644859813,
+          "priceIncVat": 2060,
+          "sourceUrl": "https://original.co.th/product/clt-c404s/",
+          "sourceTitle": "Original",
+          "vatEvidenceUrl": "https://original.co.th/product/clt-c404s/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CLT404S-M",
+      "brand": "SAMSUNG",
+      "model": "CLT - 404S",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "CLT-M404S",
+          "sourcePrice": 2060,
+          "vatBasis": "included",
+          "priceExVat": 1925.233644859813,
+          "priceIncVat": 2060,
+          "sourceUrl": "https://original.co.th/product/clt-m404s/",
+          "sourceTitle": "Original",
+          "vatEvidenceUrl": "https://original.co.th/product/clt-m404s/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CLT404S-Y",
+      "brand": "SAMSUNG",
+      "model": "CLT - 404S",
+      "color": "เหลือง (Y)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "CLT-Y404S",
+          "sourcePrice": 2060,
+          "vatBasis": "included",
+          "priceExVat": 1925.233644859813,
+          "priceIncVat": 2060,
+          "sourceUrl": "https://original.co.th/product/clt-y404s/",
+          "sourceTitle": "Original",
+          "vatEvidenceUrl": "https://original.co.th/product/clt-y404s/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CLT406S-BK",
+      "brand": "SAMSUNG",
+      "model": "CLT - 406S",
+      "color": "ดำ (BK)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "CLT-K406S",
+          "sourcePrice": 2250,
+          "vatBasis": "included",
+          "priceExVat": 2102.803738317757,
+          "priceIncVat": 2250,
+          "sourceUrl": "https://www.heresong.com/product/samsung-clt-k406s-su120a/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/samsung-clt-k406s-su120a/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CLT406S-C",
+      "brand": "SAMSUNG",
+      "model": "CLT - 406S",
+      "color": "ฟ้า (C)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "CLT-C406S",
+          "sourcePrice": 2090,
+          "vatBasis": "included",
+          "priceExVat": 1953.271028037383,
+          "priceIncVat": 2090,
+          "sourceUrl": "https://www.heresong.com/product/samsung-clt-c406s-st986a/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/samsung-clt-c406s-st986a/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CLT406S-M",
+      "brand": "SAMSUNG",
+      "model": "CLT - 406S",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "CLT-M406S",
+          "sourcePrice": 2090,
+          "vatBasis": "included",
+          "priceExVat": 1953.271028037383,
+          "priceIncVat": 2090,
+          "sourceUrl": "https://www.heresong.com/product/samsung-clt-m406s-su254a/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/samsung-clt-m406s-su254a/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CLT406S-Y",
+      "brand": "SAMSUNG",
+      "model": "CLT - 406S",
+      "color": "เหลือง (Y)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "CLT-Y406S",
+          "sourcePrice": 2090,
+          "vatBasis": "included",
+          "priceExVat": 1953.271028037383,
+          "priceIncVat": 2090,
+          "sourceUrl": "https://www.heresong.com/product/samsung-clt-y406s-su464a/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/samsung-clt-y406s-su464a/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-D101S",
+      "brand": "SAMSUNG",
+      "model": "D101S",
+      "color": "ไม่ระบุ",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "MLT-D101S",
+          "sourcePrice": 3150,
+          "vatBasis": "included",
+          "priceExVat": 2943.9252336448594,
+          "priceIncVat": 3150,
+          "sourceUrl": "https://www.heresong.com/product/samsung-mlt-d101s-su698a/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/samsung-mlt-d101s-su698a/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-D111S",
+      "brand": "SAMSUNG",
+      "model": "D111S",
+      "color": "ไม่ระบุ",
+      "salePrice": 575,
+      "salePriceIncVat": 615.25,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "MLT-D111S",
+          "sourcePrice": 2250,
+          "vatBasis": "included",
+          "priceExVat": 2102.803738317757,
+          "priceIncVat": 2250,
+          "sourceUrl": "https://www.heresong.com/product/samsung-mlt-d111s-su812a/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/samsung-mlt-d111s-su812a/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-MLTD109S",
+      "brand": "SAMSUNG",
+      "model": "MLT - D109S",
+      "color": "ไม่ระบุ",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "MLT-D109S",
+          "sourcePrice": 2799,
+          "vatBasis": "included",
+          "priceExVat": 2615.8878504672894,
+          "priceIncVat": 2799,
+          "sourceUrl": "https://www.officekeeper.co.th/toner-all-brand-samsung/",
+          "sourceTitle": "officekeeper.co.th",
+          "vatEvidenceUrl": "https://www.officekeeper.co.th/toner-all-brand-samsung/",
+          "observedDate": "2026-11-19",
+          "availability": "unknown",
+          "stockDetail": null,
+          "priceKind": "reference"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-MLTD203L",
+      "brand": "SAMSUNG",
+      "model": "MLT - D203L",
+      "color": "ไม่ระบุ",
+      "salePrice": 1175,
+      "salePriceIncVat": 1257.25,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "MLT-D203L",
+          "sourcePrice": 4950,
+          "vatBasis": "included",
+          "priceExVat": 4626.1682242990655,
+          "priceIncVat": 4950,
+          "sourceUrl": "https://www.heresong.com/product/samsung-mlt-d203l-su905a/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/samsung-mlt-d203l-su905a/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-MLTD205L",
+      "brand": "SAMSUNG",
+      "model": "MLT - D205L",
+      "color": "ไม่ระบุ",
+      "salePrice": 1000,
+      "salePriceIncVat": 1070,
+      "comparisons": [
+        {
+          "oemBrand": "SAMSUNG",
+          "oemModel": "MLT-D205L",
+          "sourcePrice": 4990,
+          "vatBasis": "included",
+          "priceExVat": 4663.551401869158,
+          "priceIncVat": 4990,
+          "sourceUrl": "https://www.heresong.com/product/samsung-mlt-d205l-su972a/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/samsung-mlt-d205l-su972a/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-107A",
+      "brand": "HP",
+      "model": "107A",
+      "color": "ไม่ระบุ",
+      "salePrice": 575,
+      "salePriceIncVat": 615.25,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "107A (W1107A)",
+          "sourcePrice": 1730,
+          "vatBasis": "included",
+          "priceExVat": 1616.8224299065419,
+          "priceIncVat": 1730,
+          "sourceUrl": "https://www.heresong.com/product/hp-107a-w1107a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-107a-w1107a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CB540A-BK",
+      "brand": "HP",
+      "model": "125A - CB540A",
+      "color": "ดำ (BK)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "125A (CB540A)",
+          "sourcePrice": 3670,
+          "vatBasis": "included",
+          "priceExVat": 3429.9065420560746,
+          "priceIncVat": 3670,
+          "sourceUrl": "https://www.heresong.com/product/hp-125a-cb540a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-125a-cb540a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CB541A-C",
+      "brand": "HP",
+      "model": "125A - CB541A",
+      "color": "ฟ้า (C)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "125A (CB541A)",
+          "sourcePrice": 3380,
+          "vatBasis": "included",
+          "priceExVat": 3158.878504672897,
+          "priceIncVat": 3380,
+          "sourceUrl": "https://www.heresong.com/product/hp-125a-cb541a-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-125a-cb541a-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CB542A-Y",
+      "brand": "HP",
+      "model": "125A - CB542A",
+      "color": "เหลือง (Y)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "125A (CB542A)",
+          "sourcePrice": 3380,
+          "vatBasis": "included",
+          "priceExVat": 3158.878504672897,
+          "priceIncVat": 3380,
+          "sourceUrl": "https://www.heresong.com/product/hp-125a-cb542a-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-125a-cb542a-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CB543A-M",
+      "brand": "HP",
+      "model": "125A - CB543A",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "125A (CB543A)",
+          "sourcePrice": 3380,
+          "vatBasis": "included",
+          "priceExVat": 3158.878504672897,
+          "priceIncVat": 3380,
+          "sourceUrl": "https://www.heresong.com/product/hp-125a-cb543a-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-125a-cb543a-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE310A-BK",
+      "brand": "HP",
+      "model": "126A - CE310A",
+      "color": "ดำ (BK)",
+      "salePrice": 650,
+      "salePriceIncVat": 695.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "126A (CE310A)",
+          "sourcePrice": 2390,
+          "vatBasis": "included",
+          "priceExVat": 2233.644859813084,
+          "priceIncVat": 2390,
+          "sourceUrl": "https://www.heresong.com/product/hp-126a-ce310a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-126a-ce310a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE311A-C",
+      "brand": "HP",
+      "model": "126A - CE311A",
+      "color": "ฟ้า (C)",
+      "salePrice": 650,
+      "salePriceIncVat": 695.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "126A (CE311A)",
+          "sourcePrice": 2660,
+          "vatBasis": "included",
+          "priceExVat": 2485.9813084112147,
+          "priceIncVat": 2660,
+          "sourceUrl": "https://www.heresong.com/product/hp-126a-ce311a-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-126a-ce311a-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE312A-Y",
+      "brand": "HP",
+      "model": "126A - CE312A",
+      "color": "เหลือง (Y)",
+      "salePrice": 650,
+      "salePriceIncVat": 695.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "126A (CE312A)",
+          "sourcePrice": 2660,
+          "vatBasis": "included",
+          "priceExVat": 2485.9813084112147,
+          "priceIncVat": 2660,
+          "sourceUrl": "https://www.heresong.com/product/hp-126a-ce312a-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-126a-ce312a-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE313A-M",
+      "brand": "HP",
+      "model": "126A - CE313A",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 650,
+      "salePriceIncVat": 695.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "126A (CE313A)",
+          "sourcePrice": 2660,
+          "vatBasis": "included",
+          "priceExVat": 2485.9813084112147,
+          "priceIncVat": 2660,
+          "sourceUrl": "https://www.heresong.com/product/hp-126a-ce313a-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-126a-ce313a-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE320A-BK",
+      "brand": "HP",
+      "model": "128A - CE320A",
+      "color": "ดำ (BK)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "128A (CE320A)",
+          "sourcePrice": 3290,
+          "vatBasis": "included",
+          "priceExVat": 3074.7663551401865,
+          "priceIncVat": 3290,
+          "sourceUrl": "https://www.heresong.com/product/hp-128a-ce320a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-128a-ce320a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE321A-C",
+      "brand": "HP",
+      "model": "128A - CE321A",
+      "color": "ฟ้า (C)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "128A (CE321A)",
+          "sourcePrice": 3150,
+          "vatBasis": "included",
+          "priceExVat": 2943.9252336448594,
+          "priceIncVat": 3150,
+          "sourceUrl": "https://www.heresong.com/product/hp-128a-ce321a-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-128a-ce321a-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE322A-Y",
+      "brand": "HP",
+      "model": "128A - CE322A",
+      "color": "เหลือง (Y)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "128A (CE322A)",
+          "sourcePrice": 3150,
+          "vatBasis": "included",
+          "priceExVat": 2943.9252336448594,
+          "priceIncVat": 3150,
+          "sourceUrl": "https://www.heresong.com/product/hp-128a-ce322a-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-128a-ce322a-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE323A-M",
+      "brand": "HP",
+      "model": "128A - CE323A",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "128A (CE323A)",
+          "sourcePrice": 3150,
+          "vatBasis": "included",
+          "priceExVat": 2943.9252336448594,
+          "priceIncVat": 3150,
+          "sourceUrl": "https://www.heresong.com/product/hp-128a-ce323a-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-128a-ce323a-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF350A-BK",
+      "brand": "HP",
+      "model": "130A - CF350A",
+      "color": "ดำ (BK)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "130A (CF350A)",
+          "sourcePrice": 2620,
+          "vatBasis": "included",
+          "priceExVat": 2448.5981308411215,
+          "priceIncVat": 2620,
+          "sourceUrl": "https://www.heresong.com/product/hp-130a-cf350a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-130a-cf350a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF351A-C",
+      "brand": "HP",
+      "model": "130A - CF351A",
+      "color": "ฟ้า (C)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "130A (CF351A)",
+          "sourcePrice": 2720,
+          "vatBasis": "included",
+          "priceExVat": 2542.056074766355,
+          "priceIncVat": 2720,
+          "sourceUrl": "https://www.heresong.com/product/hp-130a-cf351a-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-130a-cf351a-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF352A-Y",
+      "brand": "HP",
+      "model": "130A - CF352A",
+      "color": "เหลือง (Y)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "130A (CF352A)",
+          "sourcePrice": 2720,
+          "vatBasis": "included",
+          "priceExVat": 2542.056074766355,
+          "priceIncVat": 2720,
+          "sourceUrl": "https://www.heresong.com/product/hp-130a-cf352a-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-130a-cf352a-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF353A-M",
+      "brand": "HP",
+      "model": "130A - CF353A",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "130A (CF353A)",
+          "sourcePrice": 2720,
+          "vatBasis": "included",
+          "priceExVat": 2542.056074766355,
+          "priceIncVat": 2720,
+          "sourceUrl": "https://www.heresong.com/product/hp-130a-cf353a-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-130a-cf353a-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF210A-BK",
+      "brand": "HP",
+      "model": "131A - CF210A",
+      "color": "ดำ (BK)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "131A (CF210A)",
+          "sourcePrice": 3170,
+          "vatBasis": "included",
+          "priceExVat": 2962.6168224299063,
+          "priceIncVat": 3170,
+          "sourceUrl": "https://www.heresong.com/product/hp-131a-cf210a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-131a-cf210a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF211A-C",
+      "brand": "HP",
+      "model": "131A - CF211A",
+      "color": "ฟ้า (C)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "131A (CF211A)",
+          "sourcePrice": 3980,
+          "vatBasis": "included",
+          "priceExVat": 3719.626168224299,
+          "priceIncVat": 3980,
+          "sourceUrl": "https://www.heresong.com/product/hp-131a-cf211a-cyan/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-131a-cf211a-cyan/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF212A-Y",
+      "brand": "HP",
+      "model": "131A - CF212A",
+      "color": "เหลือง (Y)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "131A (CF212A)",
+          "sourcePrice": 3980,
+          "vatBasis": "included",
+          "priceExVat": 3719.626168224299,
+          "priceIncVat": 3980,
+          "sourceUrl": "https://www.heresong.com/product/hp-131a-cf212a-yellow/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-131a-cf212a-yellow/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF213A-M",
+      "brand": "HP",
+      "model": "131A - CF213A",
+      "color": "ม่วงแดง (M)",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "131A (CF213A)",
+          "sourcePrice": 3980,
+          "vatBasis": "included",
+          "priceExVat": 3719.626168224299,
+          "priceIncVat": 3980,
+          "sourceUrl": "https://www.heresong.com/product/hp-131a-cf213a-magenta/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-131a-cf213a-magenta/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CB435-436A",
+      "brand": "HP",
+      "model": "CB435/436A",
+      "color": "ไม่ระบุ",
+      "salePrice": 450,
+      "salePriceIncVat": 481.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "35A (CB435A)",
+          "sourcePrice": 3160,
+          "vatBasis": "included",
+          "priceExVat": 2953.271028037383,
+          "priceIncVat": 3160,
+          "sourceUrl": "https://www.heresong.com/product/hp-35a-cb435a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-35a-cb435a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        },
+        {
+          "oemBrand": "HP",
+          "oemModel": "36A (CB436A)",
+          "sourcePrice": 3640,
+          "vatBasis": "included",
+          "priceExVat": 3401.8691588785045,
+          "priceIncVat": 3640,
+          "sourceUrl": "https://www.heresong.com/product/hp-36a-cb436a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-36a-cb436a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE278A",
+      "brand": "HP",
+      "model": "CE278A",
+      "color": "ไม่ระบุ",
+      "salePrice": 500,
+      "salePriceIncVat": 535,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "78A (CE278A)",
+          "sourcePrice": 3650,
+          "vatBasis": "included",
+          "priceExVat": 3411.2149532710278,
+          "priceIncVat": 3650,
+          "sourceUrl": "https://www.heresong.com/product/hp-78a-ce278a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-78a-ce278a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE285A",
+      "brand": "HP",
+      "model": "CE285A",
+      "color": "ไม่ระบุ",
+      "salePrice": 450,
+      "salePriceIncVat": 481.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "85A (CE285A)",
+          "sourcePrice": 3190,
+          "vatBasis": "included",
+          "priceExVat": 2981.308411214953,
+          "priceIncVat": 3190,
+          "sourceUrl": "https://www.heresong.com/product/hp-85a-ce285a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-85a-ce285a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CE505A-CF280A",
+      "brand": "HP",
+      "model": "CE505A / CF280A",
+      "color": "ไม่ระบุ",
+      "salePrice": 750,
+      "salePriceIncVat": 802.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "05A (CE505A)",
+          "sourcePrice": 4120,
+          "vatBasis": "included",
+          "priceExVat": 3850.467289719626,
+          "priceIncVat": 4120,
+          "sourceUrl": "https://www.heresong.com/product/hp-05a-ce505a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-05a-ce505a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        },
+        {
+          "oemBrand": "HP",
+          "oemModel": "80A (CF280A)",
+          "sourcePrice": 4760,
+          "vatBasis": "included",
+          "priceExVat": 4448.598130841121,
+          "priceIncVat": 4760,
+          "sourceUrl": "https://www.heresong.com/product/hp-80a-cf280a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-80a-cf280a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF217A",
+      "brand": "HP",
+      "model": "CF217A",
+      "color": "ไม่ระบุ",
+      "salePrice": 450,
+      "salePriceIncVat": 481.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "17A (CF217A)",
+          "sourcePrice": 2860,
+          "vatBasis": "included",
+          "priceExVat": 2672.897196261682,
+          "priceIncVat": 2860,
+          "sourceUrl": "https://www.heresong.com/product/hp-17a-cf217a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-17a-cf217a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF226A",
+      "brand": "HP",
+      "model": "CF226A",
+      "color": "ไม่ระบุ",
+      "salePrice": 650,
+      "salePriceIncVat": 695.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "26A (CF226A)",
+          "sourcePrice": 5320,
+          "vatBasis": "included",
+          "priceExVat": 4971.9626168224295,
+          "priceIncVat": 5320,
+          "sourceUrl": "https://www.heresong.com/product/hp-26a-cf226a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-26a-cf226a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF230A",
+      "brand": "HP",
+      "model": "CF230A",
+      "color": "ไม่ระบุ",
+      "salePrice": 600,
+      "salePriceIncVat": 642,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "30A (CF230A)",
+          "sourcePrice": 2890,
+          "vatBasis": "included",
+          "priceExVat": 2700.934579439252,
+          "priceIncVat": 2890,
+          "sourceUrl": "https://www.heresong.com/product/hp-30a-cf230a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-30a-cf230a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF248A",
+      "brand": "HP",
+      "model": "CF248A",
+      "color": "ไม่ระบุ",
+      "salePrice": 675,
+      "salePriceIncVat": 722.25,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "48A (CF248A)",
+          "sourcePrice": 2160,
+          "vatBasis": "included",
+          "priceExVat": 2018.6915887850466,
+          "priceIncVat": 2160,
+          "sourceUrl": "https://www.heresong.com/product/hp-48a-cf248a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-48a-cf248a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF276A",
+      "brand": "HP",
+      "model": "CF276A",
+      "color": "ไม่ระบุ",
+      "salePrice": 950,
+      "salePriceIncVat": 1016.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "76A (CF276A)",
+          "sourcePrice": 3970,
+          "vatBasis": "included",
+          "priceExVat": 3710.2803738317757,
+          "priceIncVat": 3970,
+          "sourceUrl": "https://www.heresong.com/product/hp-76a-cf276a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-76a-cf276a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF279A",
+      "brand": "HP",
+      "model": "CF279A",
+      "color": "ไม่ระบุ",
+      "salePrice": 450,
+      "salePriceIncVat": 481.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "79A (CF279A)",
+          "sourcePrice": 2560,
+          "vatBasis": "included",
+          "priceExVat": 2392.5233644859813,
+          "priceIncVat": 2560,
+          "sourceUrl": "https://www.heresong.com/product/hp-79a-cf279a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-79a-cf279a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    },
+    {
+      "sku": "MAV-CF283A",
+      "brand": "HP",
+      "model": "CF283A",
+      "color": "ไม่ระบุ",
+      "salePrice": 450,
+      "salePriceIncVat": 481.5,
+      "comparisons": [
+        {
+          "oemBrand": "HP",
+          "oemModel": "83A (CF283A)",
+          "sourcePrice": 2980,
+          "vatBasis": "included",
+          "priceExVat": 2785.0467289719622,
+          "priceIncVat": 2980,
+          "sourceUrl": "https://www.heresong.com/product/hp-83a-cf283a-black/",
+          "sourceTitle": "Heresong",
+          "vatEvidenceUrl": "https://www.heresong.com/product/hp-83a-cf283a-black/",
+          "observedDate": "2026-11-19",
+          "availability": "available",
+          "stockDetail": null,
+          "priceKind": "retail"
+        }
+      ],
+      "missingReason": null
+    }
+  ]
+}

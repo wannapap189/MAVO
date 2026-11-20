@@ -1,0 +1,22 @@
+{
+  "mode": "built-in imagegen",
+  "createdOn": "2026-11-19",
+  "images": [
+    {
+      "id": "savings-to-business-profit",
+      "prompt": "Use case: photorealistic-natural. Create a premium editorial photograph for a Thai small-business educational article about reducing operating expenses. Landscape 3:2 framing, overhead tabletop composition. A compact unbranded black laser printer at one side, a calculator, an orderly ledger with faint abstract rows and no readable text, and the hands of an adult Thai business owner thoughtfully comparing two paper documents. Cool daylight, tactile realistic paper and matte desk surface, elegant navy blue and pale cyan stationery with one tiny orange detail. The mood is practical confidence and careful decision making. Distinct overhead shot, magazine quality, realistic anatomy. No readable writing, letters, branding or logos, no overlays, no coins, currency, floating charts, arrows or claims."
+    },
+    {
+      "id": "saved-budget-next-sales",
+      "prompt": "Use case: photorealistic-natural. Create a premium natural editorial photograph for a Thai SME article about using carefully saved operating budget to support the next sales orders. Landscape 3:2. An adult Thai woman online-shop owner, about 30, naturally packing a few small everyday retail goods into open shipping cartons on an orderly blue workbench. Orange packing tape as a restrained accent. A compact unbranded laser printer and two prepared parcels sit farther in the background. Warm side daylight through a shop window, pleasant realistic materials, navy and cyan practical interior details. Candid concentration and pride in her work, authentic modest growing Thai business rather than a luxury office. No readable text or addresses, no brand logos, no promotional overlays, no currency, no floating graphics, no suggestion of guaranteed business results."
+    },
+    {
+      "id": "time-back-for-customers",
+      "prompt": "Use case: photorealistic-natural. Premium editorial photograph for a Thai small-business article about recovering administrative time to talk with customers. Landscape 3:2. A Thai shop employee in their early 30s having a warm attentive conversation with an adult customer across a clean navy-blue shop counter. Both people naturally facing and listening to each other, genuine restrained smile, medium-wide candid side angle. A small unbranded laser printer sits unobtrusively in the background, ready documents beside it. Airy daylight storefront, pale cyan decor and a very small orange accessory, modern approachable small business, shallow depth of field, realistic human hands. No readable text, no logos, no oversized clock, no money or charts, no marketing captions, no implication that these people are actual MAVO customers."
+    },
+    {
+      "id": "toner-dealer-first-customers",
+      "prompt": "Use case: photorealistic-natural. Premium editorial photographic illustration for an educational article about starting to sell compatible laser toner with responsible customer care in Thailand. Landscape 3:2. Inside a tidy independent IT supplies store, an adult Thai female vendor explains a realistic black laser toner cartridge resting on a counter to an adult Thai male small-business customer. A sample printed document with fine abstract lines is beside the cartridge. A plain unbranded deep navy rectangular cartridge box stands nearby. They look at the product thoughtfully, professional approachable service, natural daylight mixed with neutral store lighting, pale blue accents and restrained orange shelf detail. Distinct three-quarter wide store view, realistic scale and anatomy, believable cartridge construction. No readable words, logos or branded packaging, no fake customer testimonial, no money, no claims, no overlay."
+    }
+  ]
+}

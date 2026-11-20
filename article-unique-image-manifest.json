@@ -1,0 +1,76 @@
+{
+  "images": [
+    {
+      "id": "toner-material-and-compatibility",
+      "src": "/assets/articles/unique/toner-material-and-compatibility.png",
+      "alt": "ภาพประกอบจำลองตลับโทนเนอร์และเครื่องพิมพ์เลเซอร์สำหรับตรวจรุ่นที่รองรับ",
+      "caption": "ภาพประกอบจำลองชิ้นส่วนและตำแหน่งป้ายรุ่น ไม่ใช่การยืนยันความเข้ากันได้ของสินค้าจริง",
+      "width": 1672,
+      "height": 941,
+      "generated": true
+    },
+    {
+      "id": "print-quality-check",
+      "src": "/assets/articles/unique/print-quality-check.png",
+      "alt": "ภาพประกอบจำลองการตรวจเอกสารและลวดลายระดับสีเทาด้วยแว่นขยาย",
+      "caption": "ภาพประกอบจำลองวิธีสังเกตงานพิมพ์ ไม่ใช่ผลทดสอบหรือภาพเปรียบเทียบสินค้าจริง",
+      "width": 1672,
+      "height": 941,
+      "generated": true
+    },
+    {
+      "id": "smart-toner-buying-for-business",
+      "src": "/assets/articles/unique/smart-toner-buying-for-business.png",
+      "alt": "ภาพประกอบจำลองโต๊ะจัดซื้อพร้อมกล่องตลับและรายการตรวจสอบก่อนซื้อ",
+      "caption": "ภาพประกอบจำลองการพิจารณาสินค้าและเงื่อนไขก่อนซื้อ กล่องไม่ได้แทนสินค้าหรือผู้ขายรายใด",
+      "width": 1672,
+      "height": 941,
+      "generated": true
+    },
+    {
+      "id": "use-printer-settings-wisely",
+      "src": "/assets/articles/unique/use-printer-settings-wisely.png",
+      "alt": "ภาพประกอบจำลองหน้าตัวอย่างเอกสารบนแล็ปท็อปข้างเครื่องพิมพ์เลเซอร์",
+      "caption": "ภาพประกอบจำลองการตรวจเอกสารก่อนพิมพ์ หน้าจอไม่ใช่คู่มือการตั้งค่าของเครื่องรุ่นใด",
+      "width": 1672,
+      "height": 941,
+      "generated": true
+    },
+    {
+      "id": "price-multiples-and-savings-explained",
+      "src": "/assets/articles/unique/price-multiples-and-savings-explained.png",
+      "alt": "ภาพประกอบจำลองกล่องสามกล่องเทียบกับหนึ่งกล่องและเครื่องคิดเลข",
+      "caption": "ภาพประกอบจำลองแนวคิดอัตราส่วนจำนวนสินค้า ไม่ใช่ราคา จำนวนหน้าพิมพ์ หรือผลประหยัดจริง",
+      "width": 1672,
+      "height": 941,
+      "generated": true
+    },
+    {
+      "id": "office-toner-budget-examples",
+      "src": "/assets/articles/unique/office-toner-budget-examples.png",
+      "alt": "ภาพประกอบจำลองการจัดเอกสารวางงบสามลักษณะธุรกิจร่วมกับสมุดบันทึก",
+      "caption": "ภาพประกอบจำลองการวางงบธุรกิจ ตัวเลขและสมมติฐานอยู่ในเนื้อหาบทความ",
+      "width": 1672,
+      "height": 941,
+      "generated": true
+    },
+    {
+      "id": "small-shop-print-budget",
+      "src": "/assets/articles/unique/small-shop-print-budget.png",
+      "alt": "ภาพประกอบจำลองเคาน์เตอร์กิจการขนาดเล็กพร้อมเครื่องพิมพ์และเอกสารงาน",
+      "caption": "ภาพประกอบจำลองร้านบริการขนาดเล็ก ไม่ใช่สถานที่หรือลูกค้าอ้างอิงของ MAVO",
+      "width": 1672,
+      "height": 941,
+      "generated": true
+    },
+    {
+      "id": "multi-branch-print-budget",
+      "src": "/assets/articles/unique/multi-branch-print-budget.png",
+      "alt": "ภาพประกอบจำลองโต๊ะจัดสต็อกและแฟ้มแยกกลุ่มสำหรับงานหลายสาขา",
+      "caption": "ภาพประกอบจำลองการจัดข้อมูลและสต็อกหลายสาขา ไม่ใช่ภาพสาขาหรือลูกค้าจริง",
+      "width": 1672,
+      "height": 941,
+      "generated": true
+    }
+  ]
+}

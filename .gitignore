@@ -1,0 +1,31 @@
+# Runtime data and credentials are never part of the handoff.
+node_modules/
+private-data/
+.tools/
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.log
+*.pem
+*.key
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Keep portable checks; regenerate local reports when building/testing.
+qa/*
+!qa/seo-static-check.mjs
+!qa/site-links-check.mjs
+!qa/llms-check.mjs
+
+# Internal handoff documents stay local or in the private team repository.
+internal/
+HANDOFF-CHECKLIST.txt
+*.xlsx
+*.xls
+*.zip
+*.bundle
+*.inspect.ndjson
+

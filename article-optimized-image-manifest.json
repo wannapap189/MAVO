@@ -1,0 +1,184 @@
+{
+  "images": [
+    {
+      "id": "weight-and-new-cartridge",
+      "src": "/assets/articles/optimized/weight-and-new-cartridge.webp",
+      "alt": "ภาพประกอบจำลองตลับโทนเนอร์ เครื่องชั่ง และเอกสารสำหรับตรวจสอบ",
+      "caption": "ภาพประกอบจำลองอุปกรณ์ตรวจสอบ ไม่ใช่ผลการชั่งหรือผลทดสอบสินค้าจริง",
+      "originalSrc": "/assets/articles/quality.png",
+      "srcset": "/assets/articles/optimized/weight-and-new-cartridge-640.webp 640w, /assets/articles/optimized/weight-and-new-cartridge.webp 1280w",
+      "width": 1280,
+      "height": 720,
+      "generated": true
+    },
+    {
+      "id": "usable-page-cost",
+      "src": "/assets/articles/optimized/usable-page-cost.webp",
+      "alt": "ภาพประกอบจำลองการวางงบค่าโทนเนอร์ด้วยเครื่องคิดเลขและเอกสาร",
+      "caption": "ภาพประกอบจำลองการวางงบ ตัวเลขคำนวณอยู่ในเนื้อหาบทความ",
+      "originalSrc": "/assets/articles/budget.png",
+      "srcset": "/assets/articles/optimized/usable-page-cost-640.webp 640w, /assets/articles/optimized/usable-page-cost.webp 1280w",
+      "width": 1280,
+      "height": 720,
+      "generated": true
+    },
+    {
+      "id": "business-office-print-budget",
+      "src": "/assets/articles/optimized/business-office-print-budget.webp",
+      "alt": "ภาพประกอบจำลองเครื่องพิมพ์เลเซอร์และงานเอกสารในสำนักงาน SME",
+      "caption": "ภาพประกอบจำลองของสำนักงาน ไม่ใช่ภาพลูกค้าอ้างอิง",
+      "originalSrc": "/assets/articles/office.png",
+      "srcset": "/assets/articles/optimized/business-office-print-budget-640.webp 640w, /assets/articles/optimized/business-office-print-budget.webp 1280w",
+      "width": 1280,
+      "height": 720,
+      "generated": true
+    },
+    {
+      "id": "online-shop-laser-print-budget",
+      "src": "/assets/articles/optimized/online-shop-laser-print-budget.webp",
+      "alt": "ภาพประกอบจำลองพื้นที่จัดสินค้าและงานเอกสารจากเครื่องเลเซอร์ของร้านออนไลน์",
+      "caption": "ภาพประกอบจำลองงานหลังร้านที่ใช้เครื่องพิมพ์เลเซอร์",
+      "originalSrc": "/assets/articles/online.png",
+      "srcset": "/assets/articles/optimized/online-shop-laser-print-budget-640.webp 640w, /assets/articles/optimized/online-shop-laser-print-budget.webp 1280w",
+      "width": 1280,
+      "height": 720,
+      "generated": true
+    },
+    {
+      "id": "toner-material-and-compatibility",
+      "src": "/assets/articles/optimized/toner-material-and-compatibility.webp",
+      "alt": "ภาพประกอบจำลองตลับโทนเนอร์และเครื่องพิมพ์เลเซอร์สำหรับตรวจรุ่นที่รองรับ",
+      "caption": "ภาพประกอบจำลองชิ้นส่วนและตำแหน่งป้ายรุ่น ไม่ใช่การยืนยันความเข้ากันได้ของสินค้าจริง",
+      "width": 1280,
+      "height": 720,
+      "generated": true,
+      "originalSrc": "/assets/articles/unique/toner-material-and-compatibility.png",
+      "srcset": "/assets/articles/optimized/toner-material-and-compatibility-640.webp 640w, /assets/articles/optimized/toner-material-and-compatibility.webp 1280w"
+    },
+    {
+      "id": "print-quality-check",
+      "src": "/assets/articles/optimized/print-quality-check.webp",
+      "alt": "ภาพประกอบจำลองการตรวจเอกสารและลวดลายระดับสีเทาด้วยแว่นขยาย",
+      "caption": "ภาพประกอบจำลองวิธีสังเกตงานพิมพ์ ไม่ใช่ผลทดสอบหรือภาพเปรียบเทียบสินค้าจริง",
+      "width": 1280,
+      "height": 720,
+      "generated": true,
+      "originalSrc": "/assets/articles/unique/print-quality-check.png",
+      "srcset": "/assets/articles/optimized/print-quality-check-640.webp 640w, /assets/articles/optimized/print-quality-check.webp 1280w"
+    },
+    {
+      "id": "smart-toner-buying-for-business",
+      "src": "/assets/articles/optimized/smart-toner-buying-for-business.webp",
+      "alt": "ภาพประกอบจำลองโต๊ะจัดซื้อพร้อมกล่องตลับและรายการตรวจสอบก่อนซื้อ",
+      "caption": "ภาพประกอบจำลองการพิจารณาสินค้าและเงื่อนไขก่อนซื้อ กล่องไม่ได้แทนสินค้าหรือผู้ขายรายใด",
+      "width": 1280,
+      "height": 720,
+      "generated": true,
+      "originalSrc": "/assets/articles/unique/smart-toner-buying-for-business.png",
+      "srcset": "/assets/articles/optimized/smart-toner-buying-for-business-640.webp 640w, /assets/articles/optimized/smart-toner-buying-for-business.webp 1280w"
+    },
+    {
+      "id": "use-printer-settings-wisely",
+      "src": "/assets/articles/optimized/use-printer-settings-wisely.webp",
+      "alt": "ภาพประกอบจำลองหน้าตัวอย่างเอกสารบนแล็ปท็อปข้างเครื่องพิมพ์เลเซอร์",
+      "caption": "ภาพประกอบจำลองการตรวจเอกสารก่อนพิมพ์ หน้าจอไม่ใช่คู่มือการตั้งค่าของเครื่องรุ่นใด",
+      "width": 1280,
+      "height": 720,
+      "generated": true,
+      "originalSrc": "/assets/articles/unique/use-printer-settings-wisely.png",
+      "srcset": "/assets/articles/optimized/use-printer-settings-wisely-640.webp 640w, /assets/articles/optimized/use-printer-settings-wisely.webp 1280w"
+    },
+    {
+      "id": "price-multiples-and-savings-explained",
+      "src": "/assets/articles/optimized/price-multiples-and-savings-explained.webp",
+      "alt": "ภาพประกอบจำลองกล่องสามกล่องเทียบกับหนึ่งกล่องและเครื่องคิดเลข",
+      "caption": "ภาพประกอบจำลองแนวคิดอัตราส่วนจำนวนสินค้า ไม่ใช่ราคา จำนวนหน้าพิมพ์ หรือผลประหยัดจริง",
+      "width": 1280,
+      "height": 720,
+      "generated": true,
+      "originalSrc": "/assets/articles/unique/price-multiples-and-savings-explained.png",
+      "srcset": "/assets/articles/optimized/price-multiples-and-savings-explained-640.webp 640w, /assets/articles/optimized/price-multiples-and-savings-explained.webp 1280w"
+    },
+    {
+      "id": "office-toner-budget-examples",
+      "src": "/assets/articles/optimized/office-toner-budget-examples.webp",
+      "alt": "ภาพประกอบจำลองการจัดเอกสารวางงบสามลักษณะธุรกิจร่วมกับสมุดบันทึก",
+      "caption": "ภาพประกอบจำลองการวางงบธุรกิจ ตัวเลขและสมมติฐานอยู่ในเนื้อหาบทความ",
+      "width": 1280,
+      "height": 720,
+      "generated": true,
+      "originalSrc": "/assets/articles/unique/office-toner-budget-examples.png",
+      "srcset": "/assets/articles/optimized/office-toner-budget-examples-640.webp 640w, /assets/articles/optimized/office-toner-budget-examples.webp 1280w"
+    },
+    {
+      "id": "small-shop-print-budget",
+      "src": "/assets/articles/optimized/small-shop-print-budget.webp",
+      "alt": "ภาพประกอบจำลองเคาน์เตอร์กิจการขนาดเล็กพร้อมเครื่องพิมพ์และเอกสารงาน",
+      "caption": "ภาพประกอบจำลองร้านบริการขนาดเล็ก ไม่ใช่สถานที่หรือลูกค้าอ้างอิงของ MAVO",
+      "width": 1280,
+      "height": 720,
+      "generated": true,
+      "originalSrc": "/assets/articles/unique/small-shop-print-budget.png",
+      "srcset": "/assets/articles/optimized/small-shop-print-budget-640.webp 640w, /assets/articles/optimized/small-shop-print-budget.webp 1280w"
+    },
+    {
+      "id": "multi-branch-print-budget",
+      "src": "/assets/articles/optimized/multi-branch-print-budget.webp",
+      "alt": "ภาพประกอบจำลองโต๊ะจัดสต็อกและแฟ้มแยกกลุ่มสำหรับงานหลายสาขา",
+      "caption": "ภาพประกอบจำลองการจัดข้อมูลและสต็อกหลายสาขา ไม่ใช่ภาพสาขาหรือลูกค้าจริง",
+      "width": 1280,
+      "height": 720,
+      "generated": true,
+      "originalSrc": "/assets/articles/unique/multi-branch-print-budget.png",
+      "srcset": "/assets/articles/optimized/multi-branch-print-budget-640.webp 640w, /assets/articles/optimized/multi-branch-print-budget.webp 1280w"
+    },
+    {
+      "id": "savings-to-business-profit",
+      "width": 1280,
+      "height": 853,
+      "largeBytes": 129612,
+      "smallBytes": 33196,
+      "source": "dist/assets/articles/growth/savings-to-business-profit.png",
+      "src": "/assets/articles/optimized/savings-to-business-profit.webp",
+      "srcset": "/assets/articles/optimized/savings-to-business-profit-640.webp 640w, /assets/articles/optimized/savings-to-business-profit.webp 1280w",
+      "alt": "ภาพประกอบจำลองเจ้าของกิจการตรวจรายการค่าใช้จ่ายข้างเครื่องพิมพ์เลเซอร์และเครื่องคิดเลข",
+      "caption": "ภาพประกอบจำลอง ไม่ใช่ภาพหน้าร้านหรือลูกค้าอ้างอิงของ MAVO"
+    },
+    {
+      "id": "saved-budget-next-sales",
+      "width": 1280,
+      "height": 853,
+      "largeBytes": 152140,
+      "smallBytes": 49398,
+      "source": "dist/assets/articles/growth/saved-budget-next-sales.png",
+      "src": "/assets/articles/optimized/saved-budget-next-sales.webp",
+      "srcset": "/assets/articles/optimized/saved-budget-next-sales-640.webp 640w, /assets/articles/optimized/saved-budget-next-sales.webp 1280w",
+      "alt": "ภาพประกอบจำลองเจ้าของร้านออนไลน์กำลังแพ็กสินค้าเพื่อจัดส่งให้ลูกค้า",
+      "caption": "ภาพประกอบจำลอง ไม่ใช่ภาพหน้าร้านหรือลูกค้าอ้างอิงของ MAVO"
+    },
+    {
+      "id": "time-back-for-customers",
+      "width": 1280,
+      "height": 853,
+      "largeBytes": 84160,
+      "smallBytes": 32256,
+      "source": "dist/assets/articles/growth/time-back-for-customers.png",
+      "src": "/assets/articles/optimized/time-back-for-customers.webp",
+      "srcset": "/assets/articles/optimized/time-back-for-customers-640.webp 640w, /assets/articles/optimized/time-back-for-customers.webp 1280w",
+      "alt": "ภาพประกอบจำลองพนักงานร้านกำลังรับฟังและดูแลลูกค้าที่เคาน์เตอร์",
+      "caption": "ภาพประกอบจำลอง ไม่ใช่ภาพหน้าร้านหรือลูกค้าอ้างอิงของ MAVO"
+    },
+    {
+      "id": "toner-dealer-first-customers",
+      "width": 1280,
+      "height": 853,
+      "largeBytes": 141840,
+      "smallBytes": 45180,
+      "source": "dist/assets/articles/growth/toner-dealer-first-customers.png",
+      "src": "/assets/articles/optimized/toner-dealer-first-customers.webp",
+      "srcset": "/assets/articles/optimized/toner-dealer-first-customers-640.webp 640w, /assets/articles/optimized/toner-dealer-first-customers.webp 1280w",
+      "alt": "ภาพประกอบจำลองผู้ขายอุปกรณ์ไอทีอธิบายตลับโทนเนอร์และตัวอย่างงานพิมพ์ให้ลูกค้า",
+      "caption": "ภาพประกอบจำลอง ไม่ใช่ภาพหน้าร้านหรือลูกค้าอ้างอิงของ MAVO"
+    }
+  ]
+}

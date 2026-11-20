@@ -1,0 +1,50 @@
+[
+  {
+    "id": "savings-to-business-profit",
+    "width": 1280,
+    "height": 853,
+    "largeBytes": 129612,
+    "smallBytes": 33196,
+    "source": "dist/assets/articles/growth/savings-to-business-profit.png",
+    "src": "/assets/articles/optimized/savings-to-business-profit.webp",
+    "srcset": "/assets/articles/optimized/savings-to-business-profit-640.webp 640w, /assets/articles/optimized/savings-to-business-profit.webp 1280w",
+    "alt": "ภาพประกอบจำลองเจ้าของกิจการตรวจรายการค่าใช้จ่ายข้างเครื่องพิมพ์เลเซอร์และเครื่องคิดเลข",
+    "caption": "ภาพประกอบจำลอง ไม่ใช่ภาพหน้าร้านหรือลูกค้าอ้างอิงของ MAVO"
+  },
+  {
+    "id": "saved-budget-next-sales",
+    "width": 1280,
+    "height": 853,
+    "largeBytes": 152140,
+    "smallBytes": 49398,
+    "source": "dist/assets/articles/growth/saved-budget-next-sales.png",
+    "src": "/assets/articles/optimized/saved-budget-next-sales.webp",
+    "srcset": "/assets/articles/optimized/saved-budget-next-sales-640.webp 640w, /assets/articles/optimized/saved-budget-next-sales.webp 1280w",
+    "alt": "ภาพประกอบจำลองเจ้าของร้านออนไลน์กำลังแพ็กสินค้าเพื่อจัดส่งให้ลูกค้า",
+    "caption": "ภาพประกอบจำลอง ไม่ใช่ภาพหน้าร้านหรือลูกค้าอ้างอิงของ MAVO"
+  },
+  {
+    "id": "time-back-for-customers",
+    "width": 1280,
+    "height": 853,
+    "largeBytes": 84160,
+    "smallBytes": 32256,
+    "source": "dist/assets/articles/growth/time-back-for-customers.png",
+    "src": "/assets/articles/optimized/time-back-for-customers.webp",
+    "srcset": "/assets/articles/optimized/time-back-for-customers-640.webp 640w, /assets/articles/optimized/time-back-for-customers.webp 1280w",
+    "alt": "ภาพประกอบจำลองพนักงานร้านกำลังรับฟังและดูแลลูกค้าที่เคาน์เตอร์",
+    "caption": "ภาพประกอบจำลอง ไม่ใช่ภาพหน้าร้านหรือลูกค้าอ้างอิงของ MAVO"
+  },
+  {
+    "id": "toner-dealer-first-customers",
+    "width": 1280,
+    "height": 853,
+    "largeBytes": 141840,
+    "smallBytes": 45180,
+    "source": "dist/assets/articles/growth/toner-dealer-first-customers.png",
+    "src": "/assets/articles/optimized/toner-dealer-first-customers.webp",
+    "srcset": "/assets/articles/optimized/toner-dealer-first-customers-640.webp 640w, /assets/articles/optimized/toner-dealer-first-customers.webp 1280w",
+    "alt": "ภาพประกอบจำลองผู้ขายอุปกรณ์ไอทีอธิบายตลับโทนเนอร์และตัวอย่างงานพิมพ์ให้ลูกค้า",
+    "caption": "ภาพประกอบจำลอง ไม่ใช่ภาพหน้าร้านหรือลูกค้าอ้างอิงของ MAVO"
+  }
+]

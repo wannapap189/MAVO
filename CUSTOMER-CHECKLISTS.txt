@@ -1,0 +1,23 @@
+เช็กลิสต์ PDF สำหรับลูกค้า MAVO
+
+ปุ่มในบทความ /articles/ ทั้ง 16 หัวข้อใช้ไฟล์ PDF รายหัวข้อจาก dist/assets/article-guides/
+ไฟล์ต้นฉบับสำหรับเปิดโดยตรงอยู่ใน ../output/pdf/mavo-customer-checklists/
+PDF เป็น A4 หน้าเดียว มีช่องติ๊กแบบ AcroForm พื้นที่เขียนบันทึก แหล่งข้อมูล และ QR ติดต่อ LINE
+ข้อมูลมาจาก title, summary, practical_steps, scope_note และ sources ของบทความเดียวกัน
+ไม่ใช่คู่มือแบรนด์ภายในทีม และไม่รวมราคาทุนหรือทะเบียนลูกค้า
+
+การสร้าง
+รัน node build.mjs ตามปกติ ระบบสร้าง PDF ใหม่เมื่อข้อมูลบทความ โลโก้ หรือสคริปต์จัดหน้าเปลี่ยน
+ใช้ Python ที่มี reportlab (พร้อม uharfbuzz สำหรับจัดตัวอักษรไทย) และ pypdf
+กำหนด MAVO_PDF_PYTHON เป็น path ของ Python หากไม่อยู่ใน PATH
+ค่าเริ่มต้นใช้ C:\Windows\Fonts\tahoma.ttf และ tahomabd.ttf
+เครื่องอื่นกำหนด MAVO_PDF_FONT_DIR เป็นโฟลเดอร์ที่มีแบบอักษรสองไฟล์นี้อย่างถูกสิทธิ์
+สคริปต์สร้าง: build-customer-checklists.py / customer-checklists.mjs
+แคชและ hash: dist/assets/article-guides/manifest.json
+
+การตรวจ
+node qa/seo-static-check.mjs ตรวจลิงก์และไฟล์ PDF ครบทุกหัวข้อ
+เมื่อเปลี่ยนเนื้อหาหรือรูปแบบ ให้ render PDF ทุกหน้าด้วย pdftoppm และตรวจตัวอักษรไทย การตัดบรรทัด ช่องติ๊ก และ QR
+เซิร์ฟเวอร์ต้องส่ง Content-Type: application/pdf
+รายงานรอบปัจจุบัน: qa/customer-checklists-report.json
+เว็บไซต์ยังเปิดเฉพาะในเครื่องตามคำสั่งผู้ใช้

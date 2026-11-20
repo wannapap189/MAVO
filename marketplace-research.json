@@ -1,0 +1,205 @@
+{
+  "checkedOn": "2026-11-19",
+  "marketplace": "Shopee Thailand",
+  "purpose": "ตัวอย่างการอ่านข้อมูลหน้าสินค้าก่อนเทียบความคุ้มค่า ไม่ใช่การจัดอันดับร้านค้าหรือผลทดสอบคุณภาพ",
+  "method": "ค้นหาและเปิดหน้าสินค้าบนโดเมน Shopee ผ่านเครื่องมือเว็บสาธารณะ โดยแยกผลค้นหาออกจากข้อมูลหน้าสินค้าที่เปิดอ่าน การเปิด URL แบบ /product/shop/item ผ่านเบราว์เซอร์ปกติคืนหน้าเปล่า จึงไม่ใช้ยืนยันรายละเอียด ไม่เข้าสู่ระบบ ไม่ซื้อ ไม่ติดต่อร้าน และไม่เข้าถึงระบบหลังการขาย",
+  "priceScope": "ตัวเลขเป็นราคาที่พบในข้อความหน้าสินค้าหรือผลค้นหา ไม่ใช่ยอดชำระที่ตรวจสอบแล้ว เนื้อหาอาจเป็นข้อมูลที่เครื่องมือเว็บเก็บไว้ ต้องตรวจตัวเลือก ราคา สิทธิ์ส่ง และสต็อกอีกครั้งก่อนซื้อ",
+  "findings": [
+    "ราคาที่ต่ำกว่าหรือช่องทางขายไม่ใช่ผลทดสอบคุณภาพตลับ",
+    "มีรายการที่ชื่อสินค้าระบุรับประกัน 6 เดือน จึงไม่ควรกล่าวว่าสินค้าใน Shopee ไม่มีรับประกัน",
+    "ราคาช่วงของหลายตัวเลือกไม่ยืนยันว่าตลับหมึกและดรัมเป็นสินค้าชิ้นเดียวกันหรือขายเป็นชุด",
+    "ราคาในผลค้นหาอาจไม่ตรงกับหน้าสินค้าที่เปิดอ่าน เช่น CHIC พบผลค้นหา 260 บาท แต่หน้าสินค้าแสดง 450 บาทและสินค้าหมด",
+    "ยังไม่มีรายการใดในชุดนี้ที่ยืนยันฐาน VAT และยอดส่งถึงปลายทางครบ จึงยังไม่คำนวณส่วนต่างราคาหรือเปอร์เซ็นต์เทียบ MAVO"
+  ],
+  "listings": [
+    {
+      "id": "shopee-111406663-17686717750",
+      "shopId": "111406663",
+      "itemId": "17686717750",
+      "shopName": "kingvision",
+      "label": "TN-1000 / DR-1000 สำหรับ Brother รับประกัน 6 เดือน",
+      "sourceUrl": "https://shopee.co.th/หมึกพิมพ์-TN-1000-และ-ดรัม-DR-1000-(เทียบเท่า)-สำหรับ-Brother--รับประกัน-6-เดือน-i.111406663.17686717750",
+      "sourceKind": "primary-product-page-extracted",
+      "sourceCrawlLabel": "today",
+      "model": {
+        "codesMentioned": ["TN-1000", "DR-1000"],
+        "variantCountObserved": 2,
+        "selectedVariant": null,
+        "priceToVariantMapping": "unknown",
+        "packQuantity": null,
+        "isTonerOnly": null,
+        "note": "ชื่อสินค้ารวมทั้งโทนเนอร์และดรัม มี 2 ตัวเลือก แต่ข้อมูลที่อ่านได้ไม่ระบุว่าราคาใดเป็นตัวเลือกใด จึงไม่ถือว่าราคาต่ำสุดคือ TN1000 หรือเป็นชุดสองชิ้น"
+      },
+      "price": {
+        "displayText": "199–269 บาท",
+        "minimum": 199,
+        "maximum": 269,
+        "currency": "THB",
+        "basis": "listing-range-with-unselected-variants",
+        "vatBasis": "unknown",
+        "vatInvoiceAvailable": null,
+        "verifiedPriceIncVat": null,
+        "checkoutTotal": null,
+        "promotionEligibility": "unknown"
+      },
+      "shipping": {
+        "displayClaim": "ส่งฟรี",
+        "feeToBuyerDestination": null,
+        "eligibilityVerified": false,
+        "note": "ข้อความส่งฟรีปรากฏบนหน้า แต่ยังไม่ได้ตรวจปลายทาง โค้ด หรือเงื่อนไขของบัญชีผู้ซื้อ"
+      },
+      "warranty": {
+        "sellerClaimObserved": true,
+        "claimedMonths": 6,
+        "claimBasis": "product-title",
+        "detailedConditions": "unknown",
+        "replacementOrRepair": "unknown",
+        "returnShippingResponsibility": "unknown",
+        "onsiteService": "unknown"
+      },
+      "availability": "unknown",
+      "qualityAssessment": "not-tested",
+      "verifiedYield": null,
+      "eligibleForMavoPriceComparison": false,
+      "exclusionReasons": ["ยังไม่จับคู่ราคากับตัวเลือกโทนเนอร์/ดรัม", "ฐาน VAT ยังไม่ยืนยัน", "ยอดจ่ายจริงรวมส่งยังไม่ยืนยัน"],
+      "educationalPoint": "ก่อนเทียบราคา ให้เลือกชนิดสินค้าให้ตรงกัน และอ่านเงื่อนไขรับประกันจริง ไม่ดูเพียงจำนวนเดือนในชื่อสินค้า",
+      "checkedOn": "2026-11-19"
+    },
+    {
+      "id": "shopee-1535927607-24396177434",
+      "shopId": "1535927607",
+      "itemId": "24396177434",
+      "shopName": "FIRST IT Plus++",
+      "label": "TN1000 TN-1000 CHIC Toner Cartridge",
+      "sourceUrl": "https://shopee.co.th/TN-1000-CHIC-Toner-Cartridge-ตลับหมึกเครื่องพิมพ์เลเซอร์-คุณภาพดี-ราคาประหยัด-รับประกันสินค้า-i.1535927607.24396177434",
+      "sourceKind": "primary-product-page-extracted",
+      "sourceCrawlLabel": "today",
+      "model": {
+        "codesMentioned": ["TN1000", "TN-1000"],
+        "variantCountObserved": null,
+        "selectedVariant": null,
+        "packQuantity": null,
+        "isTonerOnly": true,
+        "identificationBasis": "title-identifies-toner-cartridge",
+        "note": "ชื่อระบุโทนเนอร์ TN1000 แบรนด์ CHIC แต่จำนวนต่อแพ็กและตัวเลือกที่ซื้อจริงยังไม่ยืนยัน"
+      },
+      "price": {
+        "displayText": "450 บาท · หน้าสินค้าแสดงสินค้าหมด",
+        "amount": 450,
+        "currency": "THB",
+        "basis": "out-of-stock-product-page-display",
+        "vatBasis": "unknown",
+        "vatInvoiceAvailable": null,
+        "verifiedPriceIncVat": null,
+        "checkoutTotal": null,
+        "promotionEligibility": "unknown",
+        "searchResultConflict": {
+          "amountInEarlierSearchResult": 260,
+          "searchCrawlLabel": "last month",
+          "amountInOpenedPage": 450,
+          "resolution": "ไม่ใช้ 260 บาทเป็นราคาซื้อได้ปัจจุบัน และไม่ใช้ 450 บาทเป็นข้อเสนอที่มีสินค้าพร้อมซื้อ"
+        }
+      },
+      "shipping": {
+        "displayClaim": "ส่งฟรี",
+        "feeToBuyerDestination": null,
+        "eligibilityVerified": false,
+        "note": "มีข้อความส่งฟรี แต่หน้าระบุสินค้าหมดและไม่ได้ตรวจยอดชำระตามปลายทาง"
+      },
+      "warranty": {
+        "sellerClaimObserved": true,
+        "claimedMonths": null,
+        "claimBasis": "title-says-warranty",
+        "detailedConditions": "unknown",
+        "replacementOrRepair": "unknown",
+        "returnShippingResponsibility": "unknown",
+        "onsiteService": "unknown"
+      },
+      "availability": "listed-out-of-stock",
+      "qualityAssessment": "not-tested",
+      "verifiedYield": null,
+      "eligibleForMavoPriceComparison": false,
+      "exclusionReasons": ["หน้าสินค้าระบุสินค้าหมด", "ราคาในผลค้นหากับหน้าสินค้าแตกต่างกัน", "ฐาน VAT และยอดรวมส่งยังไม่ยืนยัน", "จำนวนต่อแพ็กยังไม่ยืนยัน"],
+      "educationalPoint": "เปิดหน้าสินค้าอีกครั้งเพื่อตรวจราคาและสต็อก อย่าใช้ตัวเลขจากผลค้นหาเพียงอย่างเดียว และไม่ตีความว่ารายละเอียดรับประกันที่ยังอ่านไม่ครบคือไม่มีรับประกัน",
+      "checkedOn": "2026-11-19"
+    },
+    {
+      "id": "shopee-772986767-29054669106",
+      "shopId": "772986767",
+      "itemId": "29054669106",
+      "shopName": "SAETHANG COMPANY SHOP",
+      "label": "TN2560XL สีดำ ระบุ 3,000 แผ่น และ 1 ตลับ",
+      "sourceUrl": "https://shopee.co.th/TN2560XL-TN2560-XL-BK-3-000-แผ่น-1-ตลับ-Brother-HL-L2400D-L2440DW-L2460DW(XL)-L2460DN-i.772986767.29054669106",
+      "sourceKind": "primary-product-page-extracted",
+      "sourceCrawlLabel": "2 weeks ago",
+      "model": {
+        "codesMentioned": ["TN2560XL", "TN2560 XL"],
+        "variantCountObserved": null,
+        "selectedVariant": null,
+        "packQuantity": 1,
+        "packQuantityBasis": "seller-title-claim",
+        "isTonerOnly": true,
+        "note": "ชื่อระบุรุ่น XL และ 1 ตลับ ไม่ใช่หลักฐานว่ามีความจุหรือผลพิมพ์เท่ากับ MAVO TN2560"
+      },
+      "price": {
+        "displayText": "238 บาท",
+        "amount": 238,
+        "crossedOutAmount": 460,
+        "currency": "THB",
+        "basis": "product-page-displayed-price-not-checkout",
+        "vatBasis": "unknown",
+        "vatInvoiceAvailable": null,
+        "verifiedPriceIncVat": null,
+        "checkoutTotal": null,
+        "promotionEligibility": "unknown"
+      },
+      "shipping": {
+        "displayClaim": "ส่งฟรี",
+        "feeToBuyerDestination": null,
+        "eligibilityVerified": false,
+        "note": "ยังไม่ได้ตรวจเงื่อนไขตามปลายทางและบัญชีผู้ซื้อ ข้อความหน้าเว็บไม่ใช่ยอดส่งที่ยืนยันแล้ว"
+      },
+      "warranty": {
+        "sellerClaimObserved": null,
+        "claimedMonths": null,
+        "claimBasis": "not-verified-in-accessible-extract",
+        "detailedConditions": "unknown",
+        "replacementOrRepair": "unknown",
+        "returnShippingResponsibility": "unknown",
+        "onsiteService": "unknown"
+      },
+      "availability": "unknown",
+      "qualityAssessment": "not-tested",
+      "sellerYieldClaim": {"amount": 3000, "unitAsListed": "แผ่น", "basis": "product-title", "testMethod": "unknown"},
+      "verifiedYield": null,
+      "eligibleForMavoPriceComparison": false,
+      "exclusionReasons": ["ระบุ XL ซึ่งยังไม่ได้เทียบความจุกับ MAVO TN2560", "ไม่มีผลทดสอบยืนยันจำนวนหน้าที่ใช้ได้เท่ากัน", "ฐาน VAT และยอดรวมส่งยังไม่ยืนยัน", "สต็อกปัจจุบันยังไม่ยืนยัน"],
+      "educationalPoint": "แยกรหัสปกติกับ XL และแยกคำกล่าวอ้างจำนวนแผ่นของผู้ขายออกจากผลทดสอบจำนวนหน้าที่ใช้งานได้จริง",
+      "checkedOn": "2026-11-19"
+    }
+  ],
+  "unverifiedLeads": [
+    {
+      "shopId": "1341208044",
+      "itemId": "43106979575",
+      "providedLabel": "TN2560XL",
+      "sourceUrl": "https://shopee.co.th/product/1341208044/43106979575",
+      "status": "not-verified",
+      "reason": "เครื่องมือเว็บเปิด URL ไม่ได้ และเบราว์เซอร์ปกติคืนหน้าเปล่า ไม่มีชื่อ ราคา หรือรายละเอียดที่ตรวจสอบได้ จึงใช้ตัวอย่าง TN2560XL อื่นที่เปิดหน้าสินค้าได้แทน",
+      "price": null,
+      "warranty": "unknown",
+      "qualityAssessment": "not-tested"
+    }
+  ],
+  "suggestedPublicCopy": {
+    "heading": "ราคาต่างกัน ควรตรวจอะไรให้ครบ",
+    "intro": "โทนเนอร์ใน Shopee มีหลายผู้ขาย หลายตัวเลือก และหลายเงื่อนไข บางรายการระบุรับประกันด้วย ความคุ้มค่าจึงควรเทียบจากสินค้าที่เลือกจริง ยอดจ่ายรวม และผลพิมพ์ของงานคุณ",
+    "comparisonQuestions": [
+      "เป็นตลับหมึก ดรัม หรือชุดสินค้า และเป็นรุ่นปกติหรือ XL?",
+      "ราคาสำหรับกี่ตลับ รวม VAT และค่าจัดส่งตามปลายทางแล้วหรือยัง?",
+      "จำนวนหน้าที่ระบุทดสอบอย่างไร และนับเฉพาะหน้าที่ใช้งานได้หรือไม่?",
+      "รับประกันอะไร ต้องส่งหลักฐานใด ใครออกค่าส่ง และมีบริการถึงที่ในพื้นที่ของคุณหรือไม่?"
+    ],
+    "scope": "ตัวอย่างหน้าสินค้าใช้ฝึกตรวจข้อมูล ไม่ใช่หลักฐานว่าร้านใดคุณภาพต่ำ หมึกไม่เต็ม หรือทำให้เครื่องเสีย ยังไม่มีการทดสอบสินค้าของร้านเหล่านี้เทียบ MAVO"
+  }
+}

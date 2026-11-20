@@ -1,0 +1,176 @@
+{
+  "checkedOn": "2026-11-19",
+  "method": "Publisher descriptions were checked through indexed YouTube results and the COPY-EXPERT public watch-page description read by the QA agent in normal Edge; a Brother official support page was read directly. The QA agent also inspected public watch-page metadata for title, playability, embedding and caption tracks. No media, caption files or transcripts were downloaded.",
+  "videos": [
+    {
+      "id": "yield-demo-copy-expert",
+      "videoId": "rGspfhUZtuc",
+      "verifiedTitle": "Compatible toner test Minolta Bizhub c224e C284e C364e TN321 test 25,000 copies Biuromax",
+      "catalogTitle": "Compatible toner test Minolta Bizhub c224e C284e C364e TN321 test 25,000 copies Biuromax",
+      "publisher": "COPY-EXPERT by Tomasz Jemiołek",
+      "url": "https://www.youtube.com/watch?v=rGspfhUZtuc",
+      "metadataVerification": {
+        "title": "Verified in public watch-page metadata by the QA agent using normal Edge.",
+        "publisher": "The indexed publisher description credits COPY-EXPERT Movie Studio by Tomasz Jemiołek for toner testing and film production; the current channel display name was not loaded directly.",
+        "publicationDate": null,
+        "indexedDescriptionVerifiedFacts": [
+          "The test was commissioned by Biuromax.",
+          "The description mentions 25,000 pages.",
+          "The cartridge references include TN321 for Minolta bizhub C224e/C284e/C364e."
+        ]
+      },
+      "summaryBasis": "publisher-description",
+      "summaryLabel": "สรุปไทยจากคำอธิบายผู้เผยแพร่ที่ค้นพบ ไม่ใช่คำบรรยายในคลิป",
+      "summaryParagraphs": [
+        "คำอธิบายคลิประบุการบันทึกเคาน์เตอร์ สภาพเครื่อง อุณหภูมิ และความชื้นก่อนทดสอบ แล้วตรวจเคาน์เตอร์อีกครั้งหลังพิมพ์งานสี 25,000 หน้า เป็นงานทดสอบ TN321 ที่ Biuromax ว่าจ้าง",
+        "การประเมินที่ระบุครอบคลุมความเข้ม ความต่างระดับภาพ พื้นหลัง ภาพซ้อน งานพิมพ์ผิดปกติ และปริมาณผงเสีย พร้อมตรวจดรัม ชุดสร้างภาพ ชุดถ่ายโอนภาพ และชุดความร้อน จึงเป็นตัวอย่างของการดูทั้งผลงานพิมพ์และสภาพเครื่องร่วมกัน"
+      ],
+      "takeaways": [
+        "บันทึกเคาน์เตอร์ก่อนและหลัง พร้อมเงื่อนไขแวดล้อมของการทดสอบ",
+        "ดูงานพิมพ์หลายด้าน ทั้งพื้นหลัง ภาพซ้อน และหน้าที่ผิดปกติ",
+        "ตรวจผงเสียและชิ้นส่วนหลังทดสอบ โดยแยกผลเฉพาะรุ่นออกจากคำกล่าวอ้างทั่วไป"
+      ],
+      "applyToBusiness": [
+        "ก่อนทดลอง ขอข้อมูลรุ่นเครื่อง ตลับ และเงื่อนไขที่ใช้ทดสอบจากผู้ขาย",
+        "เก็บตัวอย่างเอกสารและผลใช้งานจากเครื่องของธุรกิจเองประกอบการตัดสินใจ"
+      ],
+      "applyToBusinessBasis": "Editorial guidance for MAVO readers; not a quotation or claimed instruction from the video.",
+      "limitations": "ผลในตัวอย่างจำกัดเฉพาะตลับ TN321 และเครื่องที่ทดสอบ เป็นงานที่ Biuromax ว่าจ้าง ไม่ใช่หลักฐานการรับรองจากหน่วยงานอิสระ และไม่ใช่ผลทดสอบตลับ MAVO",
+      "relatedArticleIds": [
+        "print-quality-check",
+        "usable-page-cost",
+        "toner-material-and-compatibility"
+      ],
+      "sources": [
+        {
+          "title": "COPY-EXPERT — คำอธิบายวิดีโอทดสอบ TN321 บน YouTube",
+          "url": "https://www.youtube.com/watch?v=rGspfhUZtuc",
+          "basis": "Public watch-page shortDescription read by the QA agent in normal Edge, including the listed test observations and commercial commissioning disclosure; not a transcript."
+        }
+      ],
+      "captions": {
+        "status": "available",
+        "languages": [
+          "pl",
+          "en"
+        ],
+        "thaiStatus": "auto-translation-available",
+        "transcriptStatus": "not-accessed",
+        "note": "พบแทร็กคำบรรยายโปแลนด์และอังกฤษ พร้อมตัวเลือกแปลเป็นไทยอัตโนมัติ ไม่พบแทร็กภาษาไทยต้นฉบับ การแปลอัตโนมัติอาจคลาดเคลื่อน และสรุปไทยหน้านี้ไม่ได้แปลมาจาก transcript",
+        "hasNativeThai": false,
+        "thaiAutoTranslationAvailable": true,
+        "metadataEvidencePath": "qa/youtube-last-two-caption-metadata.json",
+        "tracks": [
+          {
+            "languageCode": "pl",
+            "name": "โปแลนด์",
+            "translatable": true
+          },
+          {
+            "languageCode": "en",
+            "name": "อังกฤษ",
+            "translatable": true
+          }
+        ]
+      },
+      "embedding": {
+        "status": "allowed",
+        "candidateEmbedUrl": "https://www.youtube-nocookie.com/embed/rGspfhUZtuc",
+        "note": "เมทาดาต้าหน้า YouTube ที่เปิดผ่าน Edge ระบุสถานะเล่นได้และอนุญาตฝัง ตรวจเมื่อ 19 พฤศจิกายน 2569",
+        "playability": "OK",
+        "embedFlag": true,
+        "metadataEvidencePath": "qa/youtube-last-two-caption-metadata.json"
+      },
+      "checkedOn": "2026-11-19"
+    },
+    {
+      "id": "brother-drum-troubleshooting",
+      "videoId": "cVzefMLQmuM",
+      "verifiedTitle": "How to Clean Drum Unit | Brother™ MFC-9970CDW",
+      "publisher": "Brother Office USA",
+      "url": "https://www.youtube.com/watch?v=cVzefMLQmuM",
+      "metadataVerification": {
+        "title": "Verified in the indexed YouTube result.",
+        "publisher": "Verified in the indexed YouTube result.",
+        "publicationDate": "2014-05-14",
+        "indexedDescriptionVerifiedFacts": [
+          "The publisher describes the video as an official Brother printer support resource.",
+          "The title identifies drum-unit cleaning for MFC-9970CDW."
+        ]
+      },
+      "summaryBasis": "publisher-description",
+      "summaryLabel": "สรุปไทยจากชื่อและคำอธิบายคลิป พร้อมส่วนจากคู่มือ Brother ประกอบ",
+      "summaryParagraphs": [
+        "คลิปจาก Brother Office USA นำเสนอหัวข้อการทำความสะอาดชุดดรัมของ MFC-9970CDW โดยคำอธิบายระบุว่าเป็นแหล่งช่วยเหลือเครื่องพิมพ์อย่างเป็นทางการของ Brother",
+        "จากคู่มือประกอบ: Brother ให้ใช้แผ่น Drum Dot Print ช่วยเทียบสีและตำแหน่งรอย ก่อนตรวจบริเวณที่เกี่ยวข้องบนดรัม จึงเป็นตัวอย่างของการเก็บหลักฐานอาการก่อนลงมือดูแลชิ้นส่วน",
+        "จากคู่มือประกอบ: ไม่แตะผิวดรัม และไม่ใช้ของแหลมขูดทำความสะอาด รวมถึงไม่ใช้แอลกอฮอล์ แอมโมเนีย หรือสเปรย์กับเครื่อง ควรอ่านขั้นตอนและภาพของรุ่น MFC-9970CDW ให้ครบก่อนปฏิบัติ"
+      ],
+      "takeaways": [
+        "หัวข้อของคลิปคือการทำความสะอาดชุดดรัมรุ่น MFC-9970CDW",
+        "ผู้เผยแพร่คือ Brother Office USA และคำอธิบายระบุว่าเป็นแหล่งช่วยเหลือทางการ",
+        "เนื้อหาเป็นการดูแลเครื่องเฉพาะรุ่น ไม่ใช่การทดสอบตลับ MAVO"
+      ],
+      "applyToBusiness": [
+        "เก็บรูปอาการและชื่อรุ่นเครื่องไว้ให้ผู้ดูแลหรือทีมบริการตรวจ",
+        "ตรวจคู่มือให้ตรงรุ่นก่อนทำความสะอาดหรือเปลี่ยนชิ้นส่วน"
+      ],
+      "applyToBusinessBasis": "Editorial guidance for MAVO readers; not a quotation or claimed instruction from the video.",
+      "limitations": "วิธีดูแลในคลิปและคู่มือประกอบเป็นของ Brother MFC-9970CDW ต้องตรวจคู่มือให้ตรงรุ่นก่อนใช้กับเครื่องอื่น อาการพิมพ์ผิดปกติอาจมีหลายสาเหตุ จึงไม่ควรสรุปทุกกรณีว่าเกิดจากดรัมหรือตลับโทนเนอร์",
+      "relatedArticleIds": [
+        "print-quality-check",
+        "toner-material-and-compatibility"
+      ],
+      "sources": [
+        {
+          "title": "Brother Office USA — How to Clean Drum Unit | Brother™ MFC-9970CDW",
+          "url": "https://www.youtube.com/watch?v=cVzefMLQmuM",
+          "basis": "Indexed publisher title, channel, publication date and short official-resource description."
+        },
+        {
+          "title": "Brother Support — Clean the drum unit (MFC-9970CDW)",
+          "url": "https://support.brother.com/g/b/faqend.aspx?c=vn&faqid=faq00002256_010&lang=en&pfs=1&prod=mfc9970cdw_all",
+          "basis": "Official written guide read directly; supplementary reference, not a video transcript."
+        }
+      ],
+      "companionGuide": {
+        "basis": "official-written-manual",
+        "note": "คู่มือประกอบอธิบายการใช้ Drum Dot Print เพื่อช่วยหาตำแหน่งรอยบนดรัม และมีข้อควรระวังในการทำความสะอาด ควรเปิดอ่านขั้นตอนและภาพจาก Brother ให้ครบก่อนปฏิบัติ",
+        "sourceUrl": "https://support.brother.com/g/b/faqend.aspx?c=vn&faqid=faq00002256_010&lang=en&pfs=1&prod=mfc9970cdw_all"
+      },
+      "captions": {
+        "status": "available",
+        "languages": [
+          "en"
+        ],
+        "thaiStatus": "auto-translation-available",
+        "transcriptStatus": "not-accessed",
+        "note": "พบคำบรรยายอังกฤษที่สร้างอัตโนมัติ พร้อมตัวเลือกแปลเป็นไทยอัตโนมัติ ไม่พบแทร็กภาษาไทยต้นฉบับ ทั้งการจับคำพูดและการแปลอาจคลาดเคลื่อน และสรุปไทยหน้านี้ไม่ได้แปลมาจาก transcript",
+        "hasNativeThai": false,
+        "thaiAutoTranslationAvailable": true,
+        "metadataEvidencePath": "qa/youtube-last-two-caption-metadata.json",
+        "tracks": [
+          {
+            "languageCode": "en",
+            "name": "อังกฤษ (สร้างอัตโนมัติ)",
+            "kind": "asr",
+            "translatable": true
+          }
+        ]
+      },
+      "embedding": {
+        "status": "allowed",
+        "candidateEmbedUrl": "https://www.youtube-nocookie.com/embed/cVzefMLQmuM",
+        "note": "เมทาดาต้าหน้า YouTube ที่เปิดผ่าน Edge ระบุสถานะเล่นได้และอนุญาตฝัง ตรวจเมื่อ 19 พฤศจิกายน 2569",
+        "playability": "OK",
+        "embedFlag": true,
+        "metadataEvidencePath": "qa/youtube-last-two-caption-metadata.json"
+      },
+      "checkedOn": "2026-11-19"
+    }
+  ],
+  "metadataEvidence": {
+    "path": "qa/youtube-last-two-caption-metadata.json",
+    "checkedAt": "2026-11-19T15:03:58.855Z",
+    "method": "Normal Edge public YouTube watch-page metadata inspected by the QA agent."
+  }
+}

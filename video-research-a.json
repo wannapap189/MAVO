@@ -1,0 +1,148 @@
+{
+  "videos": [
+    {
+      "id": "laser-process-static-control",
+      "videoId": "WB0HnXcW8qQ",
+      "verifiedTitle": "How a Color Laser Printer Works -- Inside an HP® 2600 Toner Cartridge",
+      "publisher": "Static Control",
+      "publisherChannelId": "UCzuClAcNG5aXLaUg_-Rgebg",
+      "url": "https://www.youtube.com/watch?v=WB0HnXcW8qQ",
+      "summaryBasis": "publisher-description",
+      "summaryLabel": "สรุปภาษาไทยจากคำอธิบายผู้เผยแพร่และบทความประกอบของ Static Control",
+      "summaryParagraphs": [
+        "Static Control ใช้ภาพเคลื่อนไหวอธิบายกระบวนการสร้างภาพด้วยไฟฟ้าสถิตในเครื่องเลเซอร์สี HP 2600 เว็บไซต์ของผู้เผยแพร่เชื่อมคลิปนี้กับการทำงานร่วมกันของชิ้นส่วนในตลับ HP 124A ที่ใช้กับเครื่องดังกล่าว จึงเหมาะเป็นภาพรวมก่อนศึกษาหน้าที่ของชิ้นส่วนแต่ละตัว"
+      ],
+      "takeaways": [
+        "เป็นภาพเคลื่อนไหวอธิบายกลไกภายในตลับ",
+        "ใช้เครื่อง HP 2600 เป็นตัวอย่างเฉพาะรุ่น",
+        "มองการทำงานของชิ้นส่วนร่วมกันทั้งระบบ"
+      ],
+      "applyToBusiness": [
+        "ใช้เป็นพื้นฐานตั้งคำถามเรื่องรุ่นเครื่องและตลับที่รองรับ",
+        "ตรวจงานพิมพ์จริงควบคู่กับข้อมูลชิ้นส่วนและปริมาณผงหมึก"
+      ],
+      "applicationLabel": "ข้อเสนอของ MAVO สำหรับนำความรู้ไปใช้",
+      "limitations": "สื่อจากผู้ขายชิ้นส่วนและตลับ ใช้ HP 2600 เป็นตัวอย่าง กลไกของเครื่องรุ่นอื่นอาจต่างกัน และไม่ใช่ผลทดสอบหรือการรับรองคุณภาพ MAVO",
+      "relatedArticleIds": ["toner-material-and-compatibility", "print-quality-check", "weight-and-new-cartridge"],
+      "sources": [
+        {"title": "Static Control — คำอธิบายคลิปจากหน้า YouTube", "url": "https://www.youtube.com/watch?v=WB0HnXcW8qQ"},
+        {"title": "Static Control — How A Laser Printer Works: The PCR", "url": "https://www.scc-inc.com/post/how-a-laser-printer-works-the-pcr"}
+      ],
+      "captions": {
+        "status": "english-auto-generated-observed",
+        "languages": [{"code": "en", "label": "English (auto-generated)", "kind": "asr", "isTranslatable": true}],
+        "nativeThaiTrackObserved": false,
+        "thaiAutoTranslationListed": true,
+        "transcriptRetrieved": false,
+        "evidence": "หน้า YouTube มี captionTracks ภาษา en ชนิด asr และมี th ใน translationLanguages",
+        "displayNote": "พบคำบรรยายอังกฤษอัตโนมัติ และรายการแปลอัตโนมัติเป็นไทยในข้อมูล YouTube ยังไม่ได้ตรวจข้อความแปลจริง เมนูและการแปลอาจต่างตามอุปกรณ์หรือการรับชม"
+      },
+      "embedding": {
+        "status": "allowed-in-player-metadata",
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "playbackVerified": false,
+        "evidence": "อ่าน playabilityStatus จาก ytInitialPlayerResponse ของหน้า YouTube สาธารณะ ยังไม่ได้ทดสอบเล่นใน iframe ของเว็บไซต์"
+      },
+      "verificationMethod": "อ่านข้อมูลหน้า YouTube สาธารณะด้วย Playwright และบทความผู้เผยแพร่ เคยเปิด Show transcript และอ่านได้เฉพาะส่วนท้ายประมาณ 1:48–2:14 แต่ไม่ได้ใช้เป็นฐานสรุป เพราะยังไม่ได้ตรวจเนื้อหาครบ ไม่บันทึกไฟล์เสียง วิดีโอ หรือบทถอดเสียง",
+      "checkedOn": "2026-11-19"
+    },
+    {
+      "id": "canon-fusing",
+      "videoId": "On1TwHfyjuE",
+      "verifiedTitle": "Energy Conservation Technologies: On-Demand Fixing Technology (Canon Official)",
+      "publisher": "Canon",
+      "publisherChannelId": "UC2LLGCrrYhr-wpsLiunMx5Q",
+      "url": "https://www.youtube.com/watch?v=On1TwHfyjuE",
+      "summaryBasis": "transcript",
+      "summaryLabel": "สรุปภาษาไทยจากบทถอดเสียงอังกฤษอัตโนมัติที่เปิดอ่านบน YouTube",
+      "summaryParagraphs": [
+        "คลิปอธิบายว่าการยึดผงหมึกกับกระดาษใช้ความร้อนทำให้ผงหมึกหลอม แล้วใช้แรงกดให้ติดกระดาษ จากนั้นเปรียบเทียบการอุ่นลูกกลิ้งแบบเดิมกับ On-Demand Fixing ของ Canon ที่ใช้ฮีตเตอร์เซรามิกและปลอกส่งผ่านความร้อนเมื่อได้รับสัญญาณพิมพ์",
+        "อีกแนวทางคือ IH Fixing ซึ่งสร้างความร้อนในลูกกลิ้งด้วยการเหนี่ยวนำแม่เหล็กไฟฟ้า เนื้อหามุ่งลดพลังงานของระบบ fixing คำอธิบายว่าฮีตเตอร์ไม่ใช้ไฟระหว่างรอ ไม่ได้หมายความว่าเครื่องทั้งเครื่องใช้ไฟเป็นศูนย์"
+      ],
+      "takeaways": [
+        "การยึดผงหมึกกับกระดาษอาศัยทั้งความร้อนและแรงกด",
+        "On-Demand Fixing ให้ความร้อนเมื่อมีงานพิมพ์",
+        "IH Fixing ใช้การเหนี่ยวนำแม่เหล็กไฟฟ้าสร้างความร้อน"
+      ],
+      "applyToBusiness": [
+        "แยกค่าใช้จ่ายของเครื่องออกจากราคาซื้อตลับเมื่อประเมินงบ",
+        "ตรวจคู่มือและเทคโนโลยีของเครื่องรุ่นที่ใช้อยู่ก่อนนำหลักการไปใช้"
+      ],
+      "applicationLabel": "ข้อเสนอของ MAVO สำหรับนำความรู้ไปใช้",
+      "limitations": "สื่ออธิบายเทคโนโลยีของ Canon มีมุมส่งเสริมแบรนด์ ไม่ใช่ผลทดสอบ MAVO หรือการรับรองว่าเครื่องทุกรุ่นใช้ระบบเดียวกัน",
+      "relatedArticleIds": ["toner-material-and-compatibility", "use-printer-settings-wisely", "usable-page-cost"],
+      "sources": [
+        {"title": "Canon — บทถอดเสียงอังกฤษอัตโนมัติในเมนู Show transcript ของ YouTube", "url": "https://www.youtube.com/watch?v=On1TwHfyjuE"},
+        {"title": "Canon Video Square — Energy Conservation Technologies: On-Demand Fixing Technology", "url": "https://global.canon/en/v-square/44.html"}
+      ],
+      "captions": {
+        "status": "english-auto-generated-observed",
+        "languages": [{"code": "en", "label": "English (auto-generated)", "kind": "asr", "isTranslatable": true}],
+        "nativeThaiTrackObserved": false,
+        "thaiAutoTranslationListed": true,
+        "transcriptRetrieved": true,
+        "transcriptMethod": "เปิดรายละเอียดคลิป กด Show transcript และอ่านแผง PAmodern_transcript_view ในหน้า YouTube ปกติ",
+        "transcriptSegmentsRead": 24,
+        "transcriptTimeRangeRead": "0:00–2:41",
+        "evidence": "พบ captionTracks ภาษา en ชนิด asr และ th ใน translationLanguages; อ่านข้อความในแผง Show transcript ได้ครบ 24 ช่วงที่แสดง รวมช่วงดนตรี",
+        "displayNote": "พบคำบรรยายอังกฤษอัตโนมัติ และรายการแปลอัตโนมัติเป็นไทยในข้อมูล YouTube ยังไม่ได้ตรวจข้อความแปลจริง เมนูและการแปลอาจต่างตามอุปกรณ์หรือการรับชม"
+      },
+      "embedding": {
+        "status": "allowed-in-player-metadata",
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "playbackVerified": false,
+        "evidence": "อ่าน playabilityStatus จาก ytInitialPlayerResponse ของหน้า YouTube สาธารณะ ยังไม่ได้ทดสอบเล่นใน iframe ของเว็บไซต์"
+      },
+      "verificationMethod": "ใช้ Playwright เปิดหน้า YouTube ปกติ ขยายคำอธิบายและกด Show transcript แล้วอ่านแผงข้อความที่ปรากฏ สรุปใจความใหม่เป็นภาษาไทยโดยไม่คัดลอกหรือแปลบทถอดเสียงทั้งชิ้น ไม่บันทึกไฟล์เสียง วิดีโอ หรือไฟล์บทถอดเสียง",
+      "checkedOn": "2026-11-19"
+    },
+    {
+      "id": "static-control-development",
+      "videoId": "LgU5uE3D2wE",
+      "verifiedTitle": "Static Control Replacement Cartridges",
+      "publisher": "Static Control",
+      "publisherChannelId": "UCzuClAcNG5aXLaUg_-Rgebg",
+      "url": "https://www.youtube.com/watch?v=LgU5uE3D2wE",
+      "summaryBasis": "publisher-description",
+      "summaryLabel": "สรุปภาษาไทยจากคำอธิบายผู้เผยแพร่ Static Control",
+      "summaryParagraphs": [
+        "ผู้เผยแพร่ระบุว่าคลิปเล่ากระบวนการคิดในการพัฒนาตลับทดแทนของ Static Control โดยมองการพัฒนาและการผลิตตลับเป็นระบบเดียวกัน ข้อความนี้เป็นแนวทางของผู้ผลิตที่ใช้ตั้งคำถามต่อเรื่องการออกแบบและการตรวจสินค้าได้ ยังไม่ใช่ผลทดสอบอิสระ"
+      ],
+      "takeaways": [
+        "เนื้อหามุ่งที่แนวคิดการพัฒนาตลับของ Static Control",
+        "ผู้ผลิตเสนอให้มองตลับเป็นระบบที่ทำงานร่วมกัน",
+        "คำอธิบายไม่ได้ระบุผลทดสอบหรือจำนวนหน้าของ MAVO"
+      ],
+      "applyToBusiness": [
+        "ถามผู้ขายว่าตรวจการทำงานร่วมกันของผงหมึกและชิ้นส่วนอย่างไร",
+        "ขอหลักฐานเฉพาะรุ่นที่ซื้อ แทนการใช้คลิปของผู้ผลิตอื่นรับรองสินค้า"
+      ],
+      "applicationLabel": "ข้อเสนอของ MAVO สำหรับนำความรู้ไปใช้",
+      "limitations": "เป็นสื่อของผู้ผลิตเอง คำว่า replacement ไม่ยืนยันว่าตลับในคลิปทุกชิ้นเป็นตลับผลิตใหม่ และไม่มีหลักฐานเชื่อมโรงงานนี้กับ MAVO",
+      "relatedArticleIds": ["smart-toner-buying-for-business", "toner-material-and-compatibility", "print-quality-check"],
+      "sources": [
+        {"title": "Static Control — คำอธิบายคลิปจากหน้า YouTube", "url": "https://www.youtube.com/watch?v=LgU5uE3D2wE"}
+      ],
+      "captions": {
+        "status": "not-observed-in-player-metadata",
+        "languages": [],
+        "nativeThaiTrackObserved": false,
+        "thaiAutoTranslationListed": null,
+        "transcriptRetrieved": false,
+        "evidence": "ไม่พบ captions หรือ captionTracks ใน ytInitialPlayerResponse ที่ตรวจครั้งนี้",
+        "displayNote": "ยังไม่พบข้อมูลคำบรรยายจากการตรวจครั้งนี้ จึงไม่ยืนยันว่ามีซับไทยหรือแปลอัตโนมัติได้ อ่านสรุปภาษาไทยประกอบได้"
+      },
+      "embedding": {
+        "status": "allowed-in-player-metadata",
+        "playabilityStatus": "OK",
+        "playableInEmbed": true,
+        "playbackVerified": false,
+        "evidence": "อ่าน playabilityStatus จาก ytInitialPlayerResponse ของหน้า YouTube สาธารณะ ยังไม่ได้ทดสอบเล่นใน iframe ของเว็บไซต์"
+      },
+      "verificationMethod": "อ่านข้อมูลหน้า YouTube สาธารณะด้วย Playwright และเทียบคำอธิบายจากผลค้นหา ไม่บันทึกไฟล์เสียงหรือวิดีโอ ไม่ดึงหรือแปลบทถอดเสียง",
+      "checkedOn": "2026-11-19"
+    }
+  ]
+}
