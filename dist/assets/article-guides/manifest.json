@@ -1,5 +1,5 @@
 {
-  "sourceHash": "1b3493242bac20443ecfa5cfc90cb04b220a6485b2b7779326390f719b290c2a",
+  "sourceHash": "0cffdde6bc4b7b291ed44845d1b0fe2c172dfc184d246b1328977e747e6526ed",
   "builderHash": "6613a844a441c344e118d33aa2446200a060c02d701858d77bf54416d64754d2",
   "logoHash": "71dd3f771807d1a98f9f372b2cfc4a90765d9088b5a56a0723ea1347641ac9af",
   "edition": "20 พฤศจิกายน 2569",
@@ -29,7 +29,7 @@
         }
       ],
       "bytes": 307823,
-      "sha256": "343013677772ed5666f4cbffdda5bdb6102ae1655a476457b2c33b50716d5c92"
+      "sha256": "c247691cf871cf6ec7db5d2cf5900717b3413c1d6896ed15f083c0f3df66bed8"
     },
     {
       "id": "print-quality-check",
@@ -61,7 +61,7 @@
         }
       ],
       "bytes": 310498,
-      "sha256": "c8130c9076492ea85dc5c6dbf4c783396dd86de8c3fc769a643489c89d907d38"
+      "sha256": "ccf1719e3aa13909ce0c8e96229311b1a5f648b352f1e75292d6d4094d807e13"
     },
     {
       "id": "weight-and-new-cartridge",
@@ -88,7 +88,7 @@
         }
       ],
       "bytes": 308468,
-      "sha256": "81558429a8c96b6996807616200a0228431c7532d27e341142c206005ad408a8"
+      "sha256": "cf87b7e8f43425b930c18081c31dfa51294a78a8c57a42a42624ffcb48bd5801"
     },
     {
       "id": "usable-page-cost",
@@ -125,7 +125,7 @@
         }
       ],
       "bytes": 310432,
-      "sha256": "b16ba4cb06b7a58b2482e0dfbf655652241c01e38111f7ce51782155ed0d2911"
+      "sha256": "87fa19470355e5877d50ce0c3640119800e658cd6dee8f348cba190be21a955c"
     },
     {
       "id": "smart-toner-buying-for-business",
@@ -157,7 +157,7 @@
         }
       ],
       "bytes": 309244,
-      "sha256": "70055d7fe624426fbfa39674fc098ea23382b0a68c0d723f1e061f873d4f834d"
+      "sha256": "e8fd92749b57a338bbe428e5262d97796f55ea2e905b0977f68643f0a937e6b5"
     },
     {
       "id": "use-printer-settings-wisely",
@@ -189,7 +189,7 @@
         }
       ],
       "bytes": 309756,
-      "sha256": "f2333e5ddd7dc1b93a99ce1233b8d41fbb22c70bbb407ad96b581a534cad65f1"
+      "sha256": "2a5cb2741a682fdda29fe6e44d32c746644ada6ae1e5c889f6ceb7cdfc2874f9"
     },
     {
       "id": "price-multiples-and-savings-explained",
@@ -221,7 +221,7 @@
         }
       ],
       "bytes": 308378,
-      "sha256": "758ea9cc30238459642053072ecfecf160fb866e7ecb5cc691a5158a9cec2802"
+      "sha256": "e5eaf9a0319f4d1f188c4c327c8b41b67844c081abbc8154e8e33a80d9a2e8b3"
     },
     {
       "id": "business-office-print-budget",
@@ -253,7 +253,7 @@
         }
       ],
       "bytes": 309617,
-      "sha256": "8e68a32b7be7139bd95e61f972dfba605a594e6720341df4d32fd932c2092669"
+      "sha256": "1d4bf6ebb2f7a77286fc047058597fd5387bc06a548228d3fecc6a27d982155c"
     },
     {
       "id": "small-shop-print-budget",
@@ -285,7 +285,7 @@
         }
       ],
       "bytes": 307389,
-      "sha256": "c151b67c4ac4962280c3ce986fbba2a5a470477e185a789562779a00340e714a"
+      "sha256": "064206590f3b55b870723ace4ecb5b455e21af63ee25701b1234bcd7cff6f714"
     },
     {
       "id": "multi-branch-print-budget",
@@ -317,7 +317,7 @@
         }
       ],
       "bytes": 308100,
-      "sha256": "25e697803fc2c60c318a557ef87b4fb787d05624052f932fb0e1a47c3a1c8311"
+      "sha256": "304c7b5acff44376828fd9781c5dc85b64c977c4bc343440d90005918ceb2b45"
     },
     {
       "id": "online-shop-laser-print-budget",
@@ -349,7 +349,7 @@
         }
       ],
       "bytes": 308434,
-      "sha256": "ee2597fee9db8d600edb8830de2d63f4b1b3cec3d9b3b5b8b26538d25a8d0cdf"
+      "sha256": "5e5b60c07a3d4677770cf1428152cac15bd14ae4ee93a3d9c6cff7d20de71331"
     },
     {
       "id": "office-toner-budget-examples",
@@ -357,7 +357,7 @@
       "file": "office-toner-budget-examples.pdf",
       "pages": 1,
       "checkboxes": 4,
-      "notesHeight": 107.9,
+      "notesHeight": 121.9,
       "rows": [
         {
           "top": 324.6,
@@ -380,8 +380,8 @@
           "lines": 2
         }
       ],
-      "bytes": 310668,
-      "sha256": "8227147adf17a41db53e4f90105039b3cf123be97d17c7b27ceb7e4746287368"
+      "bytes": 310657,
+      "sha256": "6d30eb49a98ba31383f674edab9606f94a8133158b41302e69d59ef170521660"
     },
     {
       "id": "savings-to-business-profit",
@@ -413,7 +413,7 @@
         }
       ],
       "bytes": 309085,
-      "sha256": "bb3902910cc7adfb2bfde076621002e89ac5ff0e1d53bb75a06aaaaade8649f1"
+      "sha256": "45a9325c9e3e5ab169627be7ce4a3fdb6f1e63dc64b05f5b3adeb781a4e85807"
     },
     {
       "id": "saved-budget-next-sales",
@@ -445,7 +445,7 @@
         }
       ],
       "bytes": 307752,
-      "sha256": "028d3b32be41a374e0df17aa1806aeed2587a1e7e5347bfa1a2961ef1105bc97"
+      "sha256": "d02e3f187fbf79d86acb16a6a465c5d8444853f49b9f35dde7510765a85df7e7"
     },
     {
       "id": "time-back-for-customers",
@@ -477,7 +477,7 @@
         }
       ],
       "bytes": 307707,
-      "sha256": "65a94a040840562fb8a660646bec0a18345dec972ed4c71a9a8fc26ab0adafb6"
+      "sha256": "4b43f7a36a35f590555e9b570ad15e78b2053a9c10e3c33df92d66b9433ec286"
     },
     {
       "id": "toner-dealer-first-customers",
@@ -509,7 +509,7 @@
         }
       ],
       "bytes": 308176,
-      "sha256": "c8db7906fd001203eaac0683fb8324bf7f9a786d2cfa37b78aca7c33b14e7043"
+      "sha256": "ca3981228f3006dd11dbc618f51e09c575815626b509386866da5fbf38723f8e"
     }
   ]
 }

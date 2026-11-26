@@ -7,7 +7,7 @@
       <p class="hero-context">ส่งรุ่นเครื่องให้เราช่วยตรวจ เทียบความคุ้มค่าก่อนซื้อ<br>พร้อมทีม MAVO ดูแลต่อเมื่อเริ่มใช้งาน</p>
       <div class="actions home-line-actions">{{modelLineButton}}<a class="button secondary" href="#value-proof">เทียบความคุ้มค่า</a></div>
       <p class="hero-note">ส่งชื่อรุ่นหรือรูปป้ายเครื่องได้เลย · LINE OA @mavo</p>
-      <a class="hero-savings" href="#value-proof"><span class="hero-savings-label">ตัวอย่าง TN1000 · ส่วนต่างราคาซื้อต่อตลับ</span><strong>{{saving}} <small>บาท</small></strong><span class="hero-savings-pill">{{percent}}%</span><span class="hero-savings-note">เทียบราคารวม VAT · ดูรายละเอียดและแหล่งราคา</span></a>
+      <a class="hero-savings" href="#value-proof"><span class="hero-savings-label">ตัวอย่าง TN1000 · ต่ำกว่าราคาแค็ตตาล็อก</span><strong>{{saving}} <small>บาท</small></strong><span class="hero-savings-pill">{{percent}}%</span><span class="hero-savings-note">เทียบราคาจากแบรนด์ รวม VAT · ดูที่มา</span></a>
     </div>
     <div class="hero-photo"><span class="photo-label">CONFIDENCE, EVERY DAY.</span><img src="/assets/mavo-box-navy-cool-blue-v3.png" alt="ภาพคอนเซ็ปต์กล่องโทนเนอร์ MAVO สีน้ำเงินเข้มและฟ้า" width="1536" height="1024" fetchpriority="high"><div class="photo-bottom"><div><strong>ตลับใหม่ พร้อมทีมดูแล</strong><span>ช่วยตรวจรุ่นก่อนซื้อ ดูแลต่อหลังใช้งาน</span></div><div class="care-mark">รับประกัน 1 ปี<br><span>คุณภาพตลับตามเงื่อนไข</span></div></div></div>
   </div>
@@ -30,12 +30,13 @@
     </div>
     <div class="price-proof">
       <span class="tag">ตัวอย่างรหัสตลับ TN1000</span>
-      <div class="price-pair"><div><p class="small">ตลับแท้ Brother</p><div class="amount">{{oemPrice}}</div><p class="small muted">บาท / ตลับ รวม VAT</p></div><div><p class="small">MAVO MAV-TN1000</p><div class="amount">{{mavoPrice}}</div><p class="small muted">บาท / ตลับ รวม VAT และส่งปกติ</p></div></div>
+      <div class="price-pair"><div><p class="small">Brother · ราคาแค็ตตาล็อก</p><div class="amount">{{oemPrice}}</div><p class="small muted">บาท / ตลับ รวม VAT</p></div><div><p class="small">MAVO MAV-TN1000</p><div class="amount">{{mavoPrice}}</div><p class="small muted">บาท / ตลับ รวม VAT และส่งปกติ</p></div></div>
       <p class="saving">ส่วนต่าง <b>{{saving}} บาท</b> ({{percent}}%)</p>
-      <p class="source-note">ราคาอ้างอิง <a href="{{sourceUrl}}" target="_blank" rel="noopener noreferrer">Heresong</a> ณ 19 พ.ย. 2569<br>เป็นส่วนต่างราคาซื้อต่อตลับ ไม่ใช่ผลทดสอบว่าจำนวนหน้าหรือคุณภาพเท่ากัน</p>
+      <p class="source-note">ราคาอ้างอิง <a href="{{sourceUrl}}" target="_blank" rel="noopener noreferrer">{{sourceTitle}}</a> · ตรวจเมื่อ {{sourceDate}}<br>เทียบกับราคาที่แบรนด์ประกาศ ร้านค้าอาจขายต่ำกว่านี้ได้ ไม่ใช่ผลรับรองจำนวนหน้าหรือคุณภาพเท่ากัน</p>
       <a class="text-link" href="/compare.html?sku=MAV-TN1000">ดูรายละเอียดการเปรียบเทียบ</a>
     </div>
   </div>
+  {{brandComparisons}}
   <div class="container"><details class="home-budget-details"><summary>ถ้าซื้อทุกเดือน งบต่างกันเท่าไร?<span>ดูตัวอย่างตั้งงบของร้านค้า สำนักงาน และธุรกิจหลายสาขา</span></summary>{{businessExamples}}</details></div>
 </section>
 

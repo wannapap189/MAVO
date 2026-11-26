@@ -1,0 +1,212 @@
+{
+  "checkedOn": "2026-11-26",
+  "policy": "Official Thailand brand catalog or explicitly labelled brand webshop selling price. Never relabel store prices as SRP.",
+  "coverage": {
+    "BROTHER": {
+      "totalSkus": 32,
+      "verifiedSkus": 27,
+      "offers": 30
+    },
+    "CANON": {
+      "totalSkus": 12,
+      "verifiedSkus": 12,
+      "offers": 12
+    },
+    "PANTUM": {
+      "totalSkus": 3,
+      "verifiedSkus": 0,
+      "offers": 0
+    },
+    "SAMSUNG": {
+      "totalSkus": 13,
+      "verifiedSkus": 0,
+      "offers": 0
+    },
+    "HP": {
+      "totalSkus": 32,
+      "verifiedSkus": 32,
+      "offers": 34
+    }
+  },
+  "unverified": [
+    {
+      "sku": "MAV-TN2355",
+      "brand": "BROTHER",
+      "model": "TN2355",
+      "color": "ไม่ระบุ",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-TN240-BK",
+      "brand": "BROTHER",
+      "model": "TN240",
+      "color": "ดำ (BK)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-TN240-C",
+      "brand": "BROTHER",
+      "model": "TN240",
+      "color": "ฟ้า (C)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-TN240-M",
+      "brand": "BROTHER",
+      "model": "TN240",
+      "color": "ม่วงแดง (M)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-TN240-Y",
+      "brand": "BROTHER",
+      "model": "TN240",
+      "color": "เหลือง (Y)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-PC210EV",
+      "brand": "PANTUM",
+      "model": "PC210EV",
+      "color": "ไม่ระบุ",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-TL410X",
+      "brand": "PANTUM",
+      "model": "TL410X",
+      "color": "ไม่ระบุ",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-TL5120",
+      "brand": "PANTUM",
+      "model": "TL5120",
+      "color": "ไม่ระบุ",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-CLT404S-BK",
+      "brand": "SAMSUNG",
+      "model": "CLT - 404S",
+      "color": "ดำ (BK)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-CLT404S-C",
+      "brand": "SAMSUNG",
+      "model": "CLT - 404S",
+      "color": "ฟ้า (C)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-CLT404S-M",
+      "brand": "SAMSUNG",
+      "model": "CLT - 404S",
+      "color": "ม่วงแดง (M)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-CLT404S-Y",
+      "brand": "SAMSUNG",
+      "model": "CLT - 404S",
+      "color": "เหลือง (Y)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-CLT406S-BK",
+      "brand": "SAMSUNG",
+      "model": "CLT - 406S",
+      "color": "ดำ (BK)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-CLT406S-C",
+      "brand": "SAMSUNG",
+      "model": "CLT - 406S",
+      "color": "ฟ้า (C)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-CLT406S-M",
+      "brand": "SAMSUNG",
+      "model": "CLT - 406S",
+      "color": "ม่วงแดง (M)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-CLT406S-Y",
+      "brand": "SAMSUNG",
+      "model": "CLT - 406S",
+      "color": "เหลือง (Y)",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-D101S",
+      "brand": "SAMSUNG",
+      "model": "D101S",
+      "color": "ไม่ระบุ",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-D111S",
+      "brand": "SAMSUNG",
+      "model": "D111S",
+      "color": "ไม่ระบุ",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-MLTD109S",
+      "brand": "SAMSUNG",
+      "model": "MLT - D109S",
+      "color": "ไม่ระบุ",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-MLTD203L",
+      "brand": "SAMSUNG",
+      "model": "MLT - D203L",
+      "color": "ไม่ระบุ",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    },
+    {
+      "sku": "MAV-MLTD205L",
+      "brand": "SAMSUNG",
+      "model": "MLT - D205L",
+      "color": "ไม่ระบุ",
+      "reason": "No current Thailand brand price with verified model and VAT basis found."
+    }
+  ],
+  "researchNotes": [
+    {
+      "brand": "CANON",
+      "url": "https://th.canon/en/consumer/products/search?category=others&consumableType=TONER&relatedProduct=555&subCategory=consumables",
+      "note": "Cartridge 325 RRP 2645 found, VAT basis unconfirmed. Use distinct verified eStore selling price 2537, not RRP. Old YOU CAN brochures not used as current SRP."
+    },
+    {
+      "brand": "CANON",
+      "url": "https://goto.canon.co.th/estore/checkout/cart/",
+      "note": "Browser verified Cartridge 325: price/subtotal/net THB 2537, included VAT THB 165.97, free shipping. Test item removed; no order submitted."
+    },
+    {
+      "brand": "HP",
+      "url": "https://www.hp.com/th-th/shop/terms-conditions",
+      "note": "Price and shipping terms state prices include tax. Product prices sourced from official Thailand store; these are not claimed SRP."
+    },
+    {
+      "brand": "PANTUM",
+      "url": "https://pantum.co.th/consume-material-2/",
+      "note": "Catalog/specifications found but no verified Thai reference prices for requested consumables."
+    },
+    {
+      "brand": "SAMSUNG",
+      "url": "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs.html",
+      "note": "Requested Samsung toner prices not found in official Thailand HP catalog or Thailand brand search. Foreign currency prices and dealer prices excluded."
+    },
+    {
+      "brand": "PANTUM",
+      "url": "https://www.sisthai.com/Pricebook",
+      "note": "November 2026 pricebook checked. Printer machine SRP exists, but not requested toner prices; do not substitute printer prices."
+    }
+  ]
+}

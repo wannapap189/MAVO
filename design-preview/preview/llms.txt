@@ -1,0 +1,37 @@
+# MAVO
+
+> Public website source and latest responsive design preview for MAVO, a Thai B2B new-build compatible toner brand. Brand idea: leave more money for the business while printing with confidence.
+
+## Start here
+
+- [Project README](https://github.com/wannapap189/MAVO/blob/main/README.md): setup, existing website and publication boundaries.
+- [Latest design preview](https://github.com/wannapap189/MAVO/tree/main/design-preview): editable React/TypeScript source, local assets, runnable preview and instructions.
+- [Website guide for AI tools](https://github.com/wannapap189/MAVO/blob/main/dist/llms.txt): public products, quality education, warranty and contact pages. Root-relative site links assume the deployed dist directory, not GitHub's file viewer.
+- [Public product data](https://github.com/wannapap189/MAVO/blob/main/dist/data/products.json): customer sale prices including VAT and official-brand reference prices with source evidence.
+- [Printer compatibility index](https://github.com/wannapap189/MAVO/blob/main/dist/data/printers.json): printer-first mapping; incomplete coverage requires confirmation by the MAVO team.
+
+## Product and content constraints
+
+- MAVO sells new-build compatible toner; no used or remanufactured cartridges. Do not describe it as counterfeit or imply endorsement by printer brands.
+- Lead with sensible business savings, then compatibility, quality checks and accountable support. Customers choose their printer model first; cartridge SKU is secondary.
+- Display MAVO customer prices including VAT and ordinary domestic delivery. Do not expose acquisition costs, margins, claim reserves or internal spreadsheets.
+- Distinguish Thai SRP, brand-published catalog prices and official Thai brand-store selling prices. Store prices are not SRP. The snapshot was checked on 2026-11-26; review sources before future publication.
+- Price savings per cartridge do not establish equal page yield, print performance or cost per usable page. Missing references must not generate invented savings.
+- MAVO Care is a conditional one-year warranty with online assistance, Serial and purchase-record checks, supporting images/video and case follow-up. There is no on-site travel service.
+- External educational articles, clips and standards do not certify MAVO products. Cartridge weight alone does not prove quality.
+- Approved identity: uppercase MAVO logo, navy #09253d, cyan #5cc6e7, orange #ff8a1f actions; Confidence, every day.
+
+## Engineering and handoff
+
+- The existing full website is in dist/ and is built with node build.mjs. The latest visual prototype is separately in design-preview/; it has not replaced the existing site.
+- Open the prototype locally with node design-preview/server.mjs. Edit its React source and rebuild using its package scripts. The prototype's data is a snapshot and must be synchronized deliberately with the main product data.
+- The repository is public; this does not enable public website hosting. No final domain is configured. Keep site.config.json origin empty and indexable false until the owner authorizes website deployment.
+- The website's dist/llms.txt is generated from llms.mjs. Update the generator and rebuild; do not create conflicting warranty/price copy.
+- Customer data, credentials, stock/claim records and the cost-bearing product register belong outside the public repository. The team must receive internal Excel files privately from the owner.
+
+## Contact
+
+- [LINE @mavo](https://line.me/R/ti/p/%40mavo): compatibility checks, quotations and MAVO Care.
+- [Email sales@mavo.com](mailto:sales@mavo.com)
+- [Facebook Mavothai](https://www.facebook.com/Mavothai)
+- [YouTube Mavothai](https://www.youtube.com/@Mavothai)

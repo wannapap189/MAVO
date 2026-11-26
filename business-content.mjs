@@ -30,7 +30,7 @@ const toSatang = value => {
 };
 
 const verifiedAvailableOffer = offer => Boolean(
-  offer && offer.availability === 'available' && offer.stockDetail !== 'backorder' &&
+  offer && ['srp', 'brand-catalog', 'brand-store'].includes(offer.priceKind) &&
   ['included', 'excluded'].includes(offer.vatBasis) &&
   toSatang(offer.priceIncVat) !== null &&
   Number.isFinite(offer.priceExVat) && offer.priceExVat > 0 &&
@@ -78,7 +78,7 @@ function createExample(config, data) {
       monthlyMavoCost: null, monthlyOemCost: null, monthlyDelta: null,
       annualMavoCost: null, annualOemCost: null, annualDelta: null,
       sourceUrl: '', sourceTitle: '', observedDate: '',
-      missingReason: 'ยังไม่มีราคาอ้างอิงที่มีสินค้าและยืนยันฐาน VAT ครบ จึงยังไม่คำนวณส่วนต่าง'
+      missingReason: 'รอยืนยัน ราคาอ้างอิงของแบรนด์ในไทยและฐาน VAT จึงยังไม่คำนวณส่วนต่าง'
     };
   }
   const oemCents = toSatang(offer.priceIncVat);
@@ -104,7 +104,8 @@ function createExample(config, data) {
     oemBrand: offer.oemBrand,
     oemModel: offer.oemModel,
     referenceAvailability: offer.availability,
-    priceKind: offer.priceKind || 'retail'
+    priceKind: offer.priceKind,
+    priceLabel: offer.priceLabel
   };
 }
 
@@ -113,8 +114,8 @@ function exampleCard(example) {
   if (!example.available) {
     return `<article class="business-case"><p class="eyebrow">ตัวอย่างสมมติ</p><h3>${escapeHTML(example.title)}</h3><p>${escapeHTML(example.context)}</p><p class="muted">${escapeHTML(example.missingReason)}</p>${link}</article>`;
   }
-  const direction = example.annualDelta >= 0 ? 'งบซื้อตลับลดลง' : 'งบซื้อตลับเพิ่มขึ้น';
-  const perCartridge = example.delta >= 0 ? 'ราคาซื้อต่อตลับลดลง' : 'ราคาซื้อต่อตลับเพิ่มขึ้น';
+  const direction = example.annualDelta >= 0 ? 'งบต่ำกว่าราคาแบรนด์' : 'งบสูงกว่าราคาแบรนด์';
+  const perCartridge = example.delta >= 0 ? 'ต่อตลับต่ำกว่าราคาแบรนด์' : 'ต่อตลับสูงกว่าราคาแบรนด์';
   return `<article class="business-case">
     <p class="eyebrow">ตัวอย่างสมมติ · ${escapeHTML(example.monthlyQuantity)} ตลับ / เดือน</p>
     <h3>${escapeHTML(example.title)}</h3>
@@ -123,7 +124,7 @@ function exampleCard(example) {
     <p class="business-amount">${escapeHTML(money(Math.abs(example.annualDelta)))} <span>บาท</span></p>
     <dl class="business-price-list">
       <div><dt>MAVO / ตลับ</dt><dd>${escapeHTML(money(example.mavoPrice))} บาท</dd></div>
-      <div><dt>ตลับแท้ / ตลับ</dt><dd>${escapeHTML(money(example.oemPrice))} บาท</dd></div>
+      <div><dt>${escapeHTML(example.priceLabel)} / ตลับ</dt><dd>${escapeHTML(money(example.oemPrice))} บาท</dd></div>
     </dl>
     <p class="small">${escapeHTML(perCartridge)} ${escapeHTML(Math.abs(example.percent).toFixed(1))}% · ซื้อรวม ${escapeHTML(example.annualQuantity)} ตลับเท่ากัน</p>
     ${link}
@@ -131,7 +132,7 @@ function exampleCard(example) {
   </article>`;
 }
 
-const exampleScope = 'ตัวอย่างตั้งงบซื้อสมมติ: ซื้อจำนวนตลับเท่ากันทุกเดือนเป็นเวลา 12 เดือน โดยใช้ราคาอ้างอิงคงเดิม ไม่ใช่ผลของลูกค้าจริงหรือการรับรองว่าพิมพ์ได้เท่ากัน ราคาทั้งสองฝั่งรวม VAT 7% แล้ว ราคา MAVO รวมส่งปกติในประเทศ ส่วนตลับแท้เป็นราคาสินค้า ไม่รวมค่าส่งที่อาจมีเพิ่ม ราคาหรือสต็อกต้นทางอาจเปลี่ยนได้';
+const exampleScope = 'ตัวอย่างตั้งงบซื้อสมมติ: ซื้อจำนวนตลับเท่ากันทุกเดือนเป็นเวลา 12 เดือน โดยใช้ ราคาอ้างอิงของแบรนด์คงเดิม ราคาขายจริงตามร้านอาจต่ำกว่านี้ ไม่ใช่ผลของลูกค้าจริงหรือการรับรองว่าพิมพ์ได้เท่ากัน ราคาทั้งสองฝั่งรวม VAT 7% แล้ว ราคา MAVO รวมส่งปกติในประเทศ ส่วนตลับแท้เป็นราคาสินค้า ไม่รวมค่าส่งที่อาจมีเพิ่ม ราคาอ้างอิงอาจเปลี่ยนได้และไม่ใช่การยืนยันสต็อก';
 
 function examplesSection(examples, compact = false) {
   return `<section class="section business-examples" id="budget-examples"><div class="container">
@@ -153,7 +154,7 @@ function articleThumbnail(module){
 
 function createCaseArticle(examples) {
   const available = examples.filter(example => example.available);
-  const caseParagraphs = available.map(example => `${example.title}: สมมติซื้อ ${example.monthlyQuantity} ตลับต่อเดือน รวม ${example.annualQuantity} ตลับใน 12 เดือน รุ่น ${example.sku} ราคา ${money(example.mavoPrice)} บาทต่อตลับ เทียบตลับแท้ ${example.oemBrand} ${example.oemModel} ราคา ${money(example.oemPrice)} บาทต่อตลับ งบซื้อรายเดือนเป็น ${money(example.monthlyMavoCost)} และ ${money(example.monthlyOemCost)} บาทตามลำดับ ส่วนต่าง ${money(Math.abs(example.monthlyDelta))} บาทต่อเดือน ใน 12 เดือนงบซื้อเป็น ${money(example.annualMavoCost)} และ ${money(example.annualOemCost)} บาท โดย MAVO ${example.annualDelta >= 0 ? 'ใช้งบซื้อน้อยกว่า' : 'ใช้งบซื้อมากกว่า'} ${money(Math.abs(example.annualDelta))} บาท หรือ ${Math.abs(example.percent).toFixed(1)}% ของงบตลับแท้ อ้างอิง ${example.sourceTitle} ตรวจเมื่อ ${example.observedDate}`);
+  const caseParagraphs = available.map(example => `${example.title}: สมมติซื้อ ${example.monthlyQuantity} ตลับต่อเดือน รวม ${example.annualQuantity} ตลับใน 12 เดือน รุ่น ${example.sku} ราคา ${money(example.mavoPrice)} บาทต่อตลับ เทียบ ${example.priceLabel}ตลับแท้ ${example.oemBrand} ${example.oemModel} ราคา ${money(example.oemPrice)} บาทต่อตลับ งบซื้อรายเดือนเป็น ${money(example.monthlyMavoCost)} และ ${money(example.monthlyOemCost)} บาทตามลำดับ ส่วนต่าง ${money(Math.abs(example.monthlyDelta))} บาทต่อเดือน ใน 12 เดือนงบซื้อเป็น ${money(example.annualMavoCost)} และ ${money(example.annualOemCost)} บาท โดย MAVO ${example.annualDelta >= 0 ? 'ใช้งบซื้อน้อยกว่า' : 'ใช้งบซื้อมากกว่า'} ${money(Math.abs(example.annualDelta))} บาท หรือ ${Math.abs(example.percent).toFixed(1)}% ของงบตลับแท้ อ้างอิง ${example.sourceTitle} ตรวจเมื่อ ${example.observedDate}`);
   const sources = Array.from(new Map(available.map(example => [example.sourceUrl, {
     title: `${example.sourceTitle} · ${example.oemBrand} ${example.oemModel} · ตรวจราคา ${example.observedDate}`,
     url: example.sourceUrl
@@ -161,10 +162,10 @@ function createCaseArticle(examples) {
   return {
     id: 'office-toner-budget-examples',
     title: 'ลองตั้งงบซื้อตลับให้ธุรกิจ ด้วยราคาที่ตรวจสอบได้',
-    summary: 'ตัวอย่างร้านค้า สำนักงาน และหลายสาขา ใช้ราคา MAVO กับตลับแท้รวม VAT เพื่อเห็นส่วนต่างงบซื้อรายเดือนและ 12 เดือน ก่อนทดลองกับงานจริง',
+    summary: 'ตัวอย่างร้านค้า สำนักงาน และหลายสาขา ใช้ราคา MAVO กับ ราคาอ้างอิงตลับแท้รวม VAT เพื่อเห็นส่วนต่างงบซื้อรายเดือนและ 12 เดือน ก่อนทดลองกับงานจริง',
     paragraphs: [
       'ค่าใช้จ่ายที่เกิดซ้ำเป็นจุดเริ่มต้นที่ดีของการใช้งบอย่างคุ้มค่า เจ้าของธุรกิจส่วนตัว ร้านค้าออนไลน์ และทีมสำนักงานสามารถเริ่มจากใบซื้อเดิมของตัวเอง: ใช้รุ่นอะไร ซื้อครั้งละกี่ตลับ และมีค่าใช้จ่ายอื่นอีกเท่าไร ตัวอย่างต่อไปนี้ช่วยให้เห็นขนาดของงบซื้อ โดยไม่ต้องเริ่มจากการเปลี่ยนทุกเครื่องในครั้งเดียว',
-      'ทุกตัวอย่างใช้ราคาขาย MAVO และราคาอ้างอิงตลับแท้จากหน้าสินค้าที่บันทึกไว้ โดยยืนยันฐาน VAT และสถานะมีสินค้าในวันที่ตรวจ คำนวณจากจำนวนเงินระดับสตางค์ก่อนแสดงผล ส่วนต่างต่อตลับ = ราคาตลับแท้ − ราคา MAVO; ส่วนต่างงบซื้อรายเดือน = ส่วนต่างต่อตลับ × จำนวนตลับที่สมมติซื้อ; ส่วนต่างใน 12 เดือน = ส่วนต่างรายเดือน × 12',
+      'ทุกตัวอย่างใช้ราคาขาย MAVO และ ราคาอ้างอิงของแบรนด์ในไทยบนฐาน VAT เดียวกัน ราคาขายจริงตามร้านอาจต่ำกว่านี้ และราคาอ้างอิงไม่ใช่การยืนยันสต็อก คำนวณจากจำนวนเงินระดับสตางค์ก่อนแสดงผล ส่วนต่างต่อตลับ = ราคาตลับแท้ − ราคา MAVO; ส่วนต่างงบซื้อรายเดือน = ส่วนต่างต่อตลับ × จำนวนตลับที่สมมติซื้อ; ส่วนต่างใน 12 เดือน = ส่วนต่างรายเดือน × 12',
       ...caseParagraphs,
       'จำนวน 2, 5 และ 20 ตลับเป็นเพียงสมมติฐานให้เห็นวิธีวางงบ ไม่ใช่การบอกว่าธุรกิจแต่ละขนาดต้องใช้เท่านี้ และการซื้อจำนวนเท่ากันไม่ได้แปลว่าจะพิมพ์ได้เท่ากัน จึงยังไม่ใช่ผลประหยัดสุทธิจากการใช้งาน ต้นทุนจริงควรนับหน้าที่ใช้งานได้ งานเสีย เวลาแก้ปัญหา และค่าบริการที่เกิดขึ้นด้วย',
       'เริ่มจากตรวจรุ่นเครื่อง เลือกเอกสารที่ใช้ประจำ แล้วทดลองกับเครื่องหนึ่งเครื่อง เก็บต้นทุนและผลพิมพ์ให้ครบหนึ่งรอบตลับ หากผลผ่านเกณฑ์ของธุรกิจ จึงค่อยปรับงบและจำนวนที่ซื้อ ส่วนต่างที่เกิดขึ้นจริงอาจนำไปดูแลลูกค้า เติมสินค้า หรือสนับสนุนงานสำคัญอื่นตามลำดับความจำเป็นของกิจการ'
@@ -181,7 +182,7 @@ function createCaseArticle(examples) {
   };
 }
 
-/** Build article data and escaped HTML fragments from public retail prices only. */
+/** Build article data and escaped HTML fragments from public sale prices and brand-published reference prices. */
 export function createBusinessContent(data, businessModules, audienceModules) {
   const examples = caseConfigs.map(config => createExample(config, data));
   const caseArticle = attachArticleImage(createCaseArticle(examples));

@@ -886,3 +886,28 @@ body[data-page=index] .growth-reading .business-reading-card > p:not(.eyebrow) {
  .partner-interest .actions {align-items:flex-start;flex-direction:column;}
 }
 
+/* Brand examples share the verified comparison data and the existing MAVO palette. */
+.home-brand-comparisons {margin-top:64px;padding-top:48px;border-top:1px solid var(--stroke);scroll-margin-top:110px;}
+.home-brand-comparisons > .lead {margin-top:16px;max-width:65ch;}
+.home-brand-grid {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:40px;margin-top:32px;}
+.home-brand-example {min-width:0;padding:32px;background:var(--paper);border:1px solid var(--stroke);border-radius:14px;}
+.home-brand-example h3 {font-size:28px;margin:0 0 24px;}
+.home-brand-example h3 > span {display:block;font-size:16px;font-weight:400;color:var(--muted);margin-top:4px;}
+.home-brand-prices {display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:0;}
+.home-brand-prices dt {font-size:15px;color:var(--muted);}
+.home-brand-prices dd {margin:8px 0 0;font-size:30px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap;}
+.home-brand-prices dd small {font-size:14px;font-weight:400;}
+.home-brand-saving {margin:24px 0 16px;padding-top:20px;border-top:1px solid var(--stroke);display:flex;align-items:baseline;gap:8px 12px;flex-wrap:wrap;}
+.home-brand-saving strong {font-size:25px;font-variant-numeric:tabular-nums;}
+.home-brand-saving > span {padding:4px 12px;border-radius:6px;background:var(--accent-soft);font-weight:700;font-size:21px;}
+.home-brand-example > .text-link {display:inline-block;margin-top:16px;}
+.home-brand-comparisons > .source-note {max-width:90ch;margin:20px 0 0;}
+.home-brand-care {display:flex;align-items:center;justify-content:space-between;gap:32px;padding:32px;margin-top:32px;background:var(--navy);color:white;border-radius:14px;}
+.home-brand-care h3 {font-size:27px;margin:0 0 8px;color:white;}
+.home-brand-care p {color:var(--hero-muted);margin-bottom:12px;}
+.home-brand-care .text-link {color:var(--accent);}
+.home-brand-care .button {white-space:nowrap;}
+@media(max-width:900px){.home-brand-grid{gap:24px}.home-brand-prices{grid-template-columns:1fr}.home-brand-care{align-items:flex-start;flex-direction:column}}
+@media(max-width:600px){.home-brand-comparisons{margin-top:40px;padding-top:32px}.home-brand-grid{grid-template-columns:1fr}.home-brand-example,.home-brand-care{padding:24px}.home-brand-example h3,.home-brand-care h3{font-size:24px}.home-brand-prices{grid-template-columns:1fr 1fr;gap:12px}.home-brand-prices dd{font-size:24px}.home-brand-prices dt{font-size:14px}}
+.printer-choice-title{font-size:25px;margin:0 0 8px}.compare-panel .compare-controls{margin-top:24px}.printer-choice-field{margin-top:20px}.printer-help-link{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-top:16px;font-size:15px}.printer-help-link .button{padding:10px 16px;font-size:15px}.printer-empty{padding:24px 0;color:var(--muted);max-width:70ch}.compare-panel [hidden]{display:none!important}.compare-panel select{width:100%;min-width:0}.compare-controls>*{min-width:0}
+@media(max-width:600px){.home-brand-prices dt{min-height:3.6em}.home-brand-prices dd small{display:block;margin-top:4px}}

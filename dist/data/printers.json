@@ -1,0 +1,4825 @@
+{
+  "checkedOn": "2026-11-26",
+  "basis": "OEM cartridge-to-printer compatibility from manufacturer sources; mapped to the MAVO reference code, subject to team confirmation before ordering.",
+  "complete": false,
+  "note": "รายการรุ่นเครื่องยังเพิ่มเติมอยู่ รุ่นที่ไม่พบให้ทีมตรวจจากป้ายเครื่องและรหัสตลับเดิม ไม่อนุมานว่ารองรับหรือไม่รองรับ",
+  "printers": [
+    {
+      "id": "brotherdcp1510",
+      "brand": "BROTHER",
+      "model": "DCP-1510",
+      "matches": [
+        {
+          "sku": "MAV-TN1000",
+          "oemModels": [
+            "TN1000"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherdcp1610w",
+      "brand": "BROTHER",
+      "model": "DCP-1610W",
+      "matches": [
+        {
+          "sku": "MAV-TN1000",
+          "oemModels": [
+            "TN1000"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherdcp7055",
+      "brand": "BROTHER",
+      "model": "DCP-7055",
+      "matches": [
+        {
+          "sku": "MAV-TN2060",
+          "oemModels": [
+            "TN2060"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherdcp7060d",
+      "brand": "BROTHER",
+      "model": "DCP-7060D",
+      "matches": [
+        {
+          "sku": "MAV-TN2260-2280",
+          "oemModels": [
+            "TN2260",
+            "TN2280"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherdcpl2640dw",
+      "brand": "BROTHER",
+      "model": "DCP-L2640DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2560",
+          "oemModels": [
+            "TN2560"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherdcpl3551cdw",
+      "brand": "BROTHER",
+      "model": "DCP-L3551CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN263-BK",
+          "oemModels": [
+            "TN263BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-C",
+          "oemModels": [
+            "TN263C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-M",
+          "oemModels": [
+            "TN263M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-Y",
+          "oemModels": [
+            "TN263Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-BK",
+          "oemModels": [
+            "TN267BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-C",
+          "oemModels": [
+            "TN267C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-M",
+          "oemModels": [
+            "TN267M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-Y",
+          "oemModels": [
+            "TN267Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherfax2840",
+      "brand": "BROTHER",
+      "model": "FAX-2840",
+      "matches": [
+        {
+          "sku": "MAV-TN2260-2280",
+          "oemModels": [
+            "TN2260",
+            "TN2280"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherfax2950",
+      "brand": "BROTHER",
+      "model": "FAX-2950",
+      "matches": [
+        {
+          "sku": "MAV-TN2260-2280",
+          "oemModels": [
+            "TN2260",
+            "TN2280"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl1110",
+      "brand": "BROTHER",
+      "model": "HL-1110",
+      "matches": [
+        {
+          "sku": "MAV-TN1000",
+          "oemModels": [
+            "TN1000"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl1210w",
+      "brand": "BROTHER",
+      "model": "HL-1210W",
+      "matches": [
+        {
+          "sku": "MAV-TN1000",
+          "oemModels": [
+            "TN1000"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl2130",
+      "brand": "BROTHER",
+      "model": "HL-2130",
+      "matches": [
+        {
+          "sku": "MAV-TN2060",
+          "oemModels": [
+            "TN2060"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl2240d",
+      "brand": "BROTHER",
+      "model": "HL-2240D",
+      "matches": [
+        {
+          "sku": "MAV-TN2260-2280",
+          "oemModels": [
+            "TN2260",
+            "TN2280"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl2250dn",
+      "brand": "BROTHER",
+      "model": "HL-2250DN",
+      "matches": [
+        {
+          "sku": "MAV-TN2260-2280",
+          "oemModels": [
+            "TN2260",
+            "TN2280"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl2270dw",
+      "brand": "BROTHER",
+      "model": "HL-2270DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2260-2280",
+          "oemModels": [
+            "TN2260",
+            "TN2280"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl3150cdn",
+      "brand": "BROTHER",
+      "model": "HL-3150CDN",
+      "matches": [
+        {
+          "sku": "MAV-TN261-BK",
+          "oemModels": [
+            "TN261BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-C",
+          "oemModels": [
+            "TN261C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-M",
+          "oemModels": [
+            "TN261M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-Y",
+          "oemModels": [
+            "TN261Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl3170cdw",
+      "brand": "BROTHER",
+      "model": "HL-3170CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN261-BK",
+          "oemModels": [
+            "TN261BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-C",
+          "oemModels": [
+            "TN261C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-M",
+          "oemModels": [
+            "TN261M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-Y",
+          "oemModels": [
+            "TN261Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl4150cdn",
+      "brand": "BROTHER",
+      "model": "HL-4150CDN",
+      "matches": [
+        {
+          "sku": "MAV-TN340-BK",
+          "oemModels": [
+            "TN340BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN340-C",
+          "oemModels": [
+            "TN340C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN340-M",
+          "oemModels": [
+            "TN340M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN340-Y",
+          "oemModels": [
+            "TN340Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl4570cdw",
+      "brand": "BROTHER",
+      "model": "HL-4570CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN340-BK",
+          "oemModels": [
+            "TN340BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN340-C",
+          "oemModels": [
+            "TN340C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN340-M",
+          "oemModels": [
+            "TN340M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN340-Y",
+          "oemModels": [
+            "TN340Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl5440d",
+      "brand": "BROTHER",
+      "model": "HL-5440D",
+      "matches": [
+        {
+          "sku": "MAV-TN3350",
+          "oemModels": [
+            "TN3350"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl5450dn",
+      "brand": "BROTHER",
+      "model": "HL-5450DN",
+      "matches": [
+        {
+          "sku": "MAV-TN3350",
+          "oemModels": [
+            "TN3350"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhl6180dw",
+      "brand": "BROTHER",
+      "model": "HL-6180DW",
+      "matches": [
+        {
+          "sku": "MAV-TN3350",
+          "oemModels": [
+            "TN3350"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhll2360dn",
+      "brand": "BROTHER",
+      "model": "HL-L2360DN",
+      "matches": [
+        {
+          "sku": "MAV-TN2360-2380",
+          "oemModels": [
+            "TN2360",
+            "TN2380"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhll2365dw",
+      "brand": "BROTHER",
+      "model": "HL-L2365DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2360-2380",
+          "oemModels": [
+            "TN2360",
+            "TN2380"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhll2370dn",
+      "brand": "BROTHER",
+      "model": "HL-L2370DN",
+      "matches": [
+        {
+          "sku": "MAV-TN2460-2480",
+          "oemModels": [
+            "TN2460",
+            "TN2480"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhll2375dw",
+      "brand": "BROTHER",
+      "model": "HL-L2375DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2460-2480",
+          "oemModels": [
+            "TN2460",
+            "TN2480"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhll2385dw",
+      "brand": "BROTHER",
+      "model": "HL-L2385DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2460-2480",
+          "oemModels": [
+            "TN2460",
+            "TN2480"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhll2460dn",
+      "brand": "BROTHER",
+      "model": "HL-L2460DN",
+      "matches": [
+        {
+          "sku": "MAV-TN2560",
+          "oemModels": [
+            "TN2560"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhll2460dw",
+      "brand": "BROTHER",
+      "model": "HL-L2460DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2560",
+          "oemModels": [
+            "TN2560"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhll3230cdn",
+      "brand": "BROTHER",
+      "model": "HL-L3230CDN",
+      "matches": [
+        {
+          "sku": "MAV-TN263-BK",
+          "oemModels": [
+            "TN263BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-C",
+          "oemModels": [
+            "TN263C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-M",
+          "oemModels": [
+            "TN263M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-Y",
+          "oemModels": [
+            "TN263Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-BK",
+          "oemModels": [
+            "TN267BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-C",
+          "oemModels": [
+            "TN267C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-M",
+          "oemModels": [
+            "TN267M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-Y",
+          "oemModels": [
+            "TN267Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhll3240cdw",
+      "brand": "BROTHER",
+      "model": "HL-L3240CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN269-BK",
+          "oemModels": [
+            "TN269BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN269-C",
+          "oemModels": [
+            "TN269C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN269-M",
+          "oemModels": [
+            "TN269M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN269-Y",
+          "oemModels": [
+            "TN269Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brotherhll3270cdw",
+      "brand": "BROTHER",
+      "model": "HL-L3270CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN263-BK",
+          "oemModels": [
+            "TN263BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-C",
+          "oemModels": [
+            "TN263C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-M",
+          "oemModels": [
+            "TN263M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-Y",
+          "oemModels": [
+            "TN263Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-BK",
+          "oemModels": [
+            "TN267BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-C",
+          "oemModels": [
+            "TN267C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-M",
+          "oemModels": [
+            "TN267M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-Y",
+          "oemModels": [
+            "TN267Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfc1810",
+      "brand": "BROTHER",
+      "model": "MFC-1810",
+      "matches": [
+        {
+          "sku": "MAV-TN1000",
+          "oemModels": [
+            "TN1000"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfc1910w",
+      "brand": "BROTHER",
+      "model": "MFC-1910W",
+      "matches": [
+        {
+          "sku": "MAV-TN1000",
+          "oemModels": [
+            "TN1000"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfc7360",
+      "brand": "BROTHER",
+      "model": "MFC-7360",
+      "matches": [
+        {
+          "sku": "MAV-TN2260-2280",
+          "oemModels": [
+            "TN2260",
+            "TN2280"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfc7470d",
+      "brand": "BROTHER",
+      "model": "MFC-7470D",
+      "matches": [
+        {
+          "sku": "MAV-TN2260-2280",
+          "oemModels": [
+            "TN2260",
+            "TN2280"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfc7860dw",
+      "brand": "BROTHER",
+      "model": "MFC-7860DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2260-2280",
+          "oemModels": [
+            "TN2260",
+            "TN2280"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfc8510dn",
+      "brand": "BROTHER",
+      "model": "MFC-8510DN",
+      "matches": [
+        {
+          "sku": "MAV-TN3350",
+          "oemModels": [
+            "TN3350"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfc8910dw",
+      "brand": "BROTHER",
+      "model": "MFC-8910DW",
+      "matches": [
+        {
+          "sku": "MAV-TN3350",
+          "oemModels": [
+            "TN3350"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfc9140cdn",
+      "brand": "BROTHER",
+      "model": "MFC-9140CDN",
+      "matches": [
+        {
+          "sku": "MAV-TN261-BK",
+          "oemModels": [
+            "TN261BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-C",
+          "oemModels": [
+            "TN261C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-M",
+          "oemModels": [
+            "TN261M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-Y",
+          "oemModels": [
+            "TN261Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfc9330cdw",
+      "brand": "BROTHER",
+      "model": "MFC-9330CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN261-BK",
+          "oemModels": [
+            "TN261BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-C",
+          "oemModels": [
+            "TN261C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-M",
+          "oemModels": [
+            "TN261M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN261-Y",
+          "oemModels": [
+            "TN261Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfc9970cdw",
+      "brand": "BROTHER",
+      "model": "MFC-9970CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN340-BK",
+          "oemModels": [
+            "TN340BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN340-C",
+          "oemModels": [
+            "TN340C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN340-M",
+          "oemModels": [
+            "TN340M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN340-Y",
+          "oemModels": [
+            "TN340Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl2700d",
+      "brand": "BROTHER",
+      "model": "MFC-L2700D",
+      "matches": [
+        {
+          "sku": "MAV-TN2360-2380",
+          "oemModels": [
+            "TN2360",
+            "TN2380"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl2700dw",
+      "brand": "BROTHER",
+      "model": "MFC-L2700DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2360-2380",
+          "oemModels": [
+            "TN2360",
+            "TN2380"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl2715dw",
+      "brand": "BROTHER",
+      "model": "MFC-L2715DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2460-2480",
+          "oemModels": [
+            "TN2460",
+            "TN2480"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl2740dw",
+      "brand": "BROTHER",
+      "model": "MFC-L2740DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2360-2380",
+          "oemModels": [
+            "TN2360",
+            "TN2380"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl2750dw",
+      "brand": "BROTHER",
+      "model": "MFC-L2750DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2460-2480",
+          "oemModels": [
+            "TN2460",
+            "TN2480"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl2770dw",
+      "brand": "BROTHER",
+      "model": "MFC-L2770DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2460-2480",
+          "oemModels": [
+            "TN2460",
+            "TN2480"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl2805dw",
+      "brand": "BROTHER",
+      "model": "MFC-L2805DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2560",
+          "oemModels": [
+            "TN2560"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl2885dw",
+      "brand": "BROTHER",
+      "model": "MFC-L2885DW",
+      "matches": [
+        {
+          "sku": "MAV-TN2560",
+          "oemModels": [
+            "TN2560"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl3735cdn",
+      "brand": "BROTHER",
+      "model": "MFC-L3735CDN",
+      "matches": [
+        {
+          "sku": "MAV-TN263-BK",
+          "oemModels": [
+            "TN263BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-C",
+          "oemModels": [
+            "TN263C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-M",
+          "oemModels": [
+            "TN263M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-Y",
+          "oemModels": [
+            "TN263Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-BK",
+          "oemModels": [
+            "TN267BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-C",
+          "oemModels": [
+            "TN267C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-M",
+          "oemModels": [
+            "TN267M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-Y",
+          "oemModels": [
+            "TN267Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl3750cdw",
+      "brand": "BROTHER",
+      "model": "MFC-L3750CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN263-BK",
+          "oemModels": [
+            "TN263BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-C",
+          "oemModels": [
+            "TN263C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-M",
+          "oemModels": [
+            "TN263M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-Y",
+          "oemModels": [
+            "TN263Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-BK",
+          "oemModels": [
+            "TN267BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-C",
+          "oemModels": [
+            "TN267C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-M",
+          "oemModels": [
+            "TN267M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-Y",
+          "oemModels": [
+            "TN267Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl3760cdw",
+      "brand": "BROTHER",
+      "model": "MFC-L3760CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN269-BK",
+          "oemModels": [
+            "TN269BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN269-C",
+          "oemModels": [
+            "TN269C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN269-M",
+          "oemModels": [
+            "TN269M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN269-Y",
+          "oemModels": [
+            "TN269Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl3770cdw",
+      "brand": "BROTHER",
+      "model": "MFC-L3770CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN263-BK",
+          "oemModels": [
+            "TN263BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-C",
+          "oemModels": [
+            "TN263C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-M",
+          "oemModels": [
+            "TN263M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN263-Y",
+          "oemModels": [
+            "TN263Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-BK",
+          "oemModels": [
+            "TN267BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-C",
+          "oemModels": [
+            "TN267C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-M",
+          "oemModels": [
+            "TN267M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN267-Y",
+          "oemModels": [
+            "TN267Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brothermfcl8340cdw",
+      "brand": "BROTHER",
+      "model": "MFC-L8340CDW",
+      "matches": [
+        {
+          "sku": "MAV-TN269-BK",
+          "oemModels": [
+            "TN269BK"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN269-C",
+          "oemModels": [
+            "TN269C"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN269-M",
+          "oemModels": [
+            "TN269M"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        },
+        {
+          "sku": "MAV-TN269-Y",
+          "oemModels": [
+            "TN269Y"
+          ],
+          "sourceUrls": [
+            "https://www.brother.co.th/en/-/media/ap2/thailand/promotion/at-your-side-oct---dec-2026.pdf?rev=bd549e73c0214dd6b76e430d295791aa#page=14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canond520",
+      "brand": "CANON",
+      "model": "D520",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonfaxl170",
+      "brand": "CANON",
+      "model": "FAX-L170",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonlbp621cw",
+      "brand": "CANON",
+      "model": "LBP621Cw",
+      "matches": [
+        {
+          "sku": "MAV-CRG054-BK",
+          "oemModels": [
+            "Cartridge 054 BK"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-bk.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-C",
+          "oemModels": [
+            "Cartridge 054 C"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-c.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-M",
+          "oemModels": [
+            "Cartridge 054 M"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-m.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-Y",
+          "oemModels": [
+            "Cartridge 054 Y"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-y.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonlbp623cdw",
+      "brand": "CANON",
+      "model": "LBP623Cdw",
+      "matches": [
+        {
+          "sku": "MAV-CRG054-BK",
+          "oemModels": [
+            "Cartridge 054 BK"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-bk.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-C",
+          "oemModels": [
+            "Cartridge 054 C"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-c.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-M",
+          "oemModels": [
+            "Cartridge 054 M"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-m.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-Y",
+          "oemModels": [
+            "Cartridge 054 Y"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-y.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonlbp3050",
+      "brand": "CANON",
+      "model": "LBP3050",
+      "matches": [
+        {
+          "sku": "MAV-CRG312",
+          "oemModels": [
+            "Cartridge 312"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-312.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonlbp3150",
+      "brand": "CANON",
+      "model": "LBP3150",
+      "matches": [
+        {
+          "sku": "MAV-CRG312",
+          "oemModels": [
+            "Cartridge 312"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-312.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonlbp6000",
+      "brand": "CANON",
+      "model": "LBP6000",
+      "matches": [
+        {
+          "sku": "MAV-CRG325",
+          "oemModels": [
+            "Cartridge 325"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-325.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonlbp6030",
+      "brand": "CANON",
+      "model": "LBP6030",
+      "matches": [
+        {
+          "sku": "MAV-CRG325",
+          "oemModels": [
+            "Cartridge 325"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-325.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonlbp6030w",
+      "brand": "CANON",
+      "model": "LBP6030w",
+      "matches": [
+        {
+          "sku": "MAV-CRG325",
+          "oemModels": [
+            "Cartridge 325"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-325.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonlbp7100cn",
+      "brand": "CANON",
+      "model": "LBP7100Cn",
+      "matches": [
+        {
+          "sku": "MAV-CRG331-BK",
+          "oemModels": [
+            "Cartridge 331 BK"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-bk.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-C",
+          "oemModels": [
+            "Cartridge 331 C"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-c.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-M",
+          "oemModels": [
+            "Cartridge 331 M"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-m.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-Y",
+          "oemModels": [
+            "Cartridge 331 Y"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-y.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonlbp7110cw",
+      "brand": "CANON",
+      "model": "LBP7110Cw",
+      "matches": [
+        {
+          "sku": "MAV-CRG331-BK",
+          "oemModels": [
+            "Cartridge 331 BK"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-bk.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-C",
+          "oemModels": [
+            "Cartridge 331 C"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-c.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-M",
+          "oemModels": [
+            "Cartridge 331 M"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-m.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-Y",
+          "oemModels": [
+            "Cartridge 331 Y"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-y.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf215",
+      "brand": "CANON",
+      "model": "MF215",
+      "matches": [
+        {
+          "sku": "MAV-CRG337",
+          "oemModels": [
+            "Cartridge 337"
+          ],
+          "sourceUrls": [
+            "https://th.canon/th/support/6200232200"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf217w",
+      "brand": "CANON",
+      "model": "MF217w",
+      "matches": [
+        {
+          "sku": "MAV-CRG337",
+          "oemModels": [
+            "Cartridge 337"
+          ],
+          "sourceUrls": [
+            "https://th.canon/th/support/6200232200"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf226dn",
+      "brand": "CANON",
+      "model": "MF226dn",
+      "matches": [
+        {
+          "sku": "MAV-CRG337",
+          "oemModels": [
+            "Cartridge 337"
+          ],
+          "sourceUrls": [
+            "https://th.canon/th/support/6200232200"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf229dw",
+      "brand": "CANON",
+      "model": "MF229dw",
+      "matches": [
+        {
+          "sku": "MAV-CRG337",
+          "oemModels": [
+            "Cartridge 337"
+          ],
+          "sourceUrls": [
+            "https://th.canon/th/support/6200232200"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf628cw",
+      "brand": "CANON",
+      "model": "MF628Cw",
+      "matches": [
+        {
+          "sku": "MAV-CRG331-BK",
+          "oemModels": [
+            "Cartridge 331 BK"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-bk.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-C",
+          "oemModels": [
+            "Cartridge 331 C"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-c.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-M",
+          "oemModels": [
+            "Cartridge 331 M"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-m.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-Y",
+          "oemModels": [
+            "Cartridge 331 Y"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-y.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf641cw",
+      "brand": "CANON",
+      "model": "MF641Cw",
+      "matches": [
+        {
+          "sku": "MAV-CRG054-BK",
+          "oemModels": [
+            "Cartridge 054 BK"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-bk.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-C",
+          "oemModels": [
+            "Cartridge 054 C"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-c.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-M",
+          "oemModels": [
+            "Cartridge 054 M"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-m.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-Y",
+          "oemModels": [
+            "Cartridge 054 Y"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-y.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf643cdw",
+      "brand": "CANON",
+      "model": "MF643Cdw",
+      "matches": [
+        {
+          "sku": "MAV-CRG054-BK",
+          "oemModels": [
+            "Cartridge 054 BK"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-bk.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-C",
+          "oemModels": [
+            "Cartridge 054 C"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-c.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-M",
+          "oemModels": [
+            "Cartridge 054 M"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-m.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-Y",
+          "oemModels": [
+            "Cartridge 054 Y"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-y.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf645cx",
+      "brand": "CANON",
+      "model": "MF645Cx",
+      "matches": [
+        {
+          "sku": "MAV-CRG054-BK",
+          "oemModels": [
+            "Cartridge 054 BK"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-bk.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-C",
+          "oemModels": [
+            "Cartridge 054 C"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-c.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-M",
+          "oemModels": [
+            "Cartridge 054 M"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-m.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG054-Y",
+          "oemModels": [
+            "Cartridge 054 Y"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-054-y.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf3010",
+      "brand": "CANON",
+      "model": "MF3010",
+      "matches": [
+        {
+          "sku": "MAV-CRG325",
+          "oemModels": [
+            "Cartridge 325"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-325.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4412",
+      "brand": "CANON",
+      "model": "MF4412",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4420w",
+      "brand": "CANON",
+      "model": "MF4420w",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4450",
+      "brand": "CANON",
+      "model": "MF4450",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4570dn",
+      "brand": "CANON",
+      "model": "MF4570dn",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4570dw",
+      "brand": "CANON",
+      "model": "MF4570dw",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4580dn",
+      "brand": "CANON",
+      "model": "MF4580dn",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4580dw",
+      "brand": "CANON",
+      "model": "MF4580dw",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4720w",
+      "brand": "CANON",
+      "model": "MF4720w",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4750",
+      "brand": "CANON",
+      "model": "MF4750",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4820d",
+      "brand": "CANON",
+      "model": "MF4820d",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4870dn",
+      "brand": "CANON",
+      "model": "MF4870dn",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf4890dw",
+      "brand": "CANON",
+      "model": "MF4890dw",
+      "matches": [
+        {
+          "sku": "MAV-CRG328",
+          "oemModels": [
+            "Cartridge 328"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-328.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf8210cn",
+      "brand": "CANON",
+      "model": "MF8210Cn",
+      "matches": [
+        {
+          "sku": "MAV-CRG331-BK",
+          "oemModels": [
+            "Cartridge 331 BK"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-bk.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-C",
+          "oemModels": [
+            "Cartridge 331 C"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-c.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-M",
+          "oemModels": [
+            "Cartridge 331 M"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-m.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-Y",
+          "oemModels": [
+            "Cartridge 331 Y"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-y.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canonmf8280cw",
+      "brand": "CANON",
+      "model": "MF8280Cw",
+      "matches": [
+        {
+          "sku": "MAV-CRG331-BK",
+          "oemModels": [
+            "Cartridge 331 BK"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-bk.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-C",
+          "oemModels": [
+            "Cartridge 331 C"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-c.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-M",
+          "oemModels": [
+            "Cartridge 331 M"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-m.html"
+          ]
+        },
+        {
+          "sku": "MAV-CRG331-Y",
+          "oemModels": [
+            "Cartridge 331 Y"
+          ],
+          "sourceUrls": [
+            "https://goto.canon.co.th/estore/cartridge-331-y.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaser107a",
+      "brand": "HP",
+      "model": "Laser 107a",
+      "matches": [
+        {
+          "sku": "MAV-107A",
+          "oemModels": [
+            "W1107A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-107a-black-original-laser-toner-cartridge-w1107a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaser107w",
+      "brand": "HP",
+      "model": "Laser 107w",
+      "matches": [
+        {
+          "sku": "MAV-107A",
+          "oemModels": [
+            "W1107A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-107a-black-original-laser-toner-cartridge-w1107a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplasermfp135a",
+      "brand": "HP",
+      "model": "Laser MFP 135a",
+      "matches": [
+        {
+          "sku": "MAV-107A",
+          "oemModels": [
+            "W1107A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-107a-black-original-laser-toner-cartridge-w1107a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplasermfp135w",
+      "brand": "HP",
+      "model": "Laser MFP 135w",
+      "matches": [
+        {
+          "sku": "MAV-107A",
+          "oemModels": [
+            "W1107A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-107a-black-original-laser-toner-cartridge-w1107a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplasermfp137fnw",
+      "brand": "HP",
+      "model": "Laser MFP 137fnw",
+      "matches": [
+        {
+          "sku": "MAV-107A",
+          "oemModels": [
+            "W1107A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-107a-black-original-laser-toner-cartridge-w1107a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcm1312",
+      "brand": "HP",
+      "model": "LaserJet CM1312",
+      "matches": [
+        {
+          "sku": "MAV-CB540A-BK",
+          "oemModels": [
+            "CB540A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-black-original-laserjet-toner-cartridge-cb540a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB541A-C",
+          "oemModels": [
+            "CB541A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-cyan-original-laserjet-toner-cartridge-cb541a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB542A-Y",
+          "oemModels": [
+            "CB542A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-yellow-original-laserjet-toner-cartridge-cb542a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB543A-M",
+          "oemModels": [
+            "CB543A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-magenta-original-laserjet-toner-cartridge-cb543a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcm1312nfi",
+      "brand": "HP",
+      "model": "LaserJet CM1312nfi",
+      "matches": [
+        {
+          "sku": "MAV-CB540A-BK",
+          "oemModels": [
+            "CB540A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-black-original-laserjet-toner-cartridge-cb540a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB541A-C",
+          "oemModels": [
+            "CB541A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-cyan-original-laserjet-toner-cartridge-cb541a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB542A-Y",
+          "oemModels": [
+            "CB542A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-yellow-original-laserjet-toner-cartridge-cb542a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB543A-M",
+          "oemModels": [
+            "CB543A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-magenta-original-laserjet-toner-cartridge-cb543a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcm1415fn",
+      "brand": "HP",
+      "model": "LaserJet CM1415fn",
+      "matches": [
+        {
+          "sku": "MAV-CE320A-BK",
+          "oemModels": [
+            "CE320A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-black-original-laserjet-toner-cartridge-ce320a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE321A-C",
+          "oemModels": [
+            "CE321A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-cyan-original-laserjet-toner-cartridge-ce321a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE322A-Y",
+          "oemModels": [
+            "CE322A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-yellow-original-laserjet-toner-cartridge-ce322a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE323A-M",
+          "oemModels": [
+            "CE323A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-magenta-original-laserjet-toner-cartridge-ce323a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcm1415fnw",
+      "brand": "HP",
+      "model": "LaserJet CM1415fnw",
+      "matches": [
+        {
+          "sku": "MAV-CE320A-BK",
+          "oemModels": [
+            "CE320A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-black-original-laserjet-toner-cartridge-ce320a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE321A-C",
+          "oemModels": [
+            "CE321A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-cyan-original-laserjet-toner-cartridge-ce321a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE322A-Y",
+          "oemModels": [
+            "CE322A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-yellow-original-laserjet-toner-cartridge-ce322a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE323A-M",
+          "oemModels": [
+            "CE323A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-magenta-original-laserjet-toner-cartridge-ce323a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcp1025",
+      "brand": "HP",
+      "model": "LaserJet CP1025",
+      "matches": [
+        {
+          "sku": "MAV-CE310A-BK",
+          "oemModels": [
+            "CE310A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-black-original-laserjet-toner-cartridge-ce310a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE311A-C",
+          "oemModels": [
+            "CE311A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-cyan-original-laserjet-toner-cartridge-ce311a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE312A-Y",
+          "oemModels": [
+            "CE312A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-yellow-original-laserjet-toner-cartridge-ce312a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE313A-M",
+          "oemModels": [
+            "CE313A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-magenta-original-laserjet-toner-cartridge-ce313a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcp1025nw",
+      "brand": "HP",
+      "model": "LaserJet CP1025nw",
+      "matches": [
+        {
+          "sku": "MAV-CE310A-BK",
+          "oemModels": [
+            "CE310A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-black-original-laserjet-toner-cartridge-ce310a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE311A-C",
+          "oemModels": [
+            "CE311A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-cyan-original-laserjet-toner-cartridge-ce311a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE312A-Y",
+          "oemModels": [
+            "CE312A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-yellow-original-laserjet-toner-cartridge-ce312a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE313A-M",
+          "oemModels": [
+            "CE313A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-magenta-original-laserjet-toner-cartridge-ce313a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcp1215",
+      "brand": "HP",
+      "model": "LaserJet CP1215",
+      "matches": [
+        {
+          "sku": "MAV-CB540A-BK",
+          "oemModels": [
+            "CB540A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-black-original-laserjet-toner-cartridge-cb540a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB541A-C",
+          "oemModels": [
+            "CB541A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-cyan-original-laserjet-toner-cartridge-cb541a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB542A-Y",
+          "oemModels": [
+            "CB542A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-yellow-original-laserjet-toner-cartridge-cb542a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB543A-M",
+          "oemModels": [
+            "CB543A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-magenta-original-laserjet-toner-cartridge-cb543a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcp1515n",
+      "brand": "HP",
+      "model": "LaserJet CP1515n",
+      "matches": [
+        {
+          "sku": "MAV-CB540A-BK",
+          "oemModels": [
+            "CB540A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-black-original-laserjet-toner-cartridge-cb540a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB541A-C",
+          "oemModels": [
+            "CB541A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-cyan-original-laserjet-toner-cartridge-cb541a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB542A-Y",
+          "oemModels": [
+            "CB542A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-yellow-original-laserjet-toner-cartridge-cb542a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB543A-M",
+          "oemModels": [
+            "CB543A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-magenta-original-laserjet-toner-cartridge-cb543a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcp1518ni",
+      "brand": "HP",
+      "model": "LaserJet CP1518ni",
+      "matches": [
+        {
+          "sku": "MAV-CB540A-BK",
+          "oemModels": [
+            "CB540A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-black-original-laserjet-toner-cartridge-cb540a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB541A-C",
+          "oemModels": [
+            "CB541A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-cyan-original-laserjet-toner-cartridge-cb541a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB542A-Y",
+          "oemModels": [
+            "CB542A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-yellow-original-laserjet-toner-cartridge-cb542a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CB543A-M",
+          "oemModels": [
+            "CB543A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-125a-magenta-original-laserjet-toner-cartridge-cb543a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcp1525n",
+      "brand": "HP",
+      "model": "LaserJet CP1525n",
+      "matches": [
+        {
+          "sku": "MAV-CE320A-BK",
+          "oemModels": [
+            "CE320A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-black-original-laserjet-toner-cartridge-ce320a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE321A-C",
+          "oemModels": [
+            "CE321A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-cyan-original-laserjet-toner-cartridge-ce321a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE322A-Y",
+          "oemModels": [
+            "CE322A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-yellow-original-laserjet-toner-cartridge-ce322a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE323A-M",
+          "oemModels": [
+            "CE323A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-magenta-original-laserjet-toner-cartridge-ce323a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetcp1525nw",
+      "brand": "HP",
+      "model": "LaserJet CP1525nw",
+      "matches": [
+        {
+          "sku": "MAV-CE320A-BK",
+          "oemModels": [
+            "CE320A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-black-original-laserjet-toner-cartridge-ce320a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE321A-C",
+          "oemModels": [
+            "CE321A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-cyan-original-laserjet-toner-cartridge-ce321a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE322A-Y",
+          "oemModels": [
+            "CE322A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-yellow-original-laserjet-toner-cartridge-ce322a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE323A-M",
+          "oemModels": [
+            "CE323A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-128a-magenta-original-laserjet-toner-cartridge-ce323a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm12a",
+      "brand": "HP",
+      "model": "LaserJet M12a",
+      "matches": [
+        {
+          "sku": "MAV-CF279A",
+          "oemModels": [
+            "CF279A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-79a-black-original-laserjet-toner-cartridge-cf279a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm12w",
+      "brand": "HP",
+      "model": "LaserJet M12w",
+      "matches": [
+        {
+          "sku": "MAV-CF279A",
+          "oemModels": [
+            "CF279A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-79a-black-original-laserjet-toner-cartridge-cf279a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm15a",
+      "brand": "HP",
+      "model": "LaserJet M15a",
+      "matches": [
+        {
+          "sku": "MAV-CF248A",
+          "oemModels": [
+            "CF248A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-48a-black-original-laserjet-toner-cartridge-cf248a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm15w",
+      "brand": "HP",
+      "model": "LaserJet M15w",
+      "matches": [
+        {
+          "sku": "MAV-CF248A",
+          "oemModels": [
+            "CF248A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-48a-black-original-laserjet-toner-cartridge-cf248a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm26a",
+      "brand": "HP",
+      "model": "LaserJet M26a",
+      "matches": [
+        {
+          "sku": "MAV-CF279A",
+          "oemModels": [
+            "CF279A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-79a-black-original-laserjet-toner-cartridge-cf279a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm26nw",
+      "brand": "HP",
+      "model": "LaserJet M26nw",
+      "matches": [
+        {
+          "sku": "MAV-CF279A",
+          "oemModels": [
+            "CF279A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-79a-black-original-laserjet-toner-cartridge-cf279a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm28a",
+      "brand": "HP",
+      "model": "LaserJet M28a",
+      "matches": [
+        {
+          "sku": "MAV-CF248A",
+          "oemModels": [
+            "CF248A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-48a-black-original-laserjet-toner-cartridge-cf248a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm28w",
+      "brand": "HP",
+      "model": "LaserJet M28w",
+      "matches": [
+        {
+          "sku": "MAV-CF248A",
+          "oemModels": [
+            "CF248A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-48a-black-original-laserjet-toner-cartridge-cf248a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm102a",
+      "brand": "HP",
+      "model": "LaserJet M102a",
+      "matches": [
+        {
+          "sku": "MAV-CF217A",
+          "oemModels": [
+            "CF217A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-17a-black-original-laserjet-toner-cartridge-cf217a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm102w",
+      "brand": "HP",
+      "model": "LaserJet M102w",
+      "matches": [
+        {
+          "sku": "MAV-CF217A",
+          "oemModels": [
+            "CF217A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-17a-black-original-laserjet-toner-cartridge-cf217a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm125a",
+      "brand": "HP",
+      "model": "LaserJet M125a",
+      "matches": [
+        {
+          "sku": "MAV-CF283A",
+          "oemModels": [
+            "CF283A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-83a-black-original-laserjet-toner-cartridge-cf283a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm127fn",
+      "brand": "HP",
+      "model": "LaserJet M127fn",
+      "matches": [
+        {
+          "sku": "MAV-CF283A",
+          "oemModels": [
+            "CF283A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-83a-black-original-laserjet-toner-cartridge-cf283a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm130a",
+      "brand": "HP",
+      "model": "LaserJet M130a",
+      "matches": [
+        {
+          "sku": "MAV-CF217A",
+          "oemModels": [
+            "CF217A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-17a-black-original-laserjet-toner-cartridge-cf217a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm130fn",
+      "brand": "HP",
+      "model": "LaserJet M130fn",
+      "matches": [
+        {
+          "sku": "MAV-CF217A",
+          "oemModels": [
+            "CF217A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-17a-black-original-laserjet-toner-cartridge-cf217a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm130fw",
+      "brand": "HP",
+      "model": "LaserJet M130fw",
+      "matches": [
+        {
+          "sku": "MAV-CF217A",
+          "oemModels": [
+            "CF217A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-17a-black-original-laserjet-toner-cartridge-cf217a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm130nw",
+      "brand": "HP",
+      "model": "LaserJet M130nw",
+      "matches": [
+        {
+          "sku": "MAV-CF217A",
+          "oemModels": [
+            "CF217A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-17a-black-original-laserjet-toner-cartridge-cf217a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm175a",
+      "brand": "HP",
+      "model": "LaserJet M175a",
+      "matches": [
+        {
+          "sku": "MAV-CE310A-BK",
+          "oemModels": [
+            "CE310A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-black-original-laserjet-toner-cartridge-ce310a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE311A-C",
+          "oemModels": [
+            "CE311A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-cyan-original-laserjet-toner-cartridge-ce311a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE312A-Y",
+          "oemModels": [
+            "CE312A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-yellow-original-laserjet-toner-cartridge-ce312a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE313A-M",
+          "oemModels": [
+            "CE313A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-magenta-original-laserjet-toner-cartridge-ce313a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm175nw",
+      "brand": "HP",
+      "model": "LaserJet M175nw",
+      "matches": [
+        {
+          "sku": "MAV-CE310A-BK",
+          "oemModels": [
+            "CE310A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-black-original-laserjet-toner-cartridge-ce310a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE311A-C",
+          "oemModels": [
+            "CE311A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-cyan-original-laserjet-toner-cartridge-ce311a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE312A-Y",
+          "oemModels": [
+            "CE312A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-yellow-original-laserjet-toner-cartridge-ce312a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE313A-M",
+          "oemModels": [
+            "CE313A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-magenta-original-laserjet-toner-cartridge-ce313a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm176n",
+      "brand": "HP",
+      "model": "LaserJet M176n",
+      "matches": [
+        {
+          "sku": "MAV-CF350A-BK",
+          "oemModels": [
+            "CF350A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-130a-black-original-laserjet-toner-cartridge-cf350a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF351A-C",
+          "oemModels": [
+            "CF351A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-130a-cyan-original-laserjet-toner-cartridge-cf351a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF352A-Y",
+          "oemModels": [
+            "CF352A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-130a-yellow-original-laserjet-toner-cartridge-cf352a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF353A-M",
+          "oemModels": [
+            "CF353A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-130a-magenta-original-laserjet-toner-cartridge-cf353a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm177fw",
+      "brand": "HP",
+      "model": "LaserJet M177fw",
+      "matches": [
+        {
+          "sku": "MAV-CF350A-BK",
+          "oemModels": [
+            "CF350A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-130a-black-original-laserjet-toner-cartridge-cf350a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF351A-C",
+          "oemModels": [
+            "CF351A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-130a-cyan-original-laserjet-toner-cartridge-cf351a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF352A-Y",
+          "oemModels": [
+            "CF352A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-130a-yellow-original-laserjet-toner-cartridge-cf352a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF353A-M",
+          "oemModels": [
+            "CF353A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-130a-magenta-original-laserjet-toner-cartridge-cf353a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm201d",
+      "brand": "HP",
+      "model": "LaserJet M201d",
+      "matches": [
+        {
+          "sku": "MAV-CF283A",
+          "oemModels": [
+            "CF283A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-83a-black-original-laserjet-toner-cartridge-cf283a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm201dw",
+      "brand": "HP",
+      "model": "LaserJet M201dw",
+      "matches": [
+        {
+          "sku": "MAV-CF283A",
+          "oemModels": [
+            "CF283A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-83a-black-original-laserjet-toner-cartridge-cf283a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm201n",
+      "brand": "HP",
+      "model": "LaserJet M201n",
+      "matches": [
+        {
+          "sku": "MAV-CF283A",
+          "oemModels": [
+            "CF283A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-83a-black-original-laserjet-toner-cartridge-cf283a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm203d",
+      "brand": "HP",
+      "model": "LaserJet M203d",
+      "matches": [
+        {
+          "sku": "MAV-CF230A",
+          "oemModels": [
+            "CF230A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-30a-black-original-laserjet-toner-cartridge-cf230a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm203dn",
+      "brand": "HP",
+      "model": "LaserJet M203dn",
+      "matches": [
+        {
+          "sku": "MAV-CF230A",
+          "oemModels": [
+            "CF230A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-30a-black-original-laserjet-toner-cartridge-cf230a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm203dw",
+      "brand": "HP",
+      "model": "LaserJet M203dw",
+      "matches": [
+        {
+          "sku": "MAV-CF230A",
+          "oemModels": [
+            "CF230A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-30a-black-original-laserjet-toner-cartridge-cf230a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm225dn",
+      "brand": "HP",
+      "model": "LaserJet M225dn",
+      "matches": [
+        {
+          "sku": "MAV-CF283A",
+          "oemModels": [
+            "CF283A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-83a-black-original-laserjet-toner-cartridge-cf283a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm225dw",
+      "brand": "HP",
+      "model": "LaserJet M225dw",
+      "matches": [
+        {
+          "sku": "MAV-CF283A",
+          "oemModels": [
+            "CF283A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-83a-black-original-laserjet-toner-cartridge-cf283a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm227d",
+      "brand": "HP",
+      "model": "LaserJet M227d",
+      "matches": [
+        {
+          "sku": "MAV-CF230A",
+          "oemModels": [
+            "CF230A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-30a-black-original-laserjet-toner-cartridge-cf230a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm227fdn",
+      "brand": "HP",
+      "model": "LaserJet M227fdn",
+      "matches": [
+        {
+          "sku": "MAV-CF230A",
+          "oemModels": [
+            "CF230A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-30a-black-original-laserjet-toner-cartridge-cf230a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm227fdw",
+      "brand": "HP",
+      "model": "LaserJet M227fdw",
+      "matches": [
+        {
+          "sku": "MAV-CF230A",
+          "oemModels": [
+            "CF230A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-30a-black-original-laserjet-toner-cartridge-cf230a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm227sdn",
+      "brand": "HP",
+      "model": "LaserJet M227sdn",
+      "matches": [
+        {
+          "sku": "MAV-CF230A",
+          "oemModels": [
+            "CF230A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-30a-black-original-laserjet-toner-cartridge-cf230a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm251n",
+      "brand": "HP",
+      "model": "LaserJet M251n",
+      "matches": [
+        {
+          "sku": "MAV-CF210A-BK",
+          "oemModels": [
+            "CF210A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-black-original-laserjet-toner-cartridge-cf210a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF211A-C",
+          "oemModels": [
+            "CF211A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-cyan-original-laserjet-toner-cartridge-cf211a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF212A-Y",
+          "oemModels": [
+            "CF212A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-yellow-original-laserjet-toner-cartridge-cf212a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF213A-M",
+          "oemModels": [
+            "CF213A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-magenta-original-laserjet-toner-cartridge-cf213a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm251nw",
+      "brand": "HP",
+      "model": "LaserJet M251nw",
+      "matches": [
+        {
+          "sku": "MAV-CF210A-BK",
+          "oemModels": [
+            "CF210A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-black-original-laserjet-toner-cartridge-cf210a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF211A-C",
+          "oemModels": [
+            "CF211A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-cyan-original-laserjet-toner-cartridge-cf211a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF212A-Y",
+          "oemModels": [
+            "CF212A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-yellow-original-laserjet-toner-cartridge-cf212a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF213A-M",
+          "oemModels": [
+            "CF213A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-magenta-original-laserjet-toner-cartridge-cf213a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm275a",
+      "brand": "HP",
+      "model": "LaserJet M275A",
+      "matches": [
+        {
+          "sku": "MAV-CE310A-BK",
+          "oemModels": [
+            "CE310A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-black-original-laserjet-toner-cartridge-ce310a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE311A-C",
+          "oemModels": [
+            "CE311A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-cyan-original-laserjet-toner-cartridge-ce311a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE312A-Y",
+          "oemModels": [
+            "CE312A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-yellow-original-laserjet-toner-cartridge-ce312a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE313A-M",
+          "oemModels": [
+            "CE313A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-magenta-original-laserjet-toner-cartridge-ce313a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm275nw",
+      "brand": "HP",
+      "model": "LaserJet M275nw",
+      "matches": [
+        {
+          "sku": "MAV-CE310A-BK",
+          "oemModels": [
+            "CE310A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-black-original-laserjet-toner-cartridge-ce310a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE311A-C",
+          "oemModels": [
+            "CE311A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-cyan-original-laserjet-toner-cartridge-ce311a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE312A-Y",
+          "oemModels": [
+            "CE312A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-yellow-original-laserjet-toner-cartridge-ce312a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CE313A-M",
+          "oemModels": [
+            "CE313A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-126a-magenta-original-laserjet-toner-cartridge-ce313a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm276n",
+      "brand": "HP",
+      "model": "LaserJet M276n",
+      "matches": [
+        {
+          "sku": "MAV-CF210A-BK",
+          "oemModels": [
+            "CF210A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-black-original-laserjet-toner-cartridge-cf210a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF211A-C",
+          "oemModels": [
+            "CF211A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-cyan-original-laserjet-toner-cartridge-cf211a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF212A-Y",
+          "oemModels": [
+            "CF212A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-yellow-original-laserjet-toner-cartridge-cf212a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF213A-M",
+          "oemModels": [
+            "CF213A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-magenta-original-laserjet-toner-cartridge-cf213a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm276nw",
+      "brand": "HP",
+      "model": "LaserJet M276nw",
+      "matches": [
+        {
+          "sku": "MAV-CF210A-BK",
+          "oemModels": [
+            "CF210A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-black-original-laserjet-toner-cartridge-cf210a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF211A-C",
+          "oemModels": [
+            "CF211A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-cyan-original-laserjet-toner-cartridge-cf211a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF212A-Y",
+          "oemModels": [
+            "CF212A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-yellow-original-laserjet-toner-cartridge-cf212a.html"
+          ]
+        },
+        {
+          "sku": "MAV-CF213A-M",
+          "oemModels": [
+            "CF213A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-131a-magenta-original-laserjet-toner-cartridge-cf213a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm401d",
+      "brand": "HP",
+      "model": "LaserJet M401d",
+      "matches": [
+        {
+          "sku": "MAV-CE505A-CF280A",
+          "oemModels": [
+            "CF280A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-80a-black-original-laserjet-toner-cartridge-cf280a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm401dn",
+      "brand": "HP",
+      "model": "LaserJet M401dn",
+      "matches": [
+        {
+          "sku": "MAV-CE505A-CF280A",
+          "oemModels": [
+            "CF280A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-80a-black-original-laserjet-toner-cartridge-cf280a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm401dne",
+      "brand": "HP",
+      "model": "LaserJet M401dne",
+      "matches": [
+        {
+          "sku": "MAV-CE505A-CF280A",
+          "oemModels": [
+            "CF280A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-80a-black-original-laserjet-toner-cartridge-cf280a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm401dw",
+      "brand": "HP",
+      "model": "LaserJet M401dw",
+      "matches": [
+        {
+          "sku": "MAV-CE505A-CF280A",
+          "oemModels": [
+            "CF280A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-80a-black-original-laserjet-toner-cartridge-cf280a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm401n",
+      "brand": "HP",
+      "model": "LaserJet M401n",
+      "matches": [
+        {
+          "sku": "MAV-CE505A-CF280A",
+          "oemModels": [
+            "CF280A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-80a-black-original-laserjet-toner-cartridge-cf280a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm402dn",
+      "brand": "HP",
+      "model": "LaserJet M402dn",
+      "matches": [
+        {
+          "sku": "MAV-CF226A",
+          "oemModels": [
+            "CF226A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-26a-black-original-laserjet-toner-cartridge-cf226a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm402dne",
+      "brand": "HP",
+      "model": "LaserJet M402dne",
+      "matches": [
+        {
+          "sku": "MAV-CF226A",
+          "oemModels": [
+            "CF226A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-26a-black-original-laserjet-toner-cartridge-cf226a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm402dw",
+      "brand": "HP",
+      "model": "LaserJet M402dw",
+      "matches": [
+        {
+          "sku": "MAV-CF226A",
+          "oemModels": [
+            "CF226A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-26a-black-original-laserjet-toner-cartridge-cf226a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm402m",
+      "brand": "HP",
+      "model": "LaserJet M402m",
+      "matches": [
+        {
+          "sku": "MAV-CF226A",
+          "oemModels": [
+            "CF226A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-26a-black-original-laserjet-toner-cartridge-cf226a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm402n",
+      "brand": "HP",
+      "model": "LaserJet M402n",
+      "matches": [
+        {
+          "sku": "MAV-CF226A",
+          "oemModels": [
+            "CF226A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-26a-black-original-laserjet-toner-cartridge-cf226a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm404dn",
+      "brand": "HP",
+      "model": "LaserJet M404dn",
+      "matches": [
+        {
+          "sku": "MAV-CF276A",
+          "oemModels": [
+            "CF276A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-76a-black-original-laserjet-toner-cartridge-cf276a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm404dw",
+      "brand": "HP",
+      "model": "LaserJet M404dw",
+      "matches": [
+        {
+          "sku": "MAV-CF276A",
+          "oemModels": [
+            "CF276A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-76a-black-original-laserjet-toner-cartridge-cf276a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm404n",
+      "brand": "HP",
+      "model": "LaserJet M404n",
+      "matches": [
+        {
+          "sku": "MAV-CF276A",
+          "oemModels": [
+            "CF276A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-76a-black-original-laserjet-toner-cartridge-cf276a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm406dn",
+      "brand": "HP",
+      "model": "LaserJet M406dn",
+      "matches": [
+        {
+          "sku": "MAV-CF276A",
+          "oemModels": [
+            "CF276A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-76a-black-original-laserjet-toner-cartridge-cf276a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm425dn",
+      "brand": "HP",
+      "model": "LaserJet M425dn",
+      "matches": [
+        {
+          "sku": "MAV-CE505A-CF280A",
+          "oemModels": [
+            "CF280A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-80a-black-original-laserjet-toner-cartridge-cf280a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm425dw",
+      "brand": "HP",
+      "model": "LaserJet M425dw",
+      "matches": [
+        {
+          "sku": "MAV-CE505A-CF280A",
+          "oemModels": [
+            "CF280A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-80a-black-original-laserjet-toner-cartridge-cf280a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm426fdn",
+      "brand": "HP",
+      "model": "LaserJet M426fdn",
+      "matches": [
+        {
+          "sku": "MAV-CF226A",
+          "oemModels": [
+            "CF226A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-26a-black-original-laserjet-toner-cartridge-cf226a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm426fdw",
+      "brand": "HP",
+      "model": "LaserJet M426fdw",
+      "matches": [
+        {
+          "sku": "MAV-CF226A",
+          "oemModels": [
+            "CF226A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-26a-black-original-laserjet-toner-cartridge-cf226a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm426m",
+      "brand": "HP",
+      "model": "LaserJet M426m",
+      "matches": [
+        {
+          "sku": "MAV-CF226A",
+          "oemModels": [
+            "CF226A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-26a-black-original-laserjet-toner-cartridge-cf226a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm428fdn",
+      "brand": "HP",
+      "model": "LaserJet M428fdn",
+      "matches": [
+        {
+          "sku": "MAV-CF276A",
+          "oemModels": [
+            "CF276A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-76a-black-original-laserjet-toner-cartridge-cf276a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm428fdw",
+      "brand": "HP",
+      "model": "LaserJet M428fdw",
+      "matches": [
+        {
+          "sku": "MAV-CF276A",
+          "oemModels": [
+            "CF276A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-76a-black-original-laserjet-toner-cartridge-cf276a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm430f",
+      "brand": "HP",
+      "model": "LaserJet M430f",
+      "matches": [
+        {
+          "sku": "MAV-CF276A",
+          "oemModels": [
+            "CF276A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-76a-black-original-laserjet-toner-cartridge-cf276a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm1120",
+      "brand": "HP",
+      "model": "LaserJet M1120",
+      "matches": [
+        {
+          "sku": "MAV-CB435-436A",
+          "oemModels": [
+            "CB436A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-36a-black-original-laserjet-toner-cartridge-cb436a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm1132",
+      "brand": "HP",
+      "model": "LaserJet M1132",
+      "matches": [
+        {
+          "sku": "MAV-CE285A",
+          "oemModels": [
+            "CE285A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-85a-black-original-laserjet-toner-cartridge-ce285a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm1212nf",
+      "brand": "HP",
+      "model": "LaserJet M1212nf",
+      "matches": [
+        {
+          "sku": "MAV-CE285A",
+          "oemModels": [
+            "CE285A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-85a-black-original-laserjet-toner-cartridge-ce285a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm1214nfh",
+      "brand": "HP",
+      "model": "LaserJet M1214nfh",
+      "matches": [
+        {
+          "sku": "MAV-CE285A",
+          "oemModels": [
+            "CE285A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-85a-black-original-laserjet-toner-cartridge-ce285a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm1217nfw",
+      "brand": "HP",
+      "model": "LaserJet M1217nfw",
+      "matches": [
+        {
+          "sku": "MAV-CE285A",
+          "oemModels": [
+            "CE285A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-85a-black-original-laserjet-toner-cartridge-ce285a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm1522n",
+      "brand": "HP",
+      "model": "LaserJet M1522n",
+      "matches": [
+        {
+          "sku": "MAV-CB435-436A",
+          "oemModels": [
+            "CB436A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-36a-black-original-laserjet-toner-cartridge-cb436a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm1522nf",
+      "brand": "HP",
+      "model": "LaserJet M1522nf",
+      "matches": [
+        {
+          "sku": "MAV-CB435-436A",
+          "oemModels": [
+            "CB436A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-36a-black-original-laserjet-toner-cartridge-cb436a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetm1536dnf",
+      "brand": "HP",
+      "model": "LaserJet M1536dnf",
+      "matches": [
+        {
+          "sku": "MAV-CE278A",
+          "oemModels": [
+            "CE278A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-78a-black-original-laserjet-toner-cartridge-ce278a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp1005",
+      "brand": "HP",
+      "model": "LaserJet P1005",
+      "matches": [
+        {
+          "sku": "MAV-CB435-436A",
+          "oemModels": [
+            "CB435A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-35a-black-original-laserjet-toner-cartridge-cb435a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp1006",
+      "brand": "HP",
+      "model": "LaserJet P1006",
+      "matches": [
+        {
+          "sku": "MAV-CB435-436A",
+          "oemModels": [
+            "CB435A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-35a-black-original-laserjet-toner-cartridge-cb435a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp1102",
+      "brand": "HP",
+      "model": "LaserJet P1102",
+      "matches": [
+        {
+          "sku": "MAV-CE285A",
+          "oemModels": [
+            "CE285A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-85a-black-original-laserjet-toner-cartridge-ce285a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp1102w",
+      "brand": "HP",
+      "model": "LaserJet P1102w",
+      "matches": [
+        {
+          "sku": "MAV-CE285A",
+          "oemModels": [
+            "CE285A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-85a-black-original-laserjet-toner-cartridge-ce285a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp1505",
+      "brand": "HP",
+      "model": "LaserJet P1505",
+      "matches": [
+        {
+          "sku": "MAV-CB435-436A",
+          "oemModels": [
+            "CB436A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-36a-black-original-laserjet-toner-cartridge-cb436a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp1505n",
+      "brand": "HP",
+      "model": "LaserJet P1505n",
+      "matches": [
+        {
+          "sku": "MAV-CB435-436A",
+          "oemModels": [
+            "CB436A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-36a-black-original-laserjet-toner-cartridge-cb436a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp1566",
+      "brand": "HP",
+      "model": "LaserJet P1566",
+      "matches": [
+        {
+          "sku": "MAV-CE278A",
+          "oemModels": [
+            "CE278A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-78a-black-original-laserjet-toner-cartridge-ce278a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp1606dn",
+      "brand": "HP",
+      "model": "LaserJet P1606dn",
+      "matches": [
+        {
+          "sku": "MAV-CE278A",
+          "oemModels": [
+            "CE278A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-78a-black-original-laserjet-toner-cartridge-ce278a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp2035",
+      "brand": "HP",
+      "model": "LaserJet P2035",
+      "matches": [
+        {
+          "sku": "MAV-CE505A-CF280A",
+          "oemModels": [
+            "CE505A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-05a-black-original-laserjet-toner-cartridge-ce505a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp2055d",
+      "brand": "HP",
+      "model": "LaserJet P2055d",
+      "matches": [
+        {
+          "sku": "MAV-CE505A-CF280A",
+          "oemModels": [
+            "CE505A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-05a-black-original-laserjet-toner-cartridge-ce505a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hplaserjetp2055dn",
+      "brand": "HP",
+      "model": "LaserJet P2055dn",
+      "matches": [
+        {
+          "sku": "MAV-CE505A-CF280A",
+          "oemModels": [
+            "CE505A"
+          ],
+          "sourceUrls": [
+            "https://www.hp.com/th-th/shop/ink-toner/toner/toner-standard-packs/hp-05a-black-original-laserjet-toner-cartridge-ce505a.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantumm6700d",
+      "brand": "PANTUM",
+      "model": "M6700D",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantumm6700dw",
+      "brand": "PANTUM",
+      "model": "M6700DW",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantumm6800fdw",
+      "brand": "PANTUM",
+      "model": "M6800FDW",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantumm7100dn",
+      "brand": "PANTUM",
+      "model": "M7100DN",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantumm7100dw",
+      "brand": "PANTUM",
+      "model": "M7100DW",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantumm7200fd",
+      "brand": "PANTUM",
+      "model": "M7200FD",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantumm7200fdn",
+      "brand": "PANTUM",
+      "model": "M7200FDN",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantumm7200fdw",
+      "brand": "PANTUM",
+      "model": "M7200FDW",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantumm7300fdn",
+      "brand": "PANTUM",
+      "model": "M7300FDN",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantumm7300fdw",
+      "brand": "PANTUM",
+      "model": "M7300FDW",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantump3010d",
+      "brand": "PANTUM",
+      "model": "P3010D",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantump3010dw",
+      "brand": "PANTUM",
+      "model": "P3010DW",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantump3300dn",
+      "brand": "PANTUM",
+      "model": "P3300DN",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantump3300dw",
+      "brand": "PANTUM",
+      "model": "P3300DW",
+      "matches": [
+        {
+          "sku": "MAV-TL410X",
+          "oemModels": [
+            "TL-410X"
+          ],
+          "sourceUrls": [
+            "https://global.pantum.com/consume-material/1518497323327504386.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samsungxpressm2020",
+      "brand": "SAMSUNG",
+      "model": "Xpress M2020",
+      "matches": [
+        {
+          "sku": "MAV-D111S",
+          "oemModels": [
+            "MLT-D111S"
+          ],
+          "sourceUrls": [
+            "https://www.samsung.com/sec/support/model/MLT-D111S/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samsungxpressm2020w",
+      "brand": "SAMSUNG",
+      "model": "Xpress M2020W",
+      "matches": [
+        {
+          "sku": "MAV-D111S",
+          "oemModels": [
+            "MLT-D111S"
+          ],
+          "sourceUrls": [
+            "https://www.samsung.com/sec/support/model/MLT-D111S/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samsungxpressm2022",
+      "brand": "SAMSUNG",
+      "model": "Xpress M2022",
+      "matches": [
+        {
+          "sku": "MAV-D111S",
+          "oemModels": [
+            "MLT-D111S"
+          ],
+          "sourceUrls": [
+            "https://www.samsung.com/sec/support/model/MLT-D111S/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samsungxpressm2022w",
+      "brand": "SAMSUNG",
+      "model": "Xpress M2022W",
+      "matches": [
+        {
+          "sku": "MAV-D111S",
+          "oemModels": [
+            "MLT-D111S"
+          ],
+          "sourceUrls": [
+            "https://www.samsung.com/sec/support/model/MLT-D111S/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samsungxpressm2026",
+      "brand": "SAMSUNG",
+      "model": "Xpress M2026",
+      "matches": [
+        {
+          "sku": "MAV-D111S",
+          "oemModels": [
+            "MLT-D111S"
+          ],
+          "sourceUrls": [
+            "https://www.samsung.com/sec/support/model/MLT-D111S/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samsungxpressm2026w",
+      "brand": "SAMSUNG",
+      "model": "Xpress M2026W",
+      "matches": [
+        {
+          "sku": "MAV-D111S",
+          "oemModels": [
+            "MLT-D111S"
+          ],
+          "sourceUrls": [
+            "https://www.samsung.com/sec/support/model/MLT-D111S/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samsungxpressm2070",
+      "brand": "SAMSUNG",
+      "model": "Xpress M2070",
+      "matches": [
+        {
+          "sku": "MAV-D111S",
+          "oemModels": [
+            "MLT-D111S"
+          ],
+          "sourceUrls": [
+            "https://www.samsung.com/sec/support/model/MLT-D111S/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samsungxpressm2070f",
+      "brand": "SAMSUNG",
+      "model": "Xpress M2070F",
+      "matches": [
+        {
+          "sku": "MAV-D111S",
+          "oemModels": [
+            "MLT-D111S"
+          ],
+          "sourceUrls": [
+            "https://www.samsung.com/sec/support/model/MLT-D111S/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samsungxpressm2070fw",
+      "brand": "SAMSUNG",
+      "model": "Xpress M2070FW",
+      "matches": [
+        {
+          "sku": "MAV-D111S",
+          "oemModels": [
+            "MLT-D111S"
+          ],
+          "sourceUrls": [
+            "https://www.samsung.com/sec/support/model/MLT-D111S/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samsungxpressm2070w",
+      "brand": "SAMSUNG",
+      "model": "Xpress M2070W",
+      "matches": [
+        {
+          "sku": "MAV-D111S",
+          "oemModels": [
+            "MLT-D111S"
+          ],
+          "sourceUrls": [
+            "https://www.samsung.com/sec/support/model/MLT-D111S/"
+          ]
+        }
+      ]
+    }
+  ]
+}
